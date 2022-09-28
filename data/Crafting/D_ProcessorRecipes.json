@@ -6177,7 +6177,7 @@
             "Requirement": {
                 "RowName": "Epoxy"
             },
-            "RequiredMillijoules": 1000,
+            "RequiredMillijoules": 2000,
             "RecipeSets": [
                 {
                     "RowName": "Mortar_And_Pestle",
@@ -6194,7 +6194,7 @@
                         "RowName": "Sulfur",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 20,
                     "DynamicProperties": []
                 },
                 {
@@ -6202,7 +6202,7 @@
                         "RowName": "Tree_Sap",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 15,
+                    "Count": 30,
                     "DynamicProperties": []
                 }
             ],
@@ -6212,7 +6212,7 @@
                         "RowName": "Epoxy",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 5,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
