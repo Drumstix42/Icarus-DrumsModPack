@@ -199,6 +199,7 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
+            "DensityMultiplier": 1.4,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineOxite"
