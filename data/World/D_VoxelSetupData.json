@@ -323,6 +323,7 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
+            "DensityMultiplier": 2,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineSilica"
@@ -343,7 +344,7 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
-            "DensityMultiplier": 2,
+            "DensityMultiplier": 4,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineSilica"
