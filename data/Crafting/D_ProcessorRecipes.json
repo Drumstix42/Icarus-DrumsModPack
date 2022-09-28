@@ -8252,7 +8252,7 @@
         },
         {
             "Name": "Tree_Sap",
-            "RequiredMillijoules": 250,
+            "RequiredMillijoules": 1800,
             "RecipeSets": [
                 {
                     "RowName": "Mortar_And_Pestle",
@@ -8269,7 +8269,7 @@
                         "RowName": "Stick",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 20,
                     "DynamicProperties": []
                 }
             ],
@@ -8279,7 +8279,7 @@
                         "RowName": "Tree_Sap",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 1,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
