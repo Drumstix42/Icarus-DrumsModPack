@@ -6337,6 +6337,7 @@
             "Requirement": {
                 "RowName": "Electronics"
             },
+            "RequiredMillijoules": 10000,
             "RecipeSets": [
                 {
                     "RowName": "Machining_Bench",
@@ -6349,7 +6350,7 @@
                         "RowName": "Refined_Gold",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 1,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -6357,7 +6358,7 @@
                         "RowName": "Refined_Copper",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 3,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -6365,7 +6366,7 @@
                         "RowName": "Organic_Resin",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 2,
+                    "Count": 10,
                     "DynamicProperties": []
                 },
                 {
@@ -6373,7 +6374,7 @@
                         "RowName": "Epoxy",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 2,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
@@ -6383,7 +6384,7 @@
                         "RowName": "Electronics",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 1,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
