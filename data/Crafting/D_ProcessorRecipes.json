@@ -8253,7 +8253,7 @@
         },
         {
             "Name": "Tree_Sap",
-            "RequiredMillijoules": 1800,
+            "RequiredMillijoules": 1500,
             "RecipeSets": [
                 {
                     "RowName": "Mortar_And_Pestle",
