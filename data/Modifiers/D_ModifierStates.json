@@ -2047,14 +2047,14 @@
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DampenedDebuff.Icon_DampenedDebuff'",
             "Type": "Debuff",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Underground-ModifierName\", \"Underground\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Underground-ModifierDescription\", \"In a damp, enclosed enviroment. Chance of pneumonia. Counter with a dehumidifier.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Underground-ModifierDescription\", \"In a damp, enclosed environment. Chance of pneumonia. Counter with a dehumidifier, or an antibiotic pill.\")",
             "AudioData": {
                 "RowName": "Generic_Negative_LongCoolDown"
             },
             "GrantedStats": {
                 "(Value=\"BaseHealthRegen_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": -25,
-                "(Value=\"BaseMaximumStamina_+%\")": -33
+                "(Value=\"BaseMaximumStamina_+%\")": -15
             },
             "bEscalates": true,
             "Escalation": {
@@ -2093,13 +2093,13 @@
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_PneumoniaDebuff.Icon_PneumoniaDebuff'",
             "Type": "Debuff",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Pneumonia-ModifierName\", \"Pneumonia\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Pneumonia-ModifierDescription\", \"Severe infection of the lungs. Slows health and stamina regeneration. Heals over time.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Pneumonia-ModifierDescription\", \"Severe infection of the lungs. Slows health regen and reduces maximum stamina. Heals over time.\")",
             "AudioData": {
                 "RowName": "Generic_Negative"
             },
             "GrantedStats": {
                 "(Value=\"BaseHealthRegen_+%\")": -50,
-                "(Value=\"BaseMaximumStamina_+%\")": -50,
+                "(Value=\"BaseMaximumStamina_+%\")": -25,
                 "(Value=\"BaseExperience_+%\")": -10
             },
             "ModifierTickRate": 60,

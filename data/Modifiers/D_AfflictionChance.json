@@ -69,8 +69,8 @@
             "ChanceStat": {
                 "Value": "PneumoniaResistance_%"
             },
-            "ChanceInPercent": 25,
-            "DurationInSeconds": 600
+            "ChanceInPercent": 15,
+            "DurationInSeconds": 180
         },
         {
             "Name": "Wound_Escalation",
