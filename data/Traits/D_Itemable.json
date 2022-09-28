@@ -8404,7 +8404,7 @@
             "Name": "Item_Saddle_Standard_Bag",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Standard_Bag-DisplayName\", \"Buffalo Pack Harness\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Saddle_Standard_Bag.ITEM_Saddle_Standard_Bag",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Standard_Bag-Description\", \"Place this harness inside a tamed Buffalo\\'s inventory to increase it\\'s carrying capacity. This harness cannot be used as a seat by players.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Standard_Bag-Description\", \"Place this harness inside a tamed Buffalo\\'s inventory to increase it\\'s carrying capacity (16 slots, 100 weight capacity). This harness cannot be used as a seat by players.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Standard_Bag-FlavorText\", \"Lending a helping hand, or hoof.\")",
             "Weight": 1500
         },
