@@ -8208,7 +8208,7 @@
         },
         {
             "Name": "Organic_Resin",
-            "RequiredMillijoules": 500,
+            "RequiredMillijoules": 2000,
             "RecipeSets": [
                 {
                     "RowName": "Mortar_And_Pestle",
@@ -8225,7 +8225,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 1,
+                    "Count": 10,
                     "DynamicProperties": []
                 },
                 {
@@ -8233,7 +8233,7 @@
                         "RowName": "Oxite",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 1,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
@@ -8243,7 +8243,7 @@
                         "RowName": "Organic_Resin",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 1,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
