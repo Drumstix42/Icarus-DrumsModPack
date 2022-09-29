@@ -116,6 +116,7 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
+            "DensityMultiplier": 1.100000023841858,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineBauxite"
@@ -402,6 +403,7 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
+            "DensityMultiplier": 1.100000023841858,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineTitanium"
@@ -422,6 +424,7 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
+            "DensityMultiplier": 1.100000023841858,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MinePlatinum"
