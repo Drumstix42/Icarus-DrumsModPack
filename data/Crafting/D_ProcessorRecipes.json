@@ -12897,7 +12897,7 @@
         },
         {
             "Name": "Titanium_Ingot",
-            "RequiredMillijoules": 100000,
+            "RequiredMillijoules": 30000,
             "RecipeSets": [
                 {
                     "RowName": "Concrete_Furnace",
@@ -12914,7 +12914,7 @@
                         "RowName": "Titanium_Ore",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 5,
+                    "Count": 2,
                     "DynamicProperties": []
                 }
             ],
@@ -12934,7 +12934,7 @@
         },
         {
             "Name": "Platinum_Ingot",
-            "RequiredMillijoules": 100000,
+            "RequiredMillijoules": 30000,
             "RecipeSets": [
                 {
                     "RowName": "Concrete_Furnace",
@@ -12951,7 +12951,7 @@
                         "RowName": "Platinum_Ore",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 5,
+                    "Count": 2,
                     "DynamicProperties": []
                 }
             ],
