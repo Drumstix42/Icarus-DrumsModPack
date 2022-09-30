@@ -966,7 +966,8 @@
         {
             "Name": "Pumpkin_Bread",
             "Stats": {
-                "(Value=\"BaseFoodRecovery_+\")": 150
+                "(Value=\"BaseFoodRecovery_+\")": 150,
+                "(Value=\"BaseHealthRecovery_+\")": 30
             },
             "Modifier": {
                 "Modifier": {
