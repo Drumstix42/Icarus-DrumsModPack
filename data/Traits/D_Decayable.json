@@ -35,7 +35,7 @@
         {
             "Name": "Decay_Raw_Prime_Meat",
             "DecayTime": 300,
-            "SpoilTime": 600,
+            "SpoilTime": 900,
             "SpoiledItem": {
                 "RowName": "Spoiled_Meat"
             }
@@ -43,7 +43,7 @@
         {
             "Name": "Decay_CookedMeat_Generic",
             "DecayTime": 300,
-            "SpoilTime": 1600,
+            "SpoilTime": 1800,
             "SpoiledItem": {
                 "RowName": "Spoiled_Meat"
             }
@@ -77,15 +77,15 @@
         },
         {
             "Name": "Decay_Arrow",
-            "DecayTime": 60
+            "DecayTime": 120
         },
         {
             "Name": "Decay_Spear",
-            "DecayTime": 120
+            "DecayTime": 300
         },
         {
             "Name": "Decay_Knife",
-            "DecayTime": 120
+            "DecayTime": 300
         },
         {
             "Name": "Decay_Coconut_Young",
@@ -110,7 +110,7 @@
         },
         {
             "Name": "Decay_Tree_Trunk",
-            "DecayTime": 600
+            "DecayTime": 300
         },
         {
             "Name": "Decay_Pack_Wolf_Carcass",
@@ -122,7 +122,7 @@
         },
         {
             "Name": "Decay_MetaItem",
-            "DecayTime": 1200
+            "DecayTime": 1800
         },
         {
             "Name": "Decay_Delivery_Object",
