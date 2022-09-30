@@ -3833,10 +3833,11 @@
             "Name": "Bread",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Food_Bread.ITEM_Food_Bread'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Bread-ModifierName\", \"Bread\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Bread-ModifierDescription\", \"Boosts stamina considerably.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Bread-ModifierDescription\", \"Boosts stamina and stamina regeneration considerably.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
                 "(Value=\"BaseMaximumStamina_+\")": 125,
+                "(Value=\"BaseStaminaRegen_+%\")": 100,
                 "(Value=\"BaseExperience_+%\")": 10
             },
             "ModifierLifetimeAffectors": [
