@@ -3302,7 +3302,7 @@
             "Requirement": {
                 "RowName": "Steel_Arrow"
             },
-            "RequiredMillijoules": 1500,
+            "RequiredMillijoules": 3500,
             "RecipeSets": [
                 {
                     "RowName": "Crafting_Bench",
@@ -6690,7 +6690,7 @@
             "Requirement": {
                 "RowName": "Aluminium_Arrow"
             },
-            "RequiredMillijoules": 1500,
+            "RequiredMillijoules": 3500,
             "RecipeSets": [
                 {
                     "RowName": "Machining_Bench",
@@ -6747,7 +6747,7 @@
             "Requirement": {
                 "RowName": "Carbon_Arrow"
             },
-            "RequiredMillijoules": 1500,
+            "RequiredMillijoules": 3500,
             "RecipeSets": [
                 {
                     "RowName": "Machining_Bench",
@@ -8472,7 +8472,7 @@
             "Requirement": {
                 "RowName": "Composite_Arrow"
             },
-            "RequiredMillijoules": 1500,
+            "RequiredMillijoules": 3500,
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
@@ -16111,7 +16111,7 @@
             "Requirement": {
                 "RowName": "Titanium_Arrow"
             },
-            "RequiredMillijoules": 1500,
+            "RequiredMillijoules": 3500,
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
