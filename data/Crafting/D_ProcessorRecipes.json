@@ -15382,7 +15382,7 @@
                         "RowName": "Aluminium",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 40,
+                    "Count": 20,
                     "DynamicProperties": []
                 },
                 {
@@ -15390,7 +15390,7 @@
                         "RowName": "Electronics",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 5,
                     "DynamicProperties": []
                 },
                 {
@@ -15406,7 +15406,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 12,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
@@ -18934,12 +18934,12 @@
                         "RowName": "Steel_Rebar",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 20,
                     "DynamicProperties": []
                 }
             ],
             "Refundable": "Block",
-            "ExperienceMultiplier": 0.20000000298023224,
+            "ExperienceMultiplier": 0.4,
             "Audio": {
                 "RowName": "MachiningBench"
             }
@@ -23629,7 +23629,7 @@
                         "RowName": "Ice",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 50,
+                    "Count": 25,
                     "DynamicProperties": []
                 },
                 {
