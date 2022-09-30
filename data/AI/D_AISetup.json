@@ -6498,13 +6498,13 @@
                     "MaxSwimSpeed": 1
                 },
                 "Jog": {
-                    "MaxWalkSpeed": 3.2300000190734863,
+                    "MaxWalkSpeed": 8,
                     "GroundFriction": 8,
                     "BrakingFriction": 2,
                     "MaxAcceleration": 300,
                     "BrakingDeceleration": 250,
                     "RotationRate": 90,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.5
                 },
                 "Run": {
                     "MaxWalkSpeed": 8,
@@ -6513,7 +6513,7 @@
                     "MaxAcceleration": 500,
                     "BrakingDeceleration": 450,
                     "RotationRate": 80,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.5
                 },
                 "Sprint": {
                     "MaxWalkSpeed": 8,
@@ -6522,7 +6522,7 @@
                     "MaxAcceleration": 1800,
                     "BrakingDeceleration": 500,
                     "RotationRate": 300,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.5
                 },
                 "Attacking": {
                     "MaxWalkSpeed": 8,
@@ -6531,7 +6531,7 @@
                     "MaxAcceleration": 450,
                     "BrakingDeceleration": 50000,
                     "RotationRate": 300,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.5
                 },
                 "Undefined": {
                     "MaxWalkSpeed": 3.2300000190734863,
@@ -7008,40 +7008,40 @@
                     "MaxSwimSpeed": 1
                 },
                 "Jog": {
-                    "MaxWalkSpeed": 3.9100000858306885,
+                    "MaxWalkSpeed": 9.5,
                     "GroundFriction": 8,
                     "BrakingFriction": 2,
                     "MaxAcceleration": 300,
                     "BrakingDeceleration": 400,
                     "RotationRate": 100,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 2
                 },
                 "Run": {
-                    "MaxWalkSpeed": 10,
+                    "MaxWalkSpeed": 9.5,
                     "GroundFriction": 8,
                     "BrakingFriction": 2,
                     "MaxAcceleration": 800,
                     "BrakingDeceleration": 900,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 2
                 },
                 "Sprint": {
-                    "MaxWalkSpeed": 10,
+                    "MaxWalkSpeed": 9.5,
                     "GroundFriction": 8,
                     "BrakingFriction": 2,
                     "MaxAcceleration": 900,
                     "BrakingDeceleration": 500,
                     "RotationRate": 150,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 2
                 },
                 "Attacking": {
-                    "MaxWalkSpeed": 10,
+                    "MaxWalkSpeed": 9.5,
                     "GroundFriction": 8,
                     "BrakingFriction": 64,
                     "MaxAcceleration": 900,
                     "BrakingDeceleration": 50000,
                     "RotationRate": 150,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 2
                 },
                 "Undefined": {
                     "MaxWalkSpeed": 1,

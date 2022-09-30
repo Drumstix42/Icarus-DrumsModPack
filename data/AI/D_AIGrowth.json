@@ -1201,7 +1201,7 @@
                 "(Value=\"BaseNPCChargeAttackCooldown_+\")": 10,
                 "(Value=\"CanNPCDamageVoxels_?\")": 0,
                 "(Value=\"BaseMiningRadius_+\")": 0,
-                "(Value=\"BaseMaximumStamina_+\")": 500,
+                "(Value=\"BaseMaximumStamina_+\")": 450,
                 "(Value=\"BaseStaminaRegenPerMinute_+\")": 3500,
                 "(Value=\"BaseStaminaRegenFromEmptyDelay_+\")": 3000,
                 "(Value=\"BaseStaminaRegenDelay_+\")": 1000,
