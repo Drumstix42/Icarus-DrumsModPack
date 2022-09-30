@@ -1388,7 +1388,8 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Bed_Bedroll.ITEM_Bed_Bedroll",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Bed_Bedroll-Description\", \"Once placed in shelter, a bed can be set as a respawn location. Can also be used to sleep through the night.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Bed_Bedroll-FlavorText\", \"\\'A bed is where the soul returns after a night\\'s travelling\\' ~ Russian folk saying\")",
-            "Weight": 1000
+            "Weight": 1000,
+            "MaxStack": 10
         },
         {
             "Name": "Item_Bed_Wood",
@@ -1452,7 +1453,8 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Farming_CropPlot.ITEM_Farming_CropPlot",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Farming_CropPlot_T2-Description\", \"A general-purpose planter bed for your crops Fully-grown crops left too long will eventually wither and only provide spoiled plants..\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Farming_CropPlot_T2-FlavorText\", \"A raised planting bed brings the food to you, slowly.\")",
-            "Weight": 2000
+            "Weight": 2000,
+            "MaxStack": 10
         },
         {
             "Name": "Item_Farming_CropPlot_T3",
@@ -1460,7 +1462,8 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Farming_Metal.ITEM_Farming_Metal",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Farming_CropPlot_T3-Description\", \"A sturdy option for farming with water intake for faster crop growth. Fully-grown crops left too long will eventually wither and only provide spoiled plants.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Farming_CropPlot_T3-FlavorText\", \"Can be connected to a water network\")",
-            "Weight": 2000
+            "Weight": 2000,
+            "MaxStack": 10
         },
         {
             "Name": "Item_Farming_CropPlot_T4",
@@ -1468,14 +1471,16 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Farming_Hydroponic.ITEM_Farming_Hydroponic",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Farming_CropPlot_T4-Description\", \"An advanced option for the busy farmer. Supports inputs from both Power and Water networks for increased crop growth speed. Fully-grown crops left too long will eventually wither and only provide spoiled plants.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Farming_CropPlot_T4-FlavorText\", \"Can be connected to both a water and a power network\")",
-            "Weight": 2000
+            "Weight": 2000,
+            "MaxStack": 10
         },
         {
             "Name": "Item_Farming_CropPlot_T5",
             "DisplayName": "INVTEXT(\"[DNT] Advanced Crop Plot\")",
             "Description": "INVTEXT(\"[DNT] Water Connections, Electrical Connection, light and water. Fully-grown crops left too long will eventually wither and only provide spoiled plants.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Farming_CropPlot_T5-FlavorText\", \"The best money can buy\")",
-            "Weight": 2000
+            "Weight": 2000,
+            "MaxStack": 10
         },
         {
             "Name": "Item_Material_Processor",
@@ -2247,7 +2252,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_BeerBottle.ITEM_BeerBottle",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Glass_Bottle_Beer-Description\", \"A small, empty glass bottle. \")",
             "Weight": 500,
-            "MaxStack": 12
+            "MaxStack": 20
         },
         {
             "Name": "Item_Dev_Bug_Tool",
@@ -2285,7 +2290,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_WineBottle.ITEM_WineBottle",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Glass_Bottle_Wine-Description\", \"A large, empty glass bottle.\")",
             "Weight": 500,
-            "MaxStack": 12
+            "MaxStack": 20
         },
         {
             "Name": "Item_Thermos",
