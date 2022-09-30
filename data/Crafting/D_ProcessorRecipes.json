@@ -6747,7 +6747,7 @@
             "Requirement": {
                 "RowName": "Carbon_Arrow"
             },
-            "RequiredMillijoules": 250,
+            "RequiredMillijoules": 1500,
             "RecipeSets": [
                 {
                     "RowName": "Machining_Bench",
