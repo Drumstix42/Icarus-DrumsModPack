@@ -6225,7 +6225,7 @@
             "Requirement": {
                 "RowName": "Gunpowder"
             },
-            "RequiredMillijoules": 2000,
+            "RequiredMillijoules": 3500,
             "RecipeSets": [
                 {
                     "RowName": "Mortar_And_Pestle",
@@ -6242,7 +6242,7 @@
                         "RowName": "Sulfur",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 1,
+                    "Count": 5,
                     "DynamicProperties": []
                 },
                 {
@@ -6250,7 +6250,7 @@
                         "RowName": "Charcoal",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 3,
+                    "Count": 8,
                     "DynamicProperties": []
                 }
             ],
@@ -6260,7 +6260,7 @@
                         "RowName": "Gunpowder",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 1,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
@@ -16693,7 +16693,7 @@
                         "RowName": "Metal_Ore",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 4,
                     "DynamicProperties": []
                 },
                 {
@@ -16740,7 +16740,7 @@
                         "RowName": "Refined_Metal",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 3,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -16768,7 +16768,7 @@
         },
         {
             "Name": "Steel_Ingot",
-            "RequiredMillijoules": 15000,
+            "RequiredMillijoules": 12500,
             "RecipeSets": [
                 {
                     "RowName": "Concrete_Furnace",
