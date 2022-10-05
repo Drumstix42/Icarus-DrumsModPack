@@ -6,7 +6,7 @@
         "BlueprintPointsPerLevel": "None",
         "TalentPointsPerLevel": "None",
         "SoloPointsPerLevel": "None",
-        "MaxDisplayLevel": 50,
+        "MaxDisplayLevel": 1000,
         "MaxLevel": 50
     },
     "GenerateEnum": true,
