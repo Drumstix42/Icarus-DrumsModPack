@@ -2919,7 +2919,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Titanium_Ingot-Description\", \"Light, strong and extremely durable.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Titanium_Ingot-FlavorText\", \"Once thought to be forged by sad-eyed lemurs in the underground kingdom of Booyaka-Woot, this was conclusively disproved in the early 22nd century.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Platinum_Ingot",
@@ -5230,7 +5230,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pumpkin-Description\", \"A deep yellow squash cultivar.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pumpkin-FlavorText\", \"Ensuring that Halloween becomes a multi-planet holiday. Best cooked.\")",
             "Weight": 500,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Mushroom",
@@ -5257,7 +5257,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Watermelon-Description\", \"Mainly water and sugar.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Watermelon-FlavorText\", \"Icarus produces approximately 0.003% of humanity\\'s watermelons.\")",
             "Weight": 500,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Corn",
