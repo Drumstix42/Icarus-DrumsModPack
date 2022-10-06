@@ -3811,7 +3811,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Steel_Ingot-Description\", \"A medium-density ingot of carbon steel.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Steel_Ingot-FlavorText\", \"Stronger than iron, more elastic than rubber. Sometimes.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Steel_Bloom",
