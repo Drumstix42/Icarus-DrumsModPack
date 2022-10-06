@@ -18,7 +18,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fiber-Description\", \"A bundle of soft fiber, highly useful.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fiber-FlavorText\", \"Fiber is collected from bast, the strong inner bark of certain flowering plants.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 250
         },
         {
             "Name": "Item_Stone",
@@ -45,7 +45,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stick-Description\", \"Small branches, easily fashioned into basic tools.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Stick-FlavorText\", \"Whether making weapons or tools, a crafting bench or fuel, basic creation begins with the humble stick.\")",
             "Weight": 10,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Wood_Floor",
@@ -72,7 +72,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sulfur-Description\", \"A common, flammable ingredient for torches and gunpowder.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sulfur-FlavorText\", \"The tenth most common element in the universe, sulfur is essential for life, but also death, through its many different modes of incineration.\")",
             "Weight": 400,
-            "MaxStack": 50
+            "MaxStack": 100
         },
         {
             "Name": "Item_Campfire",
@@ -163,7 +163,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Berry-Description\", \"Berries will satisfy hunger, hydrate slightly, and extend endurance, but not for long.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Berry-FlavorText\", \"The intrepid prospector may also ferment wine, trusting that the quality of the resulting beverage is less important than the sheer fact of its existence.\")",
             "Weight": 10,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Waterskin",
@@ -224,7 +224,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Refined_Metal-Description\", \"A refined ingot of iron.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Refined_Metal-FlavorText\", \"Iron may corode, but its ease of production makes it an ideal material on Icarus.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Copper_Ore",
@@ -242,7 +242,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Refined_Copper-Description\", \"A pure ingot of copper, humanity\\'s first metal.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Refined_Copper-FlavorText\", \"Easily worked, readily alloyed, a highly useful material for everything from weaponry to basic electronics.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Gold_Ore",
@@ -260,7 +260,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Refined_Gold-Description\", \"A cold, golden ingot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Refined_Gold-FlavorText\", \"The existence of exotics on Icarus has demoted gold to the status of a useful, shiny metal.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Bauxite",
@@ -277,7 +277,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Aluminium-Description\", \"A lightweight and easily milled ingot of aluminium.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Aluminium-FlavorText\", \"\\'I don\\'t have aluminium foil on my windows any more.\\' - Rick James\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Silica",
@@ -286,7 +286,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Silica-Description\", \"A key ingredient in concrete, glass and many other materials.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Silica-FlavorText\", \"The Silicon Age on Icarus is yet to arrive.\")",
             "Weight": 400,
-            "MaxStack": 50
+            "MaxStack": 100
         },
         {
             "Name": "Item_Glass",
@@ -295,7 +295,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Glass-Description\", \"Despite its imperfections, a workable sheet of glass.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Glass-FlavorText\", \"Reflected in a sheet of glass is a simple fact: What looks familiar, is in fact a crystalline lattice unlike anything on Earth.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Kit_Water_Barrel",
@@ -327,7 +327,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Raw_Meat-Description\", \"Meat from a recently killed animal, worth cooking first.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Raw_Meat-FlavorText\", \"Transplanted from Earth, a range of genetically modified animals thrive in the terrazone, providing an energy-dense food source.\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Meat",
@@ -336,7 +336,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Meat-Description\", \"Can be eaten to satisfy hunger.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Meat-FlavorText\", \"Cooked meat is easier to digest and provides more nutrition than raw flesh.\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Spoiled_Meat",
@@ -354,7 +354,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Tree_Sap-Description\", \"A natural adhesive used in concrete and epoxy.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Tree_Sap-FlavorText\", \"Whether you subscribe to the cohesion-tension or multiforce theories of sap transport, osmotic pressure gradients or axial potentials, it makes no difference to how useful it is.\")",
             "Weight": 10,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Leather",
@@ -398,7 +398,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Oxite-Description\", \"Can be refined into breathable oxygen.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Oxite-FlavorText\", \"A stable water-oxygen matrix, oxite slowly decomposes when exposed to the atmosphere of Icarus.\")",
             "Weight": 400,
-            "MaxStack": 50
+            "MaxStack": 100
         },
         {
             "Name": "Item_Mission_Research2_Abyssal_Oxite",
@@ -416,7 +416,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rope-Description\", \"Remains one of humanity\\'s greatest inventions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rope-FlavorText\", \"A central element in crafting various construction materials and equipment.\")",
             "Weight": 10,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Epoxy",
@@ -676,7 +676,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_MetaResource-Description\", \"Exotic matter, an impossibility in your hands.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_MetaResource-FlavorText\", \"Previously believed to exist only in the heart of stars, the most common form of exotics, elanthium, has permitted extraordinary leaps in low temperature super conductors and high-density power storage.\")",
             "Weight": 500,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Kit_Radar",
@@ -692,7 +692,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_CarbonFibre.ITEM_CarbonFibre",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carbon_Fiber-Description\", \"A lightweight, flexible construction material with high tensile strength.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Carbon_Paste",
@@ -701,7 +701,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carbon_Paste-Description\", \"A carbon-based admixture used in advanced constructions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carbon_Paste-FlavorText\", \"Don\\'t leave Earth without it.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Composite_Paste",
@@ -709,7 +709,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_Composite_Paste.ITEM_Composite_Paste",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Composite_Paste-Description\", \"A high grade ferro-organic precursor.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Composites",
@@ -717,7 +717,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_Composite.ITEM_Composite",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Composites-Description\", \"An extremely strong, light and endurant construction material.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Stone_Pickaxe",
@@ -1187,7 +1187,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_Flour.ITEM_Flour",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Flour-Description\", \"Ground wheat, ready for cooking.\")",
             "Weight": 25,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Wheat",
@@ -1196,7 +1196,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wheat-Description\", \"Process into flour using the mortar and pestle, or add direct to composter.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wheat-FlavorText\", \"An essential ingredient to basic foods and drinks. Whether baking bread or brewing beer, wheat is where it all begins.\")",
             "Weight": 25,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Concrete_Floor",
@@ -1553,7 +1553,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Raw_Fish-Description\", \"Will nourish, but better if cooked.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Raw_Fish-FlavorText\", \"Salmon and trout required only slight genetic adjustment to thrive in the waterways of Icarus.\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Fish",
@@ -1561,7 +1561,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Cooked_Fish.ITEM_Cooked_Fish",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Fish-Description\", \"Nourishing, high in protein.\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Wood_Rag_Torch",
@@ -1950,7 +1950,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Reed_Flower-Description\", \"A wildflower reputed to have medicinal properties.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Reed_Flower-FlavorText\", \"Transplanting this reed to alien soil has altered its bioactive properties considerably.\")",
             "Weight": 10,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Canteen_Lightweight",
@@ -2192,7 +2192,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Yeast-Description\", \"A sugary herb, rich in natural yeasts. Add to a cooking \")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Yeast-FlavorText\", \"Technically a fungus, yeast is a unicellular microbe of the genus Saccharomyces, seemingly unaffected by Icarus\\'s toxic atmosphere. Add to mortar and pestle with flour and water from a container to make dough.\")",
             "Weight": 10,
-            "MaxStack": 100
+            "MaxStack": 250
         },
         {
             "Name": "Item_Bread",
@@ -2235,7 +2235,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Beer-Description\", \"Proving you can brew beer from just about anything.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Beer-FlavorText\", \"Warms the body, soothes the soul, increases regeneration rates.\")",
             "Weight": 500,
-            "MaxStack": 12
+            "MaxStack": 20
         },
         {
             "Name": "Item_Wine",
@@ -2244,7 +2244,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wine-Description\", \"One of humanity\\'s oldest inventions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wine-FlavorText\", \"You\\'re four billion kilometers from Earth, but some things never change. Wine stops the pain, increases stamina and health regen.\")",
             "Weight": 500,
-            "MaxStack": 12
+            "MaxStack": 20
         },
         {
             "Name": "Item_Glass_Bottle_Beer",
@@ -2846,7 +2846,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Bandage_Basic-Description\", \"Cloth bandages to stem bleeding and heal minor wounds.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Bandage_Basic-FlavorText\", \"The healing won\\'t start until the bleeding stops.\")",
             "Weight": 100,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Faction_Body",
@@ -2928,7 +2928,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Platinum_Ingot-Description\", \"An inert and corrosion-resistant metal, perfect for electronics.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Platinum_Ingot-FlavorText\", \"Enough platinum to found a small kingdom, were you on Earth.\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Interior_Wood_Beam",
@@ -3694,7 +3694,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Raw_Prime_Meat-Description\", \"HIgh quality meat, though quick to spoil.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Raw_Prime_Meat-FlavorText\", \"The last word in Icarus cuisine, when properly cooked, though requires refrigeration soon after killing or will spoil.\")",
             "Weight": 100,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Prime_Meat",
@@ -3703,7 +3703,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Prime_Meat-Description\", \"Energy dense, high quality cut.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Prime_Meat-FlavorText\", \"Cooked meat is easier to digest and provides more nutrition than raw flesh.\")",
             "Weight": 100,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Repair_Bench",
@@ -3728,7 +3728,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_WaterBomb-Description\", \"A thrown device for fire fighting.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_WaterBomb-FlavorText\", \"Woven from fiber, the water bomb allows fire suppression from a safe distance.\")",
             "Weight": 50,
-            "MaxStack": 5
+            "MaxStack": 10
         },
         {
             "Name": "Item_Coconut",
@@ -3885,7 +3885,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Suture_Kit-Description\", \"A basic medical kit for healing deep wounds.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Suture_Kit-FlavorText\", \"Whether lightly or deeply wounded, \\'Permit the pain to pass over you, and through you.\\' - Bao Li Wei\")",
             "Weight": 200,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antipoison",
@@ -3894,7 +3894,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison-Description\", \"A basic toxicology and anti-venom kit to combat poisoning.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison-FlavorText\", \"It\\'s speculated that exotics may suffuse much of the plant life in the terrazone, imparting bioactive properties, though exactly what these are, whether they\\'re safe, and exactly how it works ... at this stage, who knows?\")",
             "Weight": 200,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antiseptic",
@@ -3903,7 +3903,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiseptic-Description\", \"Heals food poisoning, infected wounds and bacterial infections like pneumonia.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiseptic-FlavorText\", \"Broad-spectrum, natural antibiotics that provide some ongoing protection against afflictions such as pnuemonia.\")",
             "Weight": 200,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antiparasitic",
@@ -3912,7 +3912,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparasitic-Description\", \"A powerful medical preparation for curing festering wounds.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparasitic-FlavorText\", \"From suppurating wounds to dysentery, this natural broad-spectrum antibiotic remedy cures it all.\")",
             "Weight": 200,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Blood_Thinner",
@@ -3921,7 +3921,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinner-Description\", \"A folk remedy for concussions and contusions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinner-FlavorText\", \"A very basic anticoagulant.\")",
             "Weight": 200,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Wood_Roof_Corner",
@@ -4134,7 +4134,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Polarbear_Pelt-Description\", \"A fur hide from the largest known carnivore on two planets.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Polarbear_Pelt-FlavorText\", \"An unparalleled hunter, able to smell its prey from over a mile away, the polar bear has only one natural enemy: you.\")",
             "Weight": 500,
-            "MaxStack": 50
+            "MaxStack": 100
         },
         {
             "Name": "Item_Polarbear_Head_Armor",
@@ -4314,7 +4314,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antibiotic_Paste-Description\", \"Reduces the effects of food poisoning, and other low grade infections.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antibiotic_Paste-FlavorText\", \"A natural antibacterial agent that diminishes the impact of afflictions such as infected wounds and pnuemonia.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antiparasitic_Paste",
@@ -4323,7 +4323,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparasitic_Paste-Description\", \"A medical preparation for reducing the effects of festering wounds.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparasitic_Paste-FlavorText\", \"From the very first, newcomers to Icarus noted the medicinal and bioactive properties of Earth-type plants were significantly more intense.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antipoison_Paste",
@@ -4332,7 +4332,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison_Paste-Description\", \"A basic toxicology and anti-venom kit to reduce the effects of poisoning.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison_Paste-FlavorText\", \"It\\'s speculated that exotics may suffuse much of the plant life in the terrazone, imparting bioactive properties, though exactly what these are, whether they\\'re safe, and exactly how it works ... at this stage, who knows?\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Blood_Thinning_Paste",
@@ -4341,7 +4341,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinning_Paste-Description\", \"A folk remedy for diminishing the effects of concussions and contusions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinning_Paste-FlavorText\", \"A very basic anticoagulant.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antibiotic_Tonic",
@@ -4350,7 +4350,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antibiotic_Tonic-Description\", \"An antibacterial distillation that cures food poisoning, wound infections and afflictions like pneumonia.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antibiotic_Tonic-FlavorText\", \"The interaction between bioactive substances and microbial life here on Icarus is still poorly understood, especially when one factors in the effects of exotic matter to both.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antiparasitic_Tonic",
@@ -4359,7 +4359,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparasitic_Tonic-Description\", \"A medicinal preparation for curing festering wounds.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparasitic_Tonic-FlavorText\", \"From suppurating wounds to dysentery, this natural broad-spectrum antibiotic remedy cures it all.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antipoison_Tonic",
@@ -4368,7 +4368,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison_Tonic-Description\", \"Fast-working anti-venom to combat poisoning.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison_Tonic-FlavorText\", \"Of the many ways to die on Icarus, poisoning is perhaps the least glorious.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Blood_Thinning_Tonic",
@@ -4377,7 +4377,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinning_Tonic-Description\", \"An effective remedy for relieving concussions and contusions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinning_Tonic-FlavorText\", \"Voyagers to Icarus have found themselves forced to ressurect a range of folk treatments and traditional medicines.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antibiotic_Pill",
@@ -4386,7 +4386,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antibiotic_Pill-Description\", \"A broad-spectrum antibacterial agent, protecting against food poisoning, wound infections and pneumonia.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antibiotic_Pill-FlavorText\", \"While not quite invincible, your susceptibility to microbial takeover will temporarily reach an all-time low.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antiparastic_Pill",
@@ -4395,7 +4395,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparastic_Pill-Description\", \"A potent antibacterial preparation for preventing festering wounds.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antiparastic_Pill-FlavorText\", \"Flooding your body with antibiotics is a double-edged sword, but if it stops you needing to use the word \\'festering\\' to describe part of your body, it\\'s worth it.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Antipoison_Pill",
@@ -4404,7 +4404,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison_Pill-Description\", \"An long-acting anti-venom to prevent poisoning.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Antipoison_Pill-FlavorText\", \"Ingest and ignore the risks.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Blood_Thinning_Pill",
@@ -4413,7 +4413,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinning_Pill-Description\", \"A potent preventative for concussions and contusions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Blood_Thinning_Pill-FlavorText\", \"Off-label and off-planet, this one doesn\\'t come with any warnings. So it\\'s probably safe.\")",
             "Weight": 250,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Platinum_Spear",
@@ -4446,7 +4446,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandworm_Scale-Description\", \"A titan\\'s cast-off armor.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandworm_Scale-FlavorText\", \"When held in the hand, fresh from the worm\\'s body, the scale gently vibrated. Slowly, this motion drained away, leaving only a flake of light, hugely strong armor.\")",
             "Weight": 1000,
-            "MaxStack": 5
+            "MaxStack": 50
         },
         {
             "Name": "Item_Platinum_Sickle",
@@ -5266,7 +5266,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Corn-Description\", \"Grilled to perfection, depending on your standards.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Corn-FlavorText\", \"A source of fuel for humans, animals and machines alike.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Pumpkin",
@@ -5275,7 +5275,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Pumpkin-Description\", \"Lightly charred, fairly delicious.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Pumpkin-FlavorText\", \"The pumpkins natural beta-carotene improves endurance.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Squash",
@@ -5284,7 +5284,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Squash-Description\", \"Like roast pumpkin, boasting a similar flavor and most of the same effects.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Squash-FlavorText\", \"Boosts stamina, if not the will to live.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Carrot",
@@ -5293,7 +5293,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Carrot-Description\", \"New planet, new rules.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Carrot-FlavorText\", \"Boosts stamina slightly, may prompt angst.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Cooked_Mushroom",
@@ -5302,7 +5302,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Mushroom-Description\", \"Lightly fried fungus.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Mushroom-FlavorText\", \"Mushrooms are notably the only lifeform introduced from Earth that required no genetic adjustment whatsoever.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Corn_Soup",
@@ -5311,7 +5311,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Corn_Soup-Description\", \"A classic dish, even without shredded chicken.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Corn_Soup-FlavorText\", \"Boosts stamina and improves endurance. Drains nostalgia.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Fruit_Salad",
@@ -5320,7 +5320,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fruit_Salad-Description\", \"An all-natural, surprisingly delicious melon-berry mix, boosts stamina and health.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fruit_Salad-FlavorText\", \"A divisive desert, loved or hated, and very little in between.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Mushroom_Soup",
@@ -5329,7 +5329,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mushroom_Soup-Description\", \"A passable impression of a classic dish.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mushroom_Soup-FlavorText\", \"While some critics regard this meal as pointless if made without butter, purists do not last long on Icarus.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Wild_Salad",
@@ -5338,7 +5338,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wild_Salad-Description\", \"Mixed pieces of squash and pumpkin at room temperature.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wild_Salad-FlavorText\", \"At home among the stars, yet no closer to answering the age old question: \\'What is a salad, exactly?\\'\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Meat_Stew",
@@ -5347,7 +5347,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meat_Stew-Description\", \"A rich, nourishing casserole.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meat_Stew-FlavorText\", \"Some foods profit from rustic conditions. Boosts health, lifts stamina.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Fried_Soy_Beans",
@@ -5356,7 +5356,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fried_Soy_Beans-Description\", \"Boosts health, lifts stamina, enhances self-satisfaction.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fried_Soy_Beans-FlavorText\", \"One of the original crops intended to sustain humanity on its first new extra-solar world.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Fish_Dish",
@@ -5365,7 +5365,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fish_Dish-Description\", \"A simple curry with a large health boost.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fish_Dish-FlavorText\", \"Not the best fish curry in the galaxy, but far from the worst.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Creamed_Corn",
@@ -5374,7 +5374,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Creamed_Corn-Description\", \"Pureed corn, animal fat and water, easy to digest.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Creamed_Corn-FlavorText\", \"Slow release energy with a baby-food consistency, boosting health and stamina.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Roasted_Vegetables",
@@ -5383,7 +5383,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Roasted_Vegetables-Description\", \"A melange of cooked vegetables, provides a serious stamina boost.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Roasted_Vegetables-FlavorText\", \"MELANGE: n. \\\"a varied mixture\\\"\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Animal_Fat",
@@ -5392,7 +5392,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Fat-Description\", \"The next best thing to butter.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Fat-FlavorText\", \"A key ingredient in energy dense cooking, life on any world would be almost unliveable without some kind of lipid. \")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Pastry",
@@ -5401,7 +5401,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pastry-Description\", \"A simple but satisfying shortcrust pastry.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pastry-FlavorText\", \"\\'Icarus was only truly colonized when we began making pastry on that planet\\' - Jacques Merrida\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Fruit_Pie",
@@ -5410,7 +5410,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fruit_Pie-Description\", \"Watermelon plus berries and pastry creates a passable, stamina boosting pie.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fruit_Pie-FlavorText\", \"Watermelons invite experimental cookery.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Meat_Pie",
@@ -5419,7 +5419,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meat_Pie-Description\", \"A rustic pie that delivers a big health boost.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meat_Pie-FlavorText\", \"\\\"Stress cannot exist in the presence of a pie.\\\" - David Mamet\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Vegetable_Pie",
@@ -5428,7 +5428,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Vegetable_Pie-Description\", \"Warm, health-giving, stamina-boosting - virtue in every pie.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Vegetable_Pie-FlavorText\", \"If this pie had a slogan, it might be \\'Stay delicious\\'.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 20
         },
         {
             "Name": "Item_Pumpkin_Bread",
@@ -5437,7 +5437,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pumpkin_Bread-Description\", \"A noticeably yellow loaf that significantly increases endurance.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pumpkin_Bread-FlavorText\", \"Just like \\'someone\\' used to make.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Crumbed_Fish_Fillet",
@@ -5446,7 +5446,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Crumbed_Fish_Fillet-Description\", \"Battered in breadcrumbs, lightly fried, boosts health and stamina.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Crumbed_Fish_Fillet-FlavorText\", \"Bread meets fish.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Pickled_Carrot",
@@ -5455,7 +5455,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pickled_Carrot-Description\", \"An acquired taste, boosts stamina.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pickled_Carrot-FlavorText\", \"Like many other ancient ways, pickling has found a place on Icarus.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Chemistry_Bench",
@@ -5546,7 +5546,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cocoa-Description\", \"Fruit of the cocoa tree.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cocoa-FlavorText\", \"Mesoamerica\\'s second greatest export.\")",
             "Weight": 100,
-            "MaxStack": 100
+            "MaxStack": 500
         },
         {
             "Name": "Item_Coffee",
@@ -5555,7 +5555,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Coffee-Description\", \"Seed of the coffee plant.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Coffee-FlavorText\", \"Humanity was never going to last long in Icarus without it.\")",
             "Weight": 100,
-            "MaxStack": 100
+            "MaxStack": 500
         },
         {
             "Name": "Item_GreenTea",
@@ -5564,7 +5564,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GreenTea-Description\", \"Unprocessed leaves from a variant of the common tea tree.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GreenTea-FlavorText\", \"Empires were built on less.\")",
             "Weight": 50,
-            "MaxStack": 100
+            "MaxStack": 500
         },
         {
             "Name": "Item_WildTea",
@@ -5573,7 +5573,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_WildTea-Description\", \"Gorse flowers, can be turned into a warming drink.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_WildTea-FlavorText\", \"Whether invited or not, gorse followed humanity to Icarus.\")",
             "Weight": 50,
-            "MaxStack": 100
+            "MaxStack": 500
         },
         {
             "Name": "Item_Meta_Antibiotic_Vaccine_Alpha",
@@ -5864,7 +5864,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Poisoned_Bait-Description\", \"A poison-laced animal lure.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Poisoned_Bait-FlavorText\", \"Keep away from pets and children.\")",
             "Weight": 50,
-            "MaxStack": 5
+            "MaxStack": 50
         },
         {
             "Name": "Item_Wood_Cupboard_Small",
@@ -6404,7 +6404,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertilizer-Description\", \"Provides a small bonus to growth speed and crop yield\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertilizer-FlavorText\", \"A simple way to increase your harvest\")",
             "Weight": 2000,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Yield_Fertilizer",
@@ -6413,7 +6413,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Yield_Fertilizer-Description\", \"Increases the yield of your crops\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Yield_Fertilizer-FlavorText\", \"Fertilizer is a multivitamin for your plants\")",
             "Weight": 2000,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Speed_Fertilizer",
@@ -6422,7 +6422,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Speed_Fertilizer-Description\", \"Helps your crops to grow faster\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Speed_Fertilizer-FlavorText\", \"Reach for the sky\")",
             "Weight": 2000,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Spoiled_Plants",
@@ -6456,7 +6456,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak-Description\", \"A giant steak from the belly of only the largest creatures.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak-FlavorText\", \"This should keep you going for a while\")",
             "Weight": 1000,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Giant_Steak_Dried",
@@ -6465,7 +6465,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak_Dried-Description\", \"A large dried piece of meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak_Dried-FlavorText\", \"A tough, chewy snack\")",
             "Weight": 1000,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Giant_Steak_Cooked",
@@ -6474,7 +6474,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak_Cooked-Description\", \"A prime cut from the larger beasts\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak_Cooked-FlavorText\", \"A hard won prize\")",
             "Weight": 1000,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Fatty_Tbone",
@@ -6483,7 +6483,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone-Description\", \"The largest of steaks can typically only be found in the largest of creatures\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone-FlavorText\", \"Calories don\\'t count on Icarus\")",
             "Weight": 500,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Fatty_Tbone_Dried",
@@ -6492,7 +6492,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone_Dried-Description\", \"A large, fatty piece of dried meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone_Dried-FlavorText\", \"A tough, chewy snack\")",
             "Weight": 500,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Fatty_Tbone_Cooked",
@@ -6501,7 +6501,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone_Cooked-Description\", \"A fiercely won, delicious steak dinner\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone_Cooked-FlavorText\", \"Gourmet food, Icarus style\")",
             "Weight": 500,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Gamey_Meat",
@@ -6510,7 +6510,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat-Description\", \"Raw gamey meat, typically found amongst the more passive wildlife\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat-FlavorText\", \"Slimy, yet satisfying\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Gamey_Meat_Dried",
@@ -6519,7 +6519,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat_Dried-Description\", \"A plain piece of dried meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat_Dried-FlavorText\", \"A tough, chewy snack\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Gamey_Meat_Cooked",
@@ -6528,7 +6528,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat_Cooked-Description\", \"A reasonably well cooked piece of meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat_Cooked-FlavorText\", \"Pungent but still edible\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Stringy_Meat",
@@ -6537,7 +6537,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat-Description\", \"Stringy meat, typically found in fast, predatory creatures\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat-FlavorText\", \"An adequate meal\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Stringy_Meat_Dried",
@@ -6546,7 +6546,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat_Dried-Description\", \"A plain piece of dried meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat_Dried-FlavorText\", \"A tough, chewy snack\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Stringy_Meat_Cooked",
@@ -6555,7 +6555,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat_Cooked-Description\", \"A tough, sinewy steak\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat_Cooked-FlavorText\", \"Get your revenge on those pesky wolves\")",
             "Weight": 250,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Soft_Meat",
@@ -6564,7 +6564,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat-Description\", \"A soft, supple meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat-FlavorText\", \"Tastes like guilt, doesn\\'t it?\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Soft_Meat_Dried",
@@ -6573,7 +6573,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat_Dried-Description\", \"A plain piece of dried meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat_Dried-FlavorText\", \"A tough, chewy snack\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Soft_Meat_Cooked",
@@ -6582,7 +6582,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat_Cooked-Description\", \"A wonderfully soft piece of meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat_Cooked-FlavorText\", \"Seasoned with tears\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_White_Meat",
@@ -6591,7 +6591,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat-Description\", \"A small cut of white meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat-FlavorText\", \"Be careful of the bones\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_White_Meat_Dried",
@@ -6600,7 +6600,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat_Dried-Description\", \"A plain piece of dried meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat_Dried-FlavorText\", \"A tough, chewy snack\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_White_Meat_Cooked",
@@ -6609,7 +6609,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat_Cooked-Description\", \"A slightly overcooked piece of meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat_Cooked-FlavorText\", \"Tastes like chicken\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Raw_Bacon",
@@ -6645,7 +6645,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Caveworm_Scale-Description\", \"A tough, durable scale\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Caveworm_Scale-FlavorText\", \"An item with endless uses\")",
             "Weight": 1000,
-            "MaxStack": 25
+            "MaxStack": 50
         },
         {
             "Name": "Item_Poison_Sack",
@@ -6654,7 +6654,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Poison_Sack-Description\", \"A slightly squishy organ harvested from native creatures\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Poison_Sack-FlavorText\", \"Handle with care\")",
             "Weight": 1000,
-            "MaxStack": 25
+            "MaxStack": 50
         },
         {
             "Name": "Faction_Mission_Mammoth_Sample",
@@ -6728,7 +6728,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Bandage_Cooling.ITEM_Bandage_Cooling",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Bandage_Cooling-Description\", \"A bandage with a soothing balm to quickly lower temperatures\")",
             "Weight": 100,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Meta_Axe_Larkwell",
@@ -6961,7 +6961,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Scorpion_Pincer-Description\", \"A pincer taken from the body of a slain Scorpion\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Scorpion_Pincer-FlavorText\", \"Keep your fingers and toes clear at all times\")",
             "Weight": 1000,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Scorpion_Tail",
@@ -6970,7 +6970,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Scorpion_Tail-Description\", \"A dangerous prize taken from a deadly foe\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Scorpion_Tail-FlavorText\", \"Did that just.. twitch?\")",
             "Weight": 1000,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Carcass_Crocodile",
@@ -7123,7 +7123,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Repair_Item-Description\", \"A kit that can repair most workshop items at a Machining Bench or Fabricator.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Repair_Item-FlavorText\", \"If you break it, buy this.\")",
             "Weight": 500,
-            "MaxStack": 10
+            "MaxStack": 50
         },
         {
             "Name": "Item_Meta_Repair_Item_Pack",
@@ -7452,7 +7452,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Scorpion_Carapace-Description\", \"A remnant of a great beast.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Scorpion_Carapace-FlavorText\", \"A flake of light, but fairly strong armor.\")",
             "Weight": 1000,
-            "MaxStack": 5
+            "MaxStack": 50
         },
         {
             "Name": "Item_Prototype_Boss_Tracker",
@@ -7579,7 +7579,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Digested_Enzymes-Description\", \"Partially Digested Enzymes taken from the Stomach of Icarus Wildlife.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Digested_Enzymes-FlavorText\", \"Covered in stomach acid.\")",
             "Weight": 200,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Mission_Power_Source",
@@ -7878,7 +7878,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Black_Wolf_Tooth-Description\", \"A razor sharp canine pulled from the mouth of a beast.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Black_Wolf_Tooth-FlavorText\", \"Handle with care, or lose a finger.\")",
             "Weight": 50,
-            "MaxStack": 20
+            "MaxStack": 50
         },
         {
             "Name": "Item_Target_Dummy",
@@ -8329,7 +8329,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Projectiles/ITEM_Meta_Bolt_Larkwell_Standard.ITEM_Meta_Bolt_Larkwell_Standard",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Tranquilizer_Bolt-Description\", \"A crossbow bolt specially designed to tranquilize wild creatures and start the taming process.\")",
             "Weight": 125,
-            "MaxStack": 10
+            "MaxStack": 100
         },
         {
             "Name": "Item_Advanced_Armor_Bench",
