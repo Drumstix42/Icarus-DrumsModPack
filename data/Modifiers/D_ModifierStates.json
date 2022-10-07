@@ -1246,11 +1246,11 @@
             "Name": "GrantedAura_ReducedOxygenConsumption",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_OxygenConsumptionAura.Icon_OxygenConsumptionAura'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_ReducedOxygenConsumption-ModifierName\", \"Aura: Reduced Oxygen Consumption\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_ReducedOxygenConsumption-ModifierDescription\", \"Nearby allies\\' oxygen consumption is reduced.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_ReducedOxygenConsumption-ModifierDescription\", \"You and nearby allies\\' oxygen consumption is reduced.\")",
             "bAura": true,
             "AuraRange": 2000,
             "AuraFlags": {
-                "EffectsSelf": false
+                "EffectsSelf": true
             },
             "ModifierGrantedByAura": {
                 "RowName": "AuraEffect_ReducedOxygenConsumption"
@@ -1268,11 +1268,11 @@
             "Name": "GrantedAura_AdditionalPhysicalDamageMitigation",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DamageResAura.Icon_DamageResAura'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_AdditionalPhysicalDamageMitigation-ModifierName\", \"Aura: Reduced Physical Damage Taken\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_AdditionalPhysicalDamageMitigation-ModifierDescription\", \"Nearby allies receive additional physical damage resistance.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_AdditionalPhysicalDamageMitigation-ModifierDescription\", \"You and nearby allies receive additional physical damage resistance.\")",
             "bAura": true,
             "AuraRange": 500,
             "AuraFlags": {
-                "EffectsSelf": false
+                "EffectsSelf": true
             },
             "ModifierGrantedByAura": {
                 "RowName": "AuraEffect_AdditionalPhysicalDamageMitigation"
@@ -4570,11 +4570,11 @@
             "Name": "Weight_Reduction_Aura",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Weight_Reduction_Aura.Icon_Weight_Reduction_Aura'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Weight_Reduction_Aura-ModifierName\", \"Aura: Strength Boost\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Weight_Reduction_Aura-ModifierDescription\", \"Helps nearby prospectors to carry more. Does not apply to yourself.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Weight_Reduction_Aura-ModifierDescription\", \"You and nearby prospectors can carry more.\")",
             "bAura": true,
             "AuraRange": 1000,
             "AuraFlags": {
-                "EffectsSelf": false
+                "EffectsSelf": true
             },
             "ModifierGrantedByAura": {
                 "RowName": "Weight_Reduction"
@@ -4587,7 +4587,7 @@
             "Name": "Weight_Reduction",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Weight_Reduction.Icon_Weight_Reduction'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Weight_Reduction-ModifierName\", \"Strength Boost\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Weight_Reduction-ModifierDescription\", \"Granted by a helpful prospector nearby.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Weight_Reduction-ModifierDescription\", \"Granted by Strength Boost aura.\")",
             "GrantedStats": {
                 "(Value=\"BaseWeightCapacity_+%\")": 25
             },
@@ -4597,7 +4597,7 @@
             "Name": "Healing_Modifier_Duration",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Healing_Modifier_Aura.Icon_Healing_Modifier_Aura'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Healing_Modifier_Duration-ModifierName\", \"Healing Boost\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Healing_Modifier_Duration-ModifierDescription\", \"Granted by a helpful prospector nearby.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Healing_Modifier_Duration-ModifierDescription\", \"Granted by Healing Boost aura.\")",
             "GrantedStats": {
                 "(Value=\"BaseBacterialModifierDuration_+%\")": -30,
                 "(Value=\"BaseParasiticModifierDuration_+%\")": -30,
@@ -4616,11 +4616,11 @@
             "Name": "Healing_Modifier_Aura",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Healing_Modifier_Aura.Icon_Healing_Modifier_Aura'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Healing_Modifier_Aura-ModifierName\", \"Aura: Healing Boost\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Healing_Modifier_Aura-ModifierDescription\", \"Helps nearby prospectors to heal faster from afflictions. Does not apply to yourself.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Healing_Modifier_Aura-ModifierDescription\", \"Helps you and nearby prospectors to heal faster from afflictions.\")",
             "bAura": true,
             "AuraRange": 1000,
             "AuraFlags": {
-                "EffectsSelf": false
+                "EffectsSelf": true
             },
             "ModifierGrantedByAura": {
                 "RowName": "Healing_Modifier_Duration"
@@ -4728,11 +4728,11 @@
             "Name": "Boss_Reveal_Aura",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Healing_Modifier_Aura.Icon_Healing_Modifier_Aura'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Boss_Reveal_Aura-ModifierName\", \"Aura: Boss Reveal\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Boss_Reveal_Aura-ModifierDescription\", \"Shows Nearby Prospectors Large Dangerous creatures on the map. \")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Boss_Reveal_Aura-ModifierDescription\", \"Shows you and any nearby prospectors Large Dangerous creatures on the map. \")",
             "bAura": true,
             "AuraRange": 1500,
             "AuraFlags": {
-                "EffectsSelf": false
+                "EffectsSelf": true
             },
             "ModifierGrantedByAura": {
                 "RowName": "Boss_Reveal_Modifier"
