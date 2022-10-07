@@ -78,7 +78,7 @@
         {
             "Name": "Kit_Generator_Energy_Generator",
             "Resource": "Energy",
-            "GenerationRate": 5000,
+            "GenerationRate": 10000,
             "GenerationRatio": 7500,
             "TransmutableResources": [
                 "Fuel"
