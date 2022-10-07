@@ -144,6 +144,21 @@
             }
         },
         {
+            "Name": "Extractor_Electric",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Meta.Icon_Map_Meta'",
+            "ScaleFactor": 0.75,
+            "Color": {
+                "B": 0,
+                "G": 200,
+                "R": 255,
+                "A": 255
+            },
+            "RequiredActorStatToShow": {
+                "Value": "MapIsBroadcastingForMap_?"
+            }
+        },
+        {
             "Name": "MapProxyMammoth",
             "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
             "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Mammoth.Icon_Map_Mammoth'"
