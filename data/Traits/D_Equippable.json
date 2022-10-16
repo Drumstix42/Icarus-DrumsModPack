@@ -262,7 +262,7 @@
             "GrantedStats": {
                 "(Value=\"BaseMountCargoSlots_+\")": 16,
                 "(Value=\"IsSaddleCargoUseOnly_?\")": 1,
-                "(Value=\"BaseWeightCapacity_+\")": 100,
+                "(Value=\"BaseWeightCapacity_+\")": 300,
                 "(Value=\"BaseMaximumHealth_+\")": 200
             }
         }

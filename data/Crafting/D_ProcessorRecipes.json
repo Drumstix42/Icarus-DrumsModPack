@@ -33129,6 +33129,11 @@
                     "DataTableName": "D_RecipeSets"
                 }
             ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "SaddleCraftingCost_+%"
+                }
+            ],
             "Inputs": [
                 {
                     "Element": {
@@ -33184,6 +33189,11 @@
                     "DataTableName": "D_RecipeSets"
                 }
             ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "TamingEquipmentCraftingCost_+%"
+                }
+            ],
             "Inputs": [
                 {
                     "Element": {
@@ -33225,6 +33235,11 @@
                 {
                     "RowName": "Crafting_Bench",
                     "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "TamingEquipmentCraftingCost_+%"
                 }
             ],
             "Inputs": [
@@ -33276,6 +33291,11 @@
                 {
                     "RowName": "Crafting_Bench",
                     "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "TamingEquipmentCraftingCost_+%"
                 }
             ],
             "Inputs": [
@@ -33331,6 +33351,11 @@
                 {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "SaddleCraftingCost_+%"
                 }
             ],
             "Inputs": [
@@ -33404,6 +33429,57 @@
             ],
             "Audio": {
                 "RowName": "MortarPestle"
+            }
+        },
+        {
+            "Name": "Wood_Railing_Gate",
+            "Requirement": {
+                "RowName": "Wood_Railing"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Character",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Fiber",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Default"
             }
         }
     ]

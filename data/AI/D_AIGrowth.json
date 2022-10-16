@@ -1078,7 +1078,7 @@
                 "(Value=\"BaseMovementSpeed_+\")": 130,
                 "(Value=\"BaseSwimSpeed_+\")": 300,
                 "(Value=\"BaseMaximumHealth_+\")": 1000,
-                "(Value=\"BaseHealthRegenPerMinute_+\")": 10,
+                "(Value=\"BaseHealthRegenPerMinute_+\")": 60,
                 "(Value=\"BaseMinimumFallDamage_%\")": 1,
                 "(Value=\"BaseMaximumFallDamage_%\")": 100,
                 "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
@@ -1101,7 +1101,7 @@
                 "(Value=\"BaseStaminaRegenPerMinute_+\")": 2500,
                 "(Value=\"BaseStaminaRegenFromEmptyDelay_+\")": 4000,
                 "(Value=\"BaseStaminaRegenDelay_+\")": 2000,
-                "(Value=\"BaseWeightCapacity_+\")": 250,
+                "(Value=\"BaseWeightCapacity_+\")": 300,
                 "(Value=\"BaseMaximumOxygen_+\")": 300,
                 "(Value=\"BaseMaximumFood_+\")": 900,
                 "(Value=\"BaseMaximumWater_+\")": 900,
@@ -1274,6 +1274,42 @@
                 "(Value=\"BaseWaterConsumptionPerMinute_+\")": 0
             },
             "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_GenericExperience.C_GenericExperience'"
+        },
+        {
+            "Name": "RockDog",
+            "Base": {
+                "(Value=\"BaseSwimSpeed_+\")": 300,
+                "(Value=\"BaseHealthRegenPerMinute_+\")": 50,
+                "(Value=\"BaseMinimumFallDamage_%\")": 1,
+                "(Value=\"BaseMaximumFallDamage_%\")": 100,
+                "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+                "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+                "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+                "(Value=\"BaseAIPerceptionSightRadius_+\")": 4000,
+                "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 4500,
+                "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+                "(Value=\"BaseAIPerceptionSoundRadius_+\")": 1500,
+                "(Value=\"BaseCharacterMass_+\")": 600,
+                "(Value=\"BaseNPCAttackRadius_+\")": 400,
+                "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+                "(Value=\"CanNPCDamageVoxels_?\")": 1,
+                "(Value=\"BaseMiningRadius_+\")": 100,
+                "(Value=\"BaseHealthRegenDelay_+\")": 2,
+                "(Value=\"BaseSlowResistance_%\")": 33,
+                "(Value=\"BaseImmobiliseResistance_%\")": 33
+            },
+            "Health": "CurveFloat'/Game/Data/AI/C_RockDog_Health.C_RockDog_Health'",
+            "MeleeDamage": "CurveFloat'/Game/Data/AI/C_RockDog_MeleeDamage.C_RockDog_MeleeDamage'",
+            "MovementSpeed": "CurveFloat'/Game/Data/AI/C_RockDogMovementSpeed.C_RockDogMovementSpeed'",
+            "CustomStats": [
+                {
+                    "Stat": {
+                        "Value": "BaseAttacksCauseDeepWound_%"
+                    },
+                    "Curve": "CurveFloat'/Game/Data/AI/C_BeerDeepWoundChance.C_BeerDeepWoundChance'"
+                }
+            ],
+            "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_AggressiveExperience.C_AggressiveExperience'"
         }
     ]
 }
