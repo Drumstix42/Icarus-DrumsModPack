@@ -9612,7 +9612,7 @@
         {
             "Name": "Stalking_Base_Stamina",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-DisplayName\", \"Chase \\'em Down\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-Description\", \"Increase to base stamina. Thrown axes, knives, and spears are highlighted in the world.\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-Description\", \"Increase to base stamina. Thrown axes, knives, and spears are highlighted in the world (DrumsModPack). Grants access to Polar Bear armor recipes (DrumsModPack)\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Hunting/Talent_Hunting_ChaseEmDown.Talent_Hunting_ChaseEmDown",
             "TalentTree": {
                 "RowName": "Survival_Hunting"
@@ -9633,7 +9633,12 @@
                         "(Value=\"HighlightThrownAxe_?\")": 1,
                         "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 },
                 {
                     "GrantedStats": {
@@ -9642,7 +9647,12 @@
                         "(Value=\"HighlightThrownAxe_?\")": 1,
                         "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 },
                 {
                     "GrantedStats": {
@@ -9651,7 +9661,12 @@
                         "(Value=\"HighlightThrownAxe_?\")": 1,
                         "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 }
             ],
             "ForbiddenFlags": [
@@ -11661,7 +11676,7 @@
         {
             "Name": "Gathering_Polarbear_Recipe",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Gathering_Polarbear_Recipe-DisplayName\", \"Blueprint: Polar Bear Armor\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Gathering_Polarbear_Recipe-Description\", \"Grants access to Polar Bear Armor blueprints\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Gathering_Polarbear_Recipe-Description\", \"Grants access to Polar Bear Armor blueprints (Purchase the Chase \\'em Down talent instead - DrumsModPack\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Hunting/Talent_Hunting_PolarBearArmour.Talent_Hunting_PolarBearArmour",
             "TalentTree": {
                 "RowName": "Survival_Hunting"
@@ -11685,16 +11700,7 @@
                     ]
                 }
             ],
-            "RequiredTalents": [
-                {
-                    "RowName": "Stalking_Blueprint_Ghillie",
-                    "DataTableName": "D_Talents"
-                },
-                {
-                    "RowName": "Hunting_See_World_Boss",
-                    "DataTableName": "D_Talents"
-                }
-            ],
+            "RequiredTalents": [],
             "RequiredRank": {
                 "RowName": "Master"
             },
