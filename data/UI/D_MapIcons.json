@@ -349,7 +349,7 @@
         {
             "Name": "ExoticDeliveryShip",
             "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
-            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Dropship.Icon_Map_Dropship'",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DeliverShip.Icon_DeliverShip'",
             "Color": {
                 "B": 224,
                 "R": 245,
@@ -359,31 +359,74 @@
         {
             "Name": "RetrievalDeliveryShip",
             "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
-            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Dropship.Icon_Map_Dropship'",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DeliverShip.Icon_DeliverShip'",
             "Color": {
-                "B": 47,
-                "G": 103,
+                "B": 166,
+                "G": 153,
+                "R": 44,
                 "A": 255
             }
         },
         {
             "Name": "SupplyDeliveryShip",
             "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
-            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Dropship.Icon_Map_Dropship'",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DeliverShip.Icon_DeliverShip'",
             "Color": {
-                "B": 245,
-                "G": 186,
+                "G": 245,
+                "R": 44,
                 "A": 255
             }
         },
         {
             "Name": "RewardDeliveryShip",
             "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
-            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Dropship.Icon_Map_Dropship'",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DeliverShip.Icon_DeliverShip'",
             "Color": {
-                "B": 116,
-                "G": 195,
-                "R": 245,
+                "G": 121,
+                "R": 255,
+                "A": 255
+            }
+        },
+        {
+            "Name": "BossMapIcon",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Slaughter.Icon_Map_Slaughter'",
+            "Color": {
+                "R": 255,
+                "A": 255
+            },
+            "RequiredActorStatToShow": {
+                "Value": "CreatureDisplayBossMapIcon_?"
+            }
+        },
+        {
+            "Name": "DogTags",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Dogtags.Icon_Dogtags'",
+            "Color": {
+                "B": 91,
+                "G": 87,
+                "R": 87,
+                "A": 255
+            }
+        },
+        {
+            "Name": "Dyanmic_Mission_Beacon",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Waypoint.Icon_Map_Waypoint'",
+            "Color": {
+                "B": 255,
+                "G": 169,
+                "A": 255
+            }
+        },
+        {
+            "Name": "Downed_Drone",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_DownedDrone.Icon_DownedDrone'",
+            "Color": {
+                "G": 205,
+                "R": 255,
                 "A": 255
             }
         }

@@ -2469,7 +2469,7 @@
         },
         {
             "Name": "Antibiotic_Paste",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antipoison.ITEM_Antipoison'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antibiotic_Paste.ITEM_Antibiotic_Paste'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Antibiotic_Paste-ModifierName\", \"Antibiotic Paste\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Antibiotic_Paste-ModifierDescription\", \"Reduces the duration of infection, and gives small health buff.\")",
             "GrantedStats": {
@@ -2503,7 +2503,7 @@
         },
         {
             "Name": "Antparasitic_Paste",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antipoison.ITEM_Antipoison'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antiparasitic_Paste.ITEM_Antiparasitic_Paste'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Antparasitic_Paste-ModifierName\", \"Anti-parasitic Paste\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Antparasitic_Paste-ModifierDescription\", \"Reduces the duration of infection, and gives small health buff.\")",
             "GrantedStats": {
@@ -2537,7 +2537,7 @@
         },
         {
             "Name": "Antipoison_Paste",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antipoison.ITEM_Antipoison'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antipoison_Paste.ITEM_Antipoison_Paste'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Antipoison_Paste-ModifierName\", \"Anti-poison Paste\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Antipoison_Paste-ModifierDescription\", \"Reduces the duration of poisoning, and gives small health buff.\")",
             "GrantedStats": {
@@ -2571,7 +2571,7 @@
         },
         {
             "Name": "Blood_Thinning_Paste",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antipoison.ITEM_Antipoison'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Blood_Thinning_Paste.ITEM_Blood_Thinning_Paste'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Blood_Thinning_Paste-ModifierName\", \"Blood Thinning Paste\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Blood_Thinning_Paste-ModifierDescription\", \"Reduces duration of concussion, gives small health buff.\")",
             "GrantedStats": {
@@ -2605,7 +2605,7 @@
         },
         {
             "Name": "Antibiotic_Tonic",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antiparasitic.ITEM_Antiparasitic'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antibiotic_Tonic.ITEM_Antibiotic_Tonic'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Antibiotic_Tonic-ModifierName\", \"Antibiotic Tonic\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Antibiotic_Tonic-ModifierDescription\", \"Removes food poisoning, wound infections and pneumonia.\")",
             "MergeType": "Replace",
@@ -2635,7 +2635,7 @@
         },
         {
             "Name": "Antiparasitic_Tonic",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antiparasitic.ITEM_Antiparasitic'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antiparasitic_Tonic.ITEM_Antiparasitic_Tonic'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Antiparasitic_Tonic-ModifierName\", \"Anti-parasitic Tonic\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Antiparasitic_Tonic-ModifierDescription\", \"Removes festering infections.\")",
             "MergeType": "Replace",
@@ -2665,7 +2665,7 @@
         },
         {
             "Name": "Antipoison_Tonic",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antiparasitic.ITEM_Antiparasitic'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antipoison_Tonic.ITEM_Antipoison_Tonic'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Antipoison_Tonic-ModifierName\", \"Anti-poison Tonic\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Antipoison_Tonic-ModifierDescription\", \"Removes poisoning.\")",
             "MergeType": "Replace",
@@ -2695,7 +2695,7 @@
         },
         {
             "Name": "Blood_Thinning_Tonic",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antiparasitic.ITEM_Antiparasitic'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Blood_Thinning_Tonic.ITEM_Blood_Thinning_Tonic'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Blood_Thinning_Tonic-ModifierName\", \"Blood Thinning Tonic\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Blood_Thinning_Tonic-ModifierDescription\", \"Removes concussion and contusions.\")",
             "MergeType": "Replace",
@@ -3430,7 +3430,7 @@
         {
             "Name": "Cooked_Corn",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_CharredCorn.ITEM_CharredCorn'",
-            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Corn-ModifierName\", \"Cooked Corn\")",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Corn-ModifierName\", \"Charred Corn\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Corn-ModifierDescription\", \"Enhances stamina and improves endurance. \")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
@@ -3452,7 +3452,7 @@
         {
             "Name": "Cooked_Pumpkin",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_GrilledPumpkin.ITEM_GrilledPumpkin'",
-            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Pumpkin-ModifierName\", \"Cooked Pumpkin\")",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Pumpkin-ModifierName\", \"Grilled Pumpkin\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Pumpkin-ModifierDescription\", \"Boosts stamina and exposure resistance.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
@@ -3496,7 +3496,7 @@
         {
             "Name": "Cooked_Carrot",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_BarbequeCarrot.ITEM_BarbequeCarrot'",
-            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Carrot-ModifierName\", \"Cooked Carrot\")",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Carrot-ModifierName\", \"Barbeque Carrot\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Carrot-ModifierDescription\", \"Lifts stamina a little.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
@@ -3518,7 +3518,7 @@
         {
             "Name": "Cooked_Mushroom",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_SearedMushroom.ITEM_SearedMushroom'",
-            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Mushroom-ModifierName\", \"Cooked Mushroom\")",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Mushroom-ModifierName\", \"Seared Mushroom\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Mushroom-ModifierDescription\", \"Boosts health and stamina regeneration.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
@@ -3544,7 +3544,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Corn_Soup-ModifierDescription\", \"Boosts stamina and improve endurance noticeably.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
-                "(Value=\"BaseMaximumStamina_+\")": 75,
+                "(Value=\"BaseMaximumStamina_+\")": 100,
                 "(Value=\"BaseStaminaActionCost_+%\")": -20
             },
             "ModifierEffectivenessAffectors": [
@@ -3566,7 +3566,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Mushroom_Soup-ModifierDescription\", \"Boosts health and stamina regeneration.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
-                "(Value=\"BaseMaximumHealth_+\")": 75,
+                "(Value=\"BaseMaximumHealth_+\")": 100,
                 "(Value=\"BaseStaminaRegen_+%\")": 10
             },
             "ModifierEffectivenessAffectors": [
@@ -4294,7 +4294,7 @@
         },
         {
             "Name": "Cooked_Bacon",
-            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Bacon_Cooked.ITEM_Bacon_Cooked'",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Cooked_Bacon.ITEM_Cooked_Bacon'",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Bacon-ModifierName\", \"Cooked Bacon\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Bacon-ModifierDescription\", \"Increases experience gained, boosts health and stamina.\")",
             "GrantedStats": {
@@ -5090,6 +5090,343 @@
             "MergeType": "Stack",
             "MaxStackNum": 10,
             "bEffectsPlayers": false
+        },
+        {
+            "Name": "Enraged",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Enraged-ModifierName\", \"Enraged\")",
+            "ModifierDescription": "",
+            "VisibleToPlayer": false,
+            "Behaviour": "/Game/BP/Behaviours/Modifiers/BP_Modifier_Enraged.BP_Modifier_Enraged_C",
+            "ShouldTick": true,
+            "MergeType": "Replace",
+            "bEffectsPlayers": false,
+            "SaveToDatabase": false
+        },
+        {
+            "Name": "Cooked_Potato",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Potato-ModifierName\", \"Crispy Potato\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Potato-ModifierDescription\", \"Lifts stamina, reduces food need.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumStamina_+\")": 75,
+                "(Value=\"BaseFoodConsumption_+%\")": -10
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Cooked_Tomato",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Tomato-ModifierName\", \"Fried Tomato\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Tomato-ModifierDescription\", \"Lifts stamina, increases health regeneration.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumStamina_+\")": 75,
+                "(Value=\"BaseHealthRegen_+%\")": 10
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Hearty_Salad",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Hearty_Salad-ModifierName\", \"Hearty Salad\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Hearty_Salad-ModifierDescription\", \"Lifts health, stamina and health regen.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumHealth_+\")": 75,
+                "(Value=\"BaseMaximumStamina_+\")": 75,
+                "(Value=\"BaseHealthRegen_+%\")": 20
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Tomato_Soup",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Tomato_Soup-ModifierName\", \"Tomato Soup\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Tomato_Soup-ModifierDescription\", \"Boosts stamina and improve health regeneration noticeably.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumStamina_+\")": 100,
+                "(Value=\"BaseHealthRegen_+%\")": 20
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Picked_Tomato",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Picked_Tomato-ModifierName\", \"Pickled Tomato\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Picked_Tomato-ModifierDescription\", \"Boosts max stamina and health regeneration.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumStamina_+\")": 150,
+                "(Value=\"BaseHealthRegen_+%\")": 20,
+                "(Value=\"BaseSharedExperience_+%\")": 20
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "LongestDuration",
+            "bEffectsNPCs": false
+        },
+        {
+            "Name": "Potato_Carrot_Fries",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Potato_Carrot_Fries-ModifierName\", \"Potato and Carrot Fries\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Potato_Carrot_Fries-ModifierDescription\", \"Boosts health and stamina. Increase health regeneration and projectile damage, reduce food consumption.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumHealth_+\")": 150,
+                "(Value=\"BaseMaximumStamina_+\")": 75,
+                "(Value=\"BaseHealthRegen_+%\")": 10,
+                "(Value=\"BaseFoodConsumption_+%\")": -10,
+                "(Value=\"BaseProjectileDamage_+%\")": 10
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Potato_Bread",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Potato_Bread-ModifierName\", \"Potato Bread\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Potato_Bread-ModifierDescription\", \"Stamina boost, reduces food consumption.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumStamina_+\")": 150,
+		"(Value=\"BaseStaminaRegen_+%\")": 100,
+                "(Value=\"BaseFoodConsumption_+%\")": -20,
+                "(Value=\"BaseExperience_+%\")": 15
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Shepherds_Pie",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Shepherds_Pie-ModifierName\", \"Shepherd\\'s Pie\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Shepherds_Pie-ModifierDescription\", \"Big health boost, lifts stamina, boosts health regeneration and reduces food consumption.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumHealth_+\")": 225,
+                "(Value=\"BaseMaximumStamina_+\")": 75,
+                "(Value=\"BaseHealthRegen_+%\")": 40,
+                "(Value=\"BaseFoodConsumption_+%\")": -20,
+                "(Value=\"BaseExperience_+%\")": 10
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Cooked_Soy_Bean",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Soy_Bean-ModifierName\", \"Crunchy Soy Bean\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cooked_Soy_Bean-ModifierDescription\", \"Enhances health and health regen.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumHealth_+\")": 75,
+                "(Value=\"BaseHealthRegen_+%\")": 10
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Health_Enhancement_Tonic",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Health_Enhancement_Tonic.ITEM_Health_Enhancement_Tonic'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Health_Enhancement_Tonic-ModifierName\", \"Health Enhancement Tonic\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Health_Enhancement_Tonic-ModifierDescription\", \"Greatly increased health and health regeneration, for a short time.\")",
+            "GrantedStats": {
+                "(Value=\"BaseMaximumHealth_+%\")": 30,
+                "(Value=\"BaseHealthRegen_+%\")": 300
+            },
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
+        },
+        {
+            "Name": "Stamina_Enhancement_Tonic",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Stamina_Enhancement_Tonic.ITEM_Stamina_Enhancement_Tonic'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Stamina_Enhancement_Tonic-ModifierName\", \"Stamina Enhancement Tonic\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Stamina_Enhancement_Tonic-ModifierDescription\", \"Greatly increased stamina and stamina regeneration, for a short time.\")",
+            "GrantedStats": {
+                "(Value=\"BaseMaximumStamina_+%\")": 30,
+                "(Value=\"BaseStaminaRegen_+%\")": 200
+            },
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
+        },
+        {
+            "Name": "Sustenence_Enhancement_Tonic",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Sustenence_Enhancement_Tonic.ITEM_Sustenence_Enhancement_Tonic'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Sustenence_Enhancement_Tonic-ModifierName\", \"Sustenance Enhancement Tonic\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Sustenence_Enhancement_Tonic-ModifierDescription\", \"Greatly reduced food, water and oxygen consumption, for a short time.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodConsumption_+%\")": -30,
+                "(Value=\"BaseWaterConsumption_+%\")": -30,
+                "(Value=\"BaseOxygenConsumption_+%\")": -30
+            },
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
+        },
+        {
+            "Name": "Strength_Enhancement_Tonic",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Strength_Enhancement_Tonic.ITEM_Strength_Enhancement_Tonic'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Strength_Enhancement_Tonic-ModifierName\", \"Strength Enhancement Tonic\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Strength_Enhancement_Tonic-ModifierDescription\", \"Greatly increased melee damage, throw speed and physical resistance, for a short time.\")",
+            "GrantedStats": {
+                "(Value=\"BaseMeleeDamage_+%\")": 30,
+                "(Value=\"BaseKnifeProjectileSpeed_+%\")": 30,
+                "(Value=\"BaseSpearProjectileSpeed_+%\")": 30,
+                "(Value=\"BasePhysicalDamageResistance_+%\")": 15
+            },
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
+        },
+        {
+            "Name": "Consuming_Tonic",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ITEM_Antiparasitic.ITEM_Antiparasitic'",
+            "Type": "Debuff",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Consuming_Tonic-ModifierName\", \"Consuming a tonic\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Consuming_Tonic-ModifierDescription\", \"You are currently consuming a tonic.\")",
+            "AudioData": {
+                "RowName": "Consume_Tonic"
+            },
+            "GrantedStats": {
+                "(Value=\"BaseMovementSpeed_+%\")": -50
+            },
+            "ShouldTick": true,
+            "MergeType": "LongestDuration",
+            "bEffectsNPCs": false
+        },
+        {
+            "Name": "Washed_Hands",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_HealthRegenBuff.Icon_HealthRegenBuff'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Washed_Hands-ModifierName\", \"Recently Washed\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Washed_Hands-ModifierDescription\", \"Small crafting boost (Affects Marble Kitchen Bench & Electric Stove)\")",
+            "GrantedStats": {
+                "(Value=\"BaseCraftingSpeed_+%\")": 10,
+                "(Value=\"BaseMovementSpeed_+%\")": 5,
+                "(Value=\"BaseHealthRegen_+%\")": 30,
+                "(Value=\"BaseSleepQuality_%\")": 15,
+                "(Value=\"BaseWaterConsumption_+%\")": -10,
+                "(Value=\"BaseFoodConsumption_+%\")": -10
+            },
+            "MergeType": "Replace"
+        },
+        {
+            "Name": "GrantedAura_Watchtower",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Tools.Icon_Tools'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_Watchtower-ModifierName\", \"Watchtower Aura\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"GrantedAura_Watchtower-ModifierDescription\", \"Description\")",
+            "bAura": true,
+            "AuraRange": 7500,
+            "AuraFlags": {
+                "EffectsSelf": false
+            },
+            "ModifierGrantedByAura": {
+                "RowName": "AuraEffect_Watchtower"
+            },
+            "Behaviour": "/Game/BP/Behaviours/Modifiers/BP_Modifier_Aura_Base.BP_Modifier_Aura_Base_C",
+            "ShouldTick": true,
+            "MergeType": "Stack",
+            "bEffectsObjects": true,
+            "bEffectsNPCs": false,
+            "bEffectsPlayers": false,
+            "SaveToDatabase": false
+        },
+        {
+            "Name": "AuraEffect_Watchtower",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Tools.Icon_Tools'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"AuraEffect_Watchtower-ModifierName\", \"Watchtower\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"AuraEffect_Watchtower-ModifierDescription\", \"Under the protection of a Nearby Watchtower\")",
+            "GrantedStats": {
+                "(Value=\"BaseSleepQuality_%\")": 15,
+                "(Value=\"BaseExperience_+%\")": 10
+            },
+            "AuraRange": 2000,
+            "MergeType": "Stack",
+            "bEffectsNPCs": false,
+            "SaveToDatabase": false
         }
     ]
 }

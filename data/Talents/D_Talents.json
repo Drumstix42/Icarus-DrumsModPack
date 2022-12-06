@@ -318,7 +318,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 3000,
+                "X": 3250,
                 "Y": 100
             },
             "Size": {
@@ -677,7 +677,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10500,
+                "X": 10150,
                 "Y": 300
             },
             "Size": {
@@ -702,7 +702,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10800,
+                "X": 10450,
                 "Y": 450
             },
             "Size": {
@@ -726,7 +726,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11100,
+                "X": 10750,
                 "Y": 450
             },
             "Size": {
@@ -750,7 +750,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12900,
+                "X": 12550,
                 "Y": 450
             },
             "Size": {
@@ -774,7 +774,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12000,
+                "X": 11650,
                 "Y": 450
             },
             "Size": {
@@ -798,7 +798,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12000,
+                "X": 11650,
                 "Y": 100
             },
             "Size": {
@@ -1414,7 +1414,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 5100,
+                "X": 4950,
                 "Y": 450
             },
             "Size": {
@@ -1431,14 +1431,14 @@
         {
             "Name": "Cooking_Station",
             "ExtraData": {
-                "RowName": "Item_Cooking_Station",
+                "RowName": "Item_Cooking_Station_V2",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 1500,
+                "X": 1800,
                 "Y": 450
             },
             "Size": {
@@ -1462,7 +1462,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 4650,
+                "X": 4450,
                 "Y": 300
             },
             "Size": {
@@ -1510,7 +1510,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 1200,
+                "X": 1500,
                 "Y": 450
             },
             "Size": {
@@ -1559,7 +1559,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2400,
+                "X": 2700,
                 "Y": 450
             },
             "Size": {
@@ -1583,7 +1583,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11100,
+                "X": 10750,
                 "Y": 850
             },
             "Size": {
@@ -1607,7 +1607,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10800,
+                "X": 10450,
                 "Y": 850
             },
             "Size": {
@@ -1631,7 +1631,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12000,
+                "X": 11650,
                 "Y": 850
             },
             "Size": {
@@ -1655,7 +1655,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12900,
+                "X": 12550,
                 "Y": 850
             },
             "Size": {
@@ -1679,7 +1679,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12300,
+                "X": 11950,
                 "Y": 1200
             },
             "Size": {
@@ -1979,7 +1979,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 5250,
+                "X": 5050,
                 "Y": 100
             },
             "Size": {
@@ -2003,7 +2003,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 5550,
+                "X": 5350,
                 "Y": 450
             },
             "Size": {
@@ -2028,7 +2028,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 5550,
+                "X": 5350,
                 "Y": 100
             },
             "Size": {
@@ -2125,7 +2125,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4800,
+                "X": 4850,
                 "Y": 850
             },
             "Size": {
@@ -2149,7 +2149,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3850,
+                "X": 3900,
                 "Y": 1200
             },
             "Size": {
@@ -2173,7 +2173,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4150,
+                "X": 4200,
                 "Y": 1200
             },
             "Size": {
@@ -2191,7 +2191,7 @@
         {
             "Name": "Concrete_Furnace",
             "ExtraData": {
-                "RowName": "Item_Kit_Concrete_Furnace",
+                "RowName": "Item_Concrete_Furnace_V2",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
@@ -2215,7 +2215,7 @@
         {
             "Name": "Electric_Furnace",
             "ExtraData": {
-                "RowName": "Item_Kit_Electric_Furnace",
+                "RowName": "Item_Electric_Furnace_Large",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
@@ -2271,7 +2271,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3400,
+                "X": 4200,
                 "Y": 850
             },
             "Size": {
@@ -2392,7 +2392,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3850,
+                "X": 3900,
                 "Y": 850
             },
             "Size": {
@@ -2442,7 +2442,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10200,
+                "X": 9850,
                 "Y": 100
             },
             "Size": {
@@ -2490,7 +2490,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 4950,
+                "X": 4750,
                 "Y": 100
             },
             "Size": {
@@ -2538,7 +2538,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 2400,
+                "X": 2350,
                 "Y": 100
             },
             "Size": {
@@ -2586,7 +2586,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 3900,
+                "X": 4050,
                 "Y": 450
             },
             "Size": {
@@ -2634,7 +2634,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2100,
+                "X": 2400,
                 "Y": 450
             },
             "Size": {
@@ -2702,7 +2702,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9600,
+                "X": 9250,
                 "Y": 100
             },
             "Size": {
@@ -2756,7 +2756,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 2100,
+                "X": 2050,
                 "Y": 450
             },
             "Size": {
@@ -2780,7 +2780,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4050,
+                "X": 3900,
                 "Y": 100
             },
             "Size": {
@@ -2804,7 +2804,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4050,
+                "X": 3900,
                 "Y": 450
             },
             "Size": {
@@ -2957,7 +2957,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 5100,
+                "X": 5150,
                 "Y": 850
             },
             "Size": {
@@ -2981,7 +2981,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 1200,
+                "X": 1500,
                 "Y": 100
             },
             "Size": {
@@ -3206,7 +3206,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11700,
+                "X": 11350,
                 "Y": 1200
             },
             "Size": {
@@ -3281,7 +3281,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13200,
+                "X": 12850,
                 "Y": 1200
             },
             "Size": {
@@ -3306,7 +3306,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10200,
+                "X": 9850,
                 "Y": 450
             },
             "Size": {
@@ -3355,7 +3355,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10800,
+                "X": 10450,
                 "Y": 100
             },
             "Size": {
@@ -3380,7 +3380,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 5100,
+                "X": 4950,
                 "Y": 100
             },
             "Size": {
@@ -3585,7 +3585,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8850,
+                "X": 7500,
                 "Y": 100
             },
             "Size": {
@@ -3683,7 +3683,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4800,
+                "X": 4850,
                 "Y": 1200
             },
             "Size": {
@@ -3707,7 +3707,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11400,
+                "X": 11050,
                 "Y": 100
             },
             "Size": {
@@ -3731,7 +3731,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12000,
+                "X": 11650,
                 "Y": 1200
             },
             "Size": {
@@ -3780,7 +3780,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2100,
+                "X": 2400,
                 "Y": 100
             },
             "Size": {
@@ -3805,7 +3805,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 1500,
+                "X": 1800,
                 "Y": 100
             },
             "Size": {
@@ -3864,7 +3864,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11100,
+                "X": 10750,
                 "Y": 100
             },
             "Size": {
@@ -3888,7 +3888,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12300,
+                "X": 11950,
                 "Y": 100
             },
             "Size": {
@@ -3913,7 +3913,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13200,
+                "X": 12850,
                 "Y": 100
             },
             "Size": {
@@ -3938,7 +3938,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11100,
+                "X": 10750,
                 "Y": 1200
             },
             "Size": {
@@ -4011,7 +4011,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4500,
+                "X": 4350,
                 "Y": 100
             },
             "Size": {
@@ -4036,8 +4036,8 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 4250,
-                "Y": 450
+                "X": 4050,
+                "Y": 850
             },
             "Size": {
                 "X": 184,
@@ -4328,7 +4328,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13500,
+                "X": 13150,
                 "Y": 100
             },
             "Size": {
@@ -4445,7 +4445,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10500,
+                "X": 10150,
                 "Y": 850
             },
             "Size": {
@@ -7997,7 +7997,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9900,
+                "X": 9550,
                 "Y": 450
             },
             "Size": {
@@ -8021,7 +8021,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9600,
+                "X": 9250,
                 "Y": 450
             },
             "Size": {
@@ -8045,7 +8045,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9300,
+                "X": 8950,
                 "Y": 450
             },
             "Size": {
@@ -8070,7 +8070,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 6150,
+                "X": 6000,
                 "Y": 300
             },
             "Size": {
@@ -8094,7 +8094,7 @@
             },
             "Position": {
                 "X": 650,
-                "Y": 500
+                "Y": 550
             },
             "Size": {
                 "X": 128,
@@ -8190,7 +8190,7 @@
                 "RowName": "Construction_Repairing"
             },
             "Position": {
-                "X": 350,
+                "X": 450,
                 "Y": 250
             },
             "Size": {
@@ -8213,48 +8213,6 @@
             ],
             "RequiredRank": {
                 "RowName": "Novice"
-            },
-            "DrawMethodOverride": "XThenY"
-        },
-        {
-            "Name": "Repair_Waterbomb_Recipe",
-            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Repair_Waterbomb_Recipe-DisplayName\", \"Blueprint: Waterbomb\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Repair_Waterbomb_Recipe-Description\", \"Grants access to the waterbomb blueprint\")",
-            "Icon": "/Game/Assets/2DArt/UI/Talents/Repairing/Talent_Repairing_WaterBomb.Talent_Repairing_WaterBomb",
-            "TalentTree": {
-                "RowName": "Construction_Repairing"
-            },
-            "Position": {
-                "X": 200,
-                "Y": 900
-            },
-            "Size": {
-                "X": 128,
-                "Y": 128
-            },
-            "Rewards": [
-                {
-                    "GrantedStats": {},
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_WaterBomb",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
-                }
-            ],
-            "RequiredTalents": [
-                {
-                    "RowName": "Repair_Hammer_Durability",
-                    "DataTableName": "D_Talents"
-                },
-                {
-                    "RowName": "Repair_Flapper_Stamina_Regen",
-                    "DataTableName": "D_Talents"
-                }
-            ],
-            "RequiredRank": {
-                "RowName": "Journeyman"
             },
             "DrawMethodOverride": "XThenY"
         },
@@ -8306,44 +8264,6 @@
             "DrawMethodOverride": "XThenY"
         },
         {
-            "Name": "Repair_Bench_Recipe",
-            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Repair_Bench_Recipe-DisplayName\", \"Blueprint: Repair Bench\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Repair_Bench_Recipe-Description\", \"Grants access to repair bench blueprint\")",
-            "Icon": "/Game/Assets/2DArt/UI/Talents/Repairing/Talent_Repairing_RepairBench.Talent_Repairing_RepairBench",
-            "TalentTree": {
-                "RowName": "Construction_Repairing"
-            },
-            "Position": {
-                "X": 200,
-                "Y": 1100
-            },
-            "Size": {
-                "X": 128,
-                "Y": 128
-            },
-            "Rewards": [
-                {
-                    "GrantedStats": {},
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_RepairBench",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
-                }
-            ],
-            "RequiredTalents": [
-                {
-                    "RowName": "Repair_Waterbomb_Recipe",
-                    "DataTableName": "D_Talents"
-                }
-            ],
-            "RequiredRank": {
-                "RowName": "Master"
-            },
-            "DrawMethodOverride": "YThenX"
-        },
-        {
             "Name": "Repair_Hammer_Durability",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Repair_Hammer_Durability-DisplayName\", \"Hardy Hammer\")",
             "Description": "NSLOCTEXT(\"D_Talents\", \"Repair_Hammer_Durability-Description\", \"Reduced durability loss on repair hammer\")",
@@ -8353,7 +8273,7 @@
             },
             "Position": {
                 "X": 50,
-                "Y": 500
+                "Y": 550
             },
             "Size": {
                 "X": 128,
@@ -8393,7 +8313,7 @@
                 "RowName": "Construction_Repairing"
             },
             "Position": {
-                "X": 450,
+                "X": 250,
                 "Y": 900
             },
             "Size": {
@@ -8410,18 +8330,18 @@
             ],
             "RequiredTalents": [
                 {
-                    "RowName": "Repair_Waterbomb_Recipe",
+                    "RowName": "Repair_Flapper_Stamina_Regen",
                     "DataTableName": "D_Talents"
                 },
                 {
-                    "RowName": "Repair_Fire_Resistance",
+                    "RowName": "Repair_Hammer_Durability",
                     "DataTableName": "D_Talents"
                 }
             ],
             "RequiredRank": {
                 "RowName": "Journeyman"
             },
-            "DrawMethodOverride": "YThenX"
+            "DrawMethodOverride": "XThenY"
         },
         {
             "Name": "Repair_Flapper_Stamina_Regen",
@@ -8432,8 +8352,8 @@
                 "RowName": "Construction_Repairing"
             },
             "Position": {
-                "X": 350,
-                "Y": 500
+                "X": 450,
+                "Y": 550
             },
             "Size": {
                 "X": 128,
@@ -8472,8 +8392,8 @@
                 "RowName": "Construction_Repairing"
             },
             "Position": {
-                "X": 650,
-                "Y": 750
+                "X": 550,
+                "Y": 900
             },
             "Size": {
                 "X": 128,
@@ -8491,6 +8411,10 @@
                 {
                     "RowName": "Repair_Flapper_Durability",
                     "DataTableName": "D_Talents"
+                },
+                {
+                    "RowName": "Repair_Flapper_Stamina_Regen",
+                    "DataTableName": "D_Talents"
                 }
             ],
             "RequiredRank": {
@@ -8506,8 +8430,8 @@
                 "RowName": "Construction_Repairing"
             },
             "Position": {
-                "X": 450,
-                "Y": 1200
+                "X": 550,
+                "Y": 1250
             },
             "Size": {
                 "X": 128,
@@ -8523,7 +8447,7 @@
             ],
             "RequiredTalents": [
                 {
-                    "RowName": "Repair_Instant_Repair_Building",
+                    "RowName": "Repair_Fire_Resistance",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -8951,9 +8875,9 @@
             ]
         },
         {
-            "Name": "Tools_Throw_Axes",
-            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Tools_Throw_Axes-DisplayName\", \"Tomahawk\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Tools_Throw_Axes-Description\", \"Gives ability to throw an axe\")",
+            "Name": "Tools_Combat_Axes",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Tools_Combat_Axes-DisplayName\", \"Beserker\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Tools_Combat_Axes-Description\", \"Greatly increased combat abilities with axes but increases stamina and durability usage\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Tools/Talent_Tools_Tomahawk.Talent_Tools_Tomahawk",
             "TalentTree": {
                 "RowName": "Construction_Tools"
@@ -8969,7 +8893,10 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"CanThrowAxe_?\")": 1
+                        "(Value=\"BaseAxeMeleeDamage_+%\")": 150,
+                        "(Value=\"BaseAxeAttackSpeed_+%\")": 10,
+                        "(Value=\"BaseAxeStaminaActionCost_+%\")": 50,
+                        "(Value=\"BaseAxeItemWear_+%\")": 100
                     },
                     "GrantedFlags": []
                 }
@@ -9076,9 +9003,9 @@
             "DrawMethodOverride": "XThenY"
         },
         {
-            "Name": "Tools_Axe_Highlight",
-            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Tools_Axe_Highlight-DisplayName\", \"Oh Wait, I Need That\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Tools_Axe_Highlight-Description\", \"Thrown axes highlight in world\")",
+            "Name": "Tools_Combat_Axes2",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Tools_Combat_Axes2-DisplayName\", \"Controlled Rage\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Tools_Combat_Axes2-Description\", \"Reduced penalties for Berserking, increased wood from felling\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Tools/Talent_Tools_OhWaitIneedThat.Talent_Tools_OhWaitIneedThat",
             "TalentTree": {
                 "RowName": "Construction_Tools"
@@ -9094,14 +9021,16 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"HighlightThrownAxe_?\")": 1
+                        "(Value=\"BaseAxeItemWear_+%\")": -50,
+                        "(Value=\"BaseAxeStaminaActionCost_+%\")": -10,
+                        "(Value=\"BaseFellingRewards_+%\")": 30
                     },
                     "GrantedFlags": []
                 }
             ],
             "RequiredTalents": [
                 {
-                    "RowName": "Tools_Throw_Axes",
+                    "RowName": "Tools_Combat_Axes",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -9612,7 +9541,7 @@
         {
             "Name": "Stalking_Base_Stamina",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-DisplayName\", \"Chase \\'em Down\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-Description\", \"Increase to base stamina. Thrown axes, knives, and spears are highlighted in the world (DrumsModPack). Grants access to Polar Bear armor recipes (DrumsModPack)\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-Description\", \"Increase to base stamina\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Hunting/Talent_Hunting_ChaseEmDown.Talent_Hunting_ChaseEmDown",
             "TalentTree": {
                 "RowName": "Survival_Hunting"
@@ -9628,45 +9557,21 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 10,
-                        "(Value=\"HighlightThrownKnife_?\")": 1,
-                        "(Value=\"HighlightThrownAxe_?\")": 1,
-                        "(Value=\"HighlightThrownSpear_?\")": 1
+                        "(Value=\"BaseMaximumStamina_+\")": 10
                     },
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_Polarbear_Armor",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
+                    "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 25,
-                        "(Value=\"HighlightThrownKnife_?\")": 1,
-                        "(Value=\"HighlightThrownAxe_?\")": 1,
-                        "(Value=\"HighlightThrownSpear_?\")": 1
+                        "(Value=\"BaseMaximumStamina_+\")": 25
                     },
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_Polarbear_Armor",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
+                    "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 40,
-                        "(Value=\"HighlightThrownKnife_?\")": 1,
-                        "(Value=\"HighlightThrownAxe_?\")": 1,
-                        "(Value=\"HighlightThrownSpear_?\")": 1
+                        "(Value=\"BaseMaximumStamina_+\")": 40
                     },
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_Polarbear_Armor",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
+                    "GrantedFlags": []
                 }
             ],
             "ForbiddenFlags": [
@@ -10291,37 +10196,6 @@
             "RequiredRank": {
                 "RowName": "Novice"
             }
-        },
-        {
-            "Name": "Building_UpgradeTool",
-            "ExtraData": {
-                "RowName": "Item_Building_UpgradeTool",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T1_Player"
-            },
-            "Position": {
-                "X": 1950,
-                "Y": 1200
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Building_RepairTool",
-                    "DataTableName": "D_Talents"
-                }
-            ],
-            "ForbiddenFlags": [
-                {
-                    "DataTableName": "D_SessionFlags",
-                    "RowName": "Tutorial_Locked"
-                }
-            ],
-            "RequiredLevel": 5
         },
         {
             "Name": "Exploration_Sprain_Chance",
@@ -12625,7 +12499,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 3300,
+                "X": 3650,
                 "Y": 100
             },
             "Size": {
@@ -12917,7 +12791,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13500,
+                "X": 13150,
                 "Y": 1200
             },
             "Size": {
@@ -12956,16 +12830,16 @@
             ]
         },
         {
-            "Name": "Paste_Health_Regen",
+            "Name": "Health_Enhancement_Tonic",
             "ExtraData": {
-                "RowName": "Item_Paste_Health_Regen",
+                "RowName": "Item_Health_Enhancement_Tonic",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7650,
+                "X": 6900,
                 "Y": 100
             },
             "Size": {
@@ -12980,16 +12854,16 @@
             ]
         },
         {
-            "Name": "Paste_Health_Buff",
+            "Name": "Sustenence_Enhancement_Tonic",
             "ExtraData": {
-                "RowName": "Item_Paste_Health_Buff",
+                "RowName": "Item_Sustenence_Enhancement_Tonic",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7050,
+                "X": 7200,
                 "Y": 100
             },
             "Size": {
@@ -13004,40 +12878,16 @@
             ]
         },
         {
-            "Name": "Paste_Health_Restore",
+            "Name": "Strength_Enhancement_Tonic",
             "ExtraData": {
-                "RowName": "Item_Paste_Health_Restore",
+                "RowName": "Item_Strength_Enhancement_Tonic",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7350,
-                "Y": 100
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Stamina_Regen",
-            "ExtraData": {
-                "RowName": "Item_Paste_Stamina_Regen",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 7350,
+                "X": 7200,
                 "Y": 450
             },
             "Size": {
@@ -13052,184 +12902,16 @@
             ]
         },
         {
-            "Name": "Paste_Stamina_Buff",
+            "Name": "Stamina_Enhancement_Tonic",
             "ExtraData": {
-                "RowName": "Item_Paste_Stamina_Buff",
+                "RowName": "Item_Stamina_Enhancement_Tonic",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7050,
-                "Y": 450
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Stamina_Restore",
-            "ExtraData": {
-                "RowName": "Item_Paste_Stamina_Restore",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 7950,
-                "Y": 450
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Stamina_Consumption",
-            "ExtraData": {
-                "RowName": "Item_Paste_Stamina_Consumption",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 7650,
-                "Y": 450
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Oxygen_Buff",
-            "ExtraData": {
-                "RowName": "Item_Paste_Oxygen_Buff",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 7950,
-                "Y": 100
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Oxygen_Restore",
-            "ExtraData": {
-                "RowName": "Item_Paste_Oxygen_Restore",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 8550,
-                "Y": 100
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Oxygen_Consumption",
-            "ExtraData": {
-                "RowName": "Item_Paste_Oxygen_Consumption",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 8250,
-                "Y": 100
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Food_Consumption",
-            "ExtraData": {
-                "RowName": "Item_Paste_Food_Consumption",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 8250,
-                "Y": 450
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Herbalism_Bench",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Paste_Water_Consumption",
-            "ExtraData": {
-                "RowName": "Item_Paste_Water_Consumption",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
-            },
-            "Position": {
-                "X": 8550,
+                "X": 6900,
                 "Y": 450
             },
             "Size": {
@@ -13277,7 +12959,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10500,
+                "X": 10150,
                 "Y": 1200
             },
             "Size": {
@@ -13325,7 +13007,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11400,
+                "X": 11050,
                 "Y": 1200
             },
             "Size": {
@@ -13349,7 +13031,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2700,
+                "X": 3000,
                 "Y": 450
             },
             "Size": {
@@ -14218,7 +13900,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 2100,
+                "X": 2050,
                 "Y": 100
             },
             "Size": {
@@ -14263,10 +13945,10 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
+                "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3600,
+                "X": 4650,
                 "Y": 100
             },
             "Size": {
@@ -14275,56 +13957,10 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Re_route_T2Benches",
+                    "RowName": "Re_route_Oxygen",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "RequiredFlags": [
-                {
-                    "DataTableName": "D_CharacterFlags",
-                    "RowName": "Talent_RepairBench"
-                }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "ComingSoon"
-                }
-            }
-        },
-        {
-            "Name": "Water_Bomb",
-            "ExtraData": {
-                "RowName": "Item_WaterBomb",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T1_Player"
-            },
-            "Position": {
-                "X": 4550,
-                "Y": 100
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Reroute_T1_Talents",
-                    "DataTableName": "D_Talents"
-                }
-            ],
-            "RequiredFlags": [
-                {
-                    "DataTableName": "D_CharacterFlags",
-                    "RowName": "Talent_WaterBomb"
-                }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "ComingSoon"
-                }
-            }
+            ]
         },
         {
             "Name": "Bandage_Heat",
@@ -14361,7 +13997,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 5250,
+                "X": 5050,
                 "Y": 450
             },
             "Size": {
@@ -14465,7 +14101,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 5850,
+                "X": 5650,
                 "Y": 100
             },
             "Size": {
@@ -14512,7 +14148,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 3300,
+                "X": 3450,
                 "Y": 450
             },
             "Size": {
@@ -14862,7 +14498,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12600,
+                "X": 12250,
                 "Y": 1200
             },
             "Size": {
@@ -14961,7 +14597,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9900,
+                "X": 9550,
                 "Y": 100
             },
             "Size": {
@@ -15065,7 +14701,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4500,
+                "X": 4350,
                 "Y": 450
             },
             "Size": {
@@ -15158,7 +14794,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 4950,
+                "X": 4750,
                 "Y": 450
             },
             "Size": {
@@ -15175,7 +14811,7 @@
         {
             "Name": "Glassworking_Bench",
             "ExtraData": {
-                "RowName": "Item_Glassworking_Bench",
+                "RowName": "Item_Glassworking_Bench_V2",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
@@ -15275,7 +14911,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4800,
+                "X": 4650,
                 "Y": 450
             },
             "Size": {
@@ -15399,7 +15035,7 @@
                 "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 4850,
+                "X": 4550,
                 "Y": 100
             },
             "Size": {
@@ -15748,7 +15384,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3050,
+                "X": 3350,
                 "Y": 850
             },
             "Size": {
@@ -15757,7 +15393,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Reroute_PlatinumTools",
+                    "RowName": "Platinum_Crossbow",
                     "DataTableName": "D_Talents"
                 }
             ]
@@ -15772,7 +15408,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 950,
+                "X": 1300,
                 "Y": 1200
             },
             "Size": {
@@ -15781,7 +15417,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Reroute_Titanium",
+                    "RowName": "Titanium_Crossbow",
                     "DataTableName": "D_Talents"
                 }
             ]
@@ -15871,7 +15507,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 6450,
+                "X": 6300,
                 "Y": 450
             },
             "Size": {
@@ -15895,7 +15531,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 6750,
+                "X": 6600,
                 "Y": 450
             },
             "Size": {
@@ -15919,7 +15555,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 6450,
+                "X": 6300,
                 "Y": 100
             },
             "Size": {
@@ -15943,7 +15579,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 6750,
+                "X": 6600,
                 "Y": 100
             },
             "Size": {
@@ -16337,7 +15973,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10800,
+                "X": 10450,
                 "Y": 1200
             },
             "Size": {
@@ -16716,7 +16352,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12900,
+                "X": 12550,
                 "Y": 100
             },
             "Size": {
@@ -16740,7 +16376,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13200,
+                "X": 12850,
                 "Y": 450
             },
             "Size": {
@@ -16764,7 +16400,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13200,
+                "X": 12850,
                 "Y": 850
             },
             "Size": {
@@ -16788,7 +16424,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12900,
+                "X": 12550,
                 "Y": 1200
             },
             "Size": {
@@ -17993,7 +17629,7 @@
         {
             "Name": "WaterGenerator",
             "ExtraData": {
-                "RowName": "Item_Water_Generator",
+                "RowName": "Item_WaterWheel_Generator",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
@@ -18012,12 +17648,7 @@
                     "RowName": "Solar_Panel",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "ComingSoon"
-                }
-            }
+            ]
         },
         {
             "Name": "Wire_Tool",
@@ -18077,7 +17708,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4450,
+                "X": 4400,
                 "Y": 450
             },
             "Size": {
@@ -18296,8 +17927,8 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6650,
-                "Y": 100
+                "X": 6050,
+                "Y": 450
             },
             "Size": {
                 "X": 184,
@@ -18305,11 +17936,10 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Electric_Stove",
+                    "RowName": "Biofuel_Generator",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "DrawMethodOverride": "ShortestDistance"
+            ]
         },
         {
             "Name": "Advanced_Kitchen_Storage",
@@ -18330,10 +17960,11 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Electric_Stove",
+                    "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_Talents"
                 }
-            ]
+            ],
+            "DrawMethodOverride": "ShortestDistance"
         },
         {
             "Name": "Electric_Stove",
@@ -18354,15 +17985,10 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Biofuel_Generator",
+                    "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "ComingSoon"
-                }
-            }
+            ]
         },
         {
             "Name": "Advanced_Kitchen_Sink",
@@ -18383,11 +18009,10 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Electric_Stove",
+                    "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "DrawMethodOverride": "ShortestDistance"
+            ]
         },
         {
             "Name": "Outpost_Arctic",
@@ -18399,7 +18024,7 @@
                 "RowName": "Outpost"
             },
             "Position": {
-                "X": 300,
+                "X": 850,
                 "Y": 750
             },
             "Size": {
@@ -18423,7 +18048,7 @@
                 "RowName": "Outpost"
             },
             "Position": {
-                "X": 2250,
+                "X": 1850,
                 "Y": 750
             },
             "Size": {
@@ -19903,7 +19528,7 @@
             },
             "Position": {
                 "X": 50,
-                "Y": 1100
+                "Y": 1250
             },
             "Size": {
                 "X": 128,
@@ -20119,7 +19744,7 @@
         {
             "Name": "Stalking_Base_Stamina_0",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina_0-DisplayName\", \"Chase \\'em Down\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina_0-Description\", \"Increase to base stamina\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-Description\", \"Increase to base stamina. Thrown axes, knives, and spears are highlighted in the world (DrumsModPack). Grants access to Polar Bear armor recipes (DrumsModPack)\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Hunting/Talent_Hunting_ChaseEmDown.Talent_Hunting_ChaseEmDown",
             "TalentTree": {
                 "RowName": "Survival_Hunting"
@@ -20135,21 +19760,45 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 10
+                        "(Value=\"BaseMaximumStamina_+\")": 10,
+                        "(Value=\"HighlightThrownKnife_?\")": 1,
+                        "(Value=\"HighlightThrownAxe_?\")": 1,
+                        "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 25
+                        "(Value=\"BaseMaximumStamina_+\")": 25,
+                        "(Value=\"HighlightThrownKnife_?\")": 1,
+                        "(Value=\"HighlightThrownAxe_?\")": 1,
+                        "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 40
+                        "(Value=\"BaseMaximumStamina_+\")": 40,
+                        "(Value=\"HighlightThrownKnife_?\")": 1,
+                        "(Value=\"HighlightThrownAxe_?\")": 1,
+                        "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 }
             ],
             "RequiredTalents": [
@@ -21319,7 +20968,7 @@
         {
             "Name": "Electric_Dehumidifier",
             "ExtraData": {
-                "RowName": "Item_Electric_Dehumidier",
+                "RowName": "Item_Electric_Dehumidier_V2",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
@@ -23748,7 +23397,7 @@
                 "RowName": "Construction_Repairing"
             },
             "Position": {
-                "X": 350,
+                "X": 250,
                 "Y": 50
             },
             "Size": {
@@ -24101,7 +23750,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 3900,
+                "X": 4050,
                 "Y": 100
             },
             "Size": {
@@ -24125,7 +23774,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4400,
+                "X": 4500,
                 "Y": 850
             },
             "Size": {
@@ -24149,7 +23798,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4150,
+                "X": 4100,
                 "Y": 450
             },
             "Size": {
@@ -25676,8 +25325,8 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10050,
-                "Y": 850
+                "X": 7700,
+                "Y": 450
             },
             "Size": {
                 "X": 184,
@@ -26147,25 +25796,6 @@
             "DrawMethodOverride": "XThenY"
         },
         {
-            "Name": "Outpost_Olympus",
-            "ExtraData": {
-                "RowName": "Outpost_Olympus",
-                "DataTableName": "D_Outposts"
-            },
-            "TalentTree": {
-                "RowName": "Outpost"
-            },
-            "Position": {
-                "X": 1350,
-                "Y": 750
-            },
-            "Size": {
-                "X": 256,
-                "Y": 256
-            },
-            "bDefaultUnlocked": true
-        },
-        {
             "Name": "Prospect_Styx_A_Extermination",
             "ExtraData": {
                 "RowName": "STYX_A_Extermination",
@@ -26187,7 +25817,12 @@
                     "RowName": "Prospect_Styx_B_Expedition",
                     "DataTableName": "D_Talents"
                 }
-            ]
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Styx"
+                }
+            }
         },
         {
             "Name": "Prospect_OLY_Omni_",
@@ -26260,7 +25895,12 @@
                     "RowName": "Prospect_Styx_E_Exploration",
                     "DataTableName": "D_Talents"
                 }
-            ]
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Styx"
+                }
+            }
         },
         {
             "Name": "Prospect_Styx_D_Research_2",
@@ -26284,7 +25924,12 @@
                     "RowName": "Prospect_Styx_D_Exploration",
                     "DataTableName": "D_Talents"
                 }
-            ]
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Styx"
+                }
+            }
         },
         {
             "Name": "Glass_Floor",
@@ -26332,7 +25977,12 @@
                     "RowName": "Prospect_Styx_E_Exploration",
                     "DataTableName": "D_Talents"
                 }
-            ]
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Styx"
+                }
+            }
         },
         {
             "Name": "Prospect_Styx_A_Construction",
@@ -26373,7 +26023,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 6000,
+                "X": 6100,
                 "Y": 450
             },
             "Size": {
@@ -26396,7 +26046,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 5700,
+                "X": 5800,
                 "Y": 100
             },
             "Size": {
@@ -26562,7 +26212,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 6000,
+                "X": 6100,
                 "Y": 100
             },
             "Size": {
@@ -26655,7 +26305,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 6300,
+                "X": 6400,
                 "Y": 100
             },
             "Size": {
@@ -27034,6 +26684,35 @@
             "RequiredTalents": [
                 {
                     "RowName": "Prospect_Styx_B_Exploration",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Styx"
+                }
+            }
+        },
+        {
+            "Name": "Mission_Communicator_T2",
+            "ExtraData": {
+                "RowName": "Item_Mission_Communicator_T2",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 2100,
+                "Y": 300
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Crafting_Bench",
                     "DataTableName": "D_Talents"
                 }
             ]
@@ -27925,6 +27604,199 @@
                 }
             ],
             "bDefaultUnlocked": true
+        },
+        {
+            "Name": "Titanium_Crossbow",
+            "ExtraData": {
+                "RowName": "Item_Titanium_Crossbow",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 950,
+                "Y": 1200
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Reroute_Titanium",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Platinum_Crossbow",
+            "ExtraData": {
+                "RowName": "Item_Platinum_Crossbow",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 3050,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Reroute_PlatinumTools",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Fortification_Wood_Wall",
+            "ExtraData": {
+                "RowName": "Item_Fortification_Wood_Wall",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 8350,
+                "Y": 100
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Fortification_Wood_Gate",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Fortification_Wood_Gate",
+            "ExtraData": {
+                "RowName": "Item_Fortification_Wood_Gate",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 8350,
+                "Y": 450
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Crafting_Bench",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Fortification_Wood_Walkway",
+            "ExtraData": {
+                "RowName": "Item_Fortification_Wood_Walkway",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 8050,
+                "Y": 100
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Fortification_Wood_Wall",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Fortification_Wood_Spikes",
+            "ExtraData": {
+                "RowName": "Item_Fortification_Wood_Spikes",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 8650,
+                "Y": 100
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Fortification_Wood_Wall",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "ShortestDistance"
+        },
+        {
+            "Name": "WaterBomb",
+            "ExtraData": {
+                "RowName": "Item_WaterBomb",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 1200,
+                "Y": 450
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Crafting_Bench",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Prospect_Styx_C_Extermination2",
+            "ExtraData": {
+                "RowName": "STYX_C_Extermination2",
+                "DataTableName": "D_ProspectList"
+            },
+            "TalentTree": {
+                "RowName": "Prospect_Styx"
+            },
+            "Position": {
+                "X": 450,
+                "Y": 2950
+            },
+            "Size": {
+                "X": 256,
+                "Y": 256
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Prospect_Styx_C_Exploration",
+                    "DataTableName": "D_Talents"
+                }
+            ]
         }
     ]
 }
