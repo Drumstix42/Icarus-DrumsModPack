@@ -1559,7 +1559,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2700,
+                "X": 3000,
                 "Y": 450
             },
             "Size": {
@@ -2634,7 +2634,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2400,
+                "X": 2700,
                 "Y": 450
             },
             "Size": {
@@ -3081,7 +3081,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4900,
+                "X": 5200,
                 "Y": 1200
             },
             "Size": {
@@ -3106,7 +3106,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5050,
+                "X": 5350,
                 "Y": 850
             },
             "Size": {
@@ -3131,7 +3131,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5200,
+                "X": 5500,
                 "Y": 1200
             },
             "Size": {
@@ -3156,7 +3156,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5350,
+                "X": 5650,
                 "Y": 850
             },
             "Size": {
@@ -3181,7 +3181,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5500,
+                "X": 5800,
                 "Y": 1200
             },
             "Size": {
@@ -3780,7 +3780,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2400,
+                "X": 2700,
                 "Y": 100
             },
             "Size": {
@@ -4277,7 +4277,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5200,
+                "X": 5500,
                 "Y": 1050
             },
             "Size": {
@@ -12935,7 +12935,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6000,
+                "X": 6450,
                 "Y": 850
             },
             "Size": {
@@ -13032,7 +13032,7 @@
             },
             "Position": {
                 "X": 3000,
-                "Y": 450
+                "Y": 100
             },
             "Size": {
                 "X": 184,
@@ -13040,7 +13040,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Crafting_Bench",
+                    "RowName": "Wood_Cupboard",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -17737,7 +17737,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 7050,
+                "X": 7500,
                 "Y": 850
             },
             "Size": {
@@ -17834,7 +17834,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4650,
+                "X": 4950,
                 "Y": 1050
             },
             "Size": {
@@ -17858,7 +17858,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6300,
+                "X": 6750,
                 "Y": 850
             },
             "Size": {
@@ -17883,7 +17883,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5700,
+                "X": 6150,
                 "Y": 850
             },
             "Size": {
@@ -17907,7 +17907,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6600,
+                "X": 7050,
                 "Y": 850
             },
             "Size": {
@@ -20979,7 +20979,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6000,
+                "X": 6150,
                 "Y": 1150
             },
             "Size": {
@@ -25329,7 +25329,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7700,
+                "X": 7800,
                 "Y": 450
             },
             "Size": {
@@ -26074,7 +26074,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4050,
+                "X": 4350,
                 "Y": 850
             },
             "Size": {
@@ -26097,7 +26097,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 3750,
+                "X": 4050,
                 "Y": 1150
             },
             "Size": {
@@ -26239,7 +26239,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4050,
+                "X": 4350,
                 "Y": 1150
             },
             "Size": {
@@ -26332,7 +26332,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4350,
+                "X": 4650,
                 "Y": 1150
             },
             "Size": {
@@ -26707,7 +26707,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2100,
+                "X": 2400,
                 "Y": 450
             },
             "Size": {
@@ -27812,7 +27812,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 2100,
+                "X": 2400,
                 "Y": 100
             },
             "Size": {
@@ -27949,6 +27949,79 @@
                     "DataTableName": "D_Talents"
                 }
             ]
+        },
+        {
+            "Name": "Thumper",
+            "ExtraData": {
+                "RowName": "Item_Thumper",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 3750,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Biofuel_Generator",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Salting_Station",
+            "ExtraData": {
+                "RowName": "Item_Salting_Station",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 2100,
+                "Y": 450
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Cooking_Station",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Deep_Freeze",
+            "ExtraData": {
+                "RowName": "Item_Deep_Freeze",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 6450,
+                "Y": 1150
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Refrigerator",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "ShortestDistance"
         }
     ]
 }
