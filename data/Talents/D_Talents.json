@@ -11009,8 +11009,8 @@
         },
         {
             "Name": "Resources_Increased_Metals",
-            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Resources_Increased_Metals-DisplayName\", \"Metal Miner\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Resources_Increased_Metals-Description\", \"Increased yield from metal deposits\")",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Resources_Increased_Metals-DisplayName\", \"Iron Miner\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Resources_Increased_Metals-Description\", \"Increased yield from iron deposits\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Resources/Talent_Resources_MetalMiner.Talent_Resources_MetalMiner",
             "TalentTree": {
                 "RowName": "Survival_Resources"
@@ -17719,10 +17719,6 @@
                 {
                     "RowName": "Water_Pump",
                     "DataTableName": "D_Talents"
-                },
-                {
-                    "RowName": "Aquarium",
-                    "DataTableName": "D_Talents"
                 }
             ],
             "DrawMethodOverride": "ShortestDistance"
@@ -17761,7 +17757,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6800,
+                "X": 6950,
                 "Y": 450
             },
             "Size": {
@@ -17931,7 +17927,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6100,
+                "X": 6350,
                 "Y": 450
             },
             "Size": {
@@ -17955,7 +17951,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6400,
+                "X": 6050,
                 "Y": 100
             },
             "Size": {
@@ -17980,7 +17976,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6400,
+                "X": 6050,
                 "Y": 450
             },
             "Size": {
@@ -18004,7 +18000,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6100,
+                "X": 6350,
                 "Y": 100
             },
             "Size": {
@@ -28022,6 +28018,35 @@
                 }
             ],
             "DrawMethodOverride": "ShortestDistance"
+        },
+        {
+            "Name": "Prospect_Styx_B_Research",
+            "ExtraData": {
+                "RowName": "STYX_B_Research",
+                "DataTableName": "D_ProspectList"
+            },
+            "TalentTree": {
+                "RowName": "Prospect_Styx"
+            },
+            "Position": {
+                "X": 450,
+                "Y": -50
+            },
+            "Size": {
+                "X": 256,
+                "Y": 256
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Prospect_Styx_B_Exploration",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Styx"
+                }
+            }
         }
     ]
 }
