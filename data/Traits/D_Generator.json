@@ -253,7 +253,7 @@
         {
             "Name": "WaterWheel_Generator",
             "Resource": "Energy",
-            "GenerationRate": 3000
+            "GenerationRate": 5000
         },
         {
             "Name": "Fabricator_Generator",
