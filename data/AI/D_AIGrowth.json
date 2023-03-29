@@ -1206,8 +1206,8 @@
                 "(Value=\"BaseOxygenConsumptionPerMinute_+\")": 0,
                 "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
                 "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
-                "(Value=\"BasePhysicalDamageResistance_%\")": 40
-		"(Value=\"BaseMountCargoSlots_+\")": 2
+                "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+                "(Value=\"BaseMountCargoSlots_+\")": 2
             },
             "Health": "CurveFloat'/Game/Data/AI/C_Mount_Moa_Health.C_Mount_Moa_Health'",
             "MeleeDamage": "CurveFloat'/Game/Data/AI/C_BuffaloMeleeDamage.C_BuffaloMeleeDamage'",
