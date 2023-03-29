@@ -172,7 +172,7 @@
             "InventoryID": {
                 "Value": "Loadout"
             },
-            "StartingSlots": 15
+            "StartingSlots": 22
         },
         {
             "Name": "Space_Equipment",
