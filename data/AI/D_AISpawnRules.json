@@ -32,7 +32,7 @@
             "Name": "MammothArctic_Population",
             "SpawnFilter": "/Game/BP/AI/SpawnFilters/BP_SpawnFilter_PopulationCheck_MammothArctic.BP_SpawnFilter_PopulationCheck_MammothArctic_C",
             "FilterParams": {
-                "Population": 1
+                "Population": 2
             }
         },
         {
