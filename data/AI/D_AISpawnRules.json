@@ -39,7 +39,14 @@
             "Name": "MammothDesert_Population",
             "SpawnFilter": "/Game/BP/AI/SpawnFilters/BP_SpawnFilter_PopulationCheck_MammothDesert.BP_SpawnFilter_PopulationCheck_MammothDesert_C",
             "FilterParams": {
-                "Population": 1
+                "Population": 2
+            }
+        },
+        {
+            "Name": "ScorpionArctic_Population",
+            "SpawnFilter": "/Game/BP/AI/SpawnFilters/BP_SpawnFilter_PopulationCheck_ScorpionArctic.BP_SpawnFilter_PopulationCheck_ScorpionArctic_C",
+            "FilterParams": {
+                "Population": 2
             }
         }
     ]
