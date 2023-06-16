@@ -1336,21 +1336,35 @@
             "SlotTemplate": {
                 "RowName": "Any_Fishing_Lure"
             },
-            "StartingSlots": 5,
+            "StartingSlots": 8,
             "SlotOverrides": [
                 {
                     "Query": {
                         "RowName": "Any_Fish",
                         "DataTableName": "D_TagQueries"
                     },
-                    "Location": 3
+                    "Location": 4
                 },
                 {
                     "Query": {
                         "RowName": "Any_Fish",
                         "DataTableName": "D_TagQueries"
                     },
-                    "Location": 4
+                    "Location": 5
+                },
+                {
+                    "Query": {
+                        "RowName": "Any_Fish",
+                        "DataTableName": "D_TagQueries"
+                    },
+                    "Location": 6
+                },
+                {
+                    "Query": {
+                        "RowName": "Any_Fish",
+                        "DataTableName": "D_TagQueries"
+                    },
+                    "Location": 7
                 }
             ],
             "Stats": {
