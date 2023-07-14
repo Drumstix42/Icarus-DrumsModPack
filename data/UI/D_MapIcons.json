@@ -144,11 +144,9 @@
         },
         {
             "Name": "Portable_Beacon",
-            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon_PortableBeacon.UMG_RadarIcon_PortableBeacon_C",
             "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Waypoint.Icon_Map_Waypoint'",
-            "RequiredActorStatToShow": {
-                "Value": "MapIsBroadcastingForMap_?"
-            }
+            "CompassWidgetClass": "WidgetBlueprintGeneratedClass'/Game/UI/Compass/UMG_IcarusCompassIcon_PortableBeacon.UMG_IcarusCompassIcon_PortableBeacon_C'"
         },
         {
             "Name": "Extractor_Electric",
@@ -183,16 +181,6 @@
             "RequiredActorStatToShow": {
                 "Value": "MapIsBroadcastingForMap_?"
             }
-        },
-        {
-            "Name": "Cave_Entrance",
-            "WidgetClass": "/Game/BP/Tools/CheatFunctions/CaveTeleport/UMG_TeleportCheatWidget.UMG_TeleportCheatWidget_C",
-            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Cave.Icon_Map_Cave'",
-            "Color": {
-                "R": 255,
-                "A": 255
-            },
-            "bDisplayOnCompass": false
         },
         {
             "Name": "Scanning_Location",
@@ -474,6 +462,25 @@
                 "A": 255
             },
             "CompassWidgetClass": "WidgetBlueprintGeneratedClass'/Game/UI/Compass/UMG_IcarusCompassIcon_SearchArea.UMG_IcarusCompassIcon_SearchArea_C'"
+        },
+        {
+            "Name": "CreatureEscort",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Danger.Icon_Danger'",
+            "Color": {
+                "B": 255,
+                "R": 146,
+                "A": 255
+            }
+        },
+        {
+            "Name": "Cave_Entrance",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Cave.Icon_Map_Cave'",
+            "Color": {
+                "R": 255,
+                "A": 255
+            }
         }
     ]
 }
