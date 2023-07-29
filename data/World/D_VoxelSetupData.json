@@ -318,6 +318,9 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
+            "PyriticCrustResourceType": {
+                "RowName": "Pyritic_Crust_Sulfur"
+            },
             "DensityMultiplier": 2,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
@@ -364,6 +367,9 @@
                 "RowName": "Stone"
             },
             "DensityMultiplier": 2,
+            "PyriticCrustResourceType": {
+                "RowName": "Pyritic_Crust_Silicon"
+            },
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineSilica"
