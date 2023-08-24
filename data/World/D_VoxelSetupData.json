@@ -475,7 +475,7 @@
             },
             "DensityMultiplier": 1.100000023841858,
             "PyriticCrustResourceType": {
-                "RowName": "Pyritic_Crust_Titanium"
+                "RowName": "Pyritic_Crust_Platinium"
             },
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {

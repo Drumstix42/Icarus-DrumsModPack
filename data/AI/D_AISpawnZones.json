@@ -966,6 +966,532 @@
             },
             "MinLevel": 40,
             "MedianLevel": 50,
+            "MaxLevel": 80
+        },
+        {
+            "Name": "PRO_Grasslands_General",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 10,
+            "MedianLevel": 15,
+            "MaxLevel": 30
+        },
+        {
+            "Name": "PRO_Grasslands_General_0",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 15,
+            "MedianLevel": 35,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_General_1",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 25,
+            "MedianLevel": 35,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_General_2",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 20,
+            "MedianLevel": 30,
+            "MaxLevel": 50
+        },
+        {
+            "Name": "PRO_Grasslands_General_3",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 30,
+            "MedianLevel": 40,
+            "MaxLevel": 50
+        },
+        {
+            "Name": "PRO_Grasslands_General_4",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 40,
+            "MedianLevel": 45,
+            "MaxLevel": 55
+        },
+        {
+            "Name": "PRO_Grasslands_General_5",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 45,
+            "MedianLevel": 55,
+            "MaxLevel": 60
+        },
+        {
+            "Name": "PRO_Grasslands_Blueback",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 5,
+                    "(Value=\"BlueBack\")": 10,
+                    "(Value=\"Chamois_Var\")": 4,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 10,
+            "MedianLevel": 15,
+            "MaxLevel": 30
+        },
+        {
+            "Name": "PRO_Grasslands_Blueback_0",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Bear\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 5,
+                    "(Value=\"BlueBack\")": 10,
+                    "(Value=\"Chamois_Var\")": 4,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 15,
+            "MedianLevel": 35,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_General_Birds",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 10,
+            "MedianLevel": 15,
+            "MaxLevel": 30
+        },
+        {
+            "Name": "PRO_Grasslands_General_Birds_0",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 15,
+            "MedianLevel": 35,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_General_Birds_1",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 25,
+            "MedianLevel": 35,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_General_Birds_2",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Grasslands_Slug\")": 1,
+                    "(Value=\"Crocodile\")": 1,
+                    "(Value=\"Bat_Dog\")": 3,
+                    "(Value=\"Wild_Boar\")": 3,
+                    "(Value=\"Deer_Variant\")": 8,
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Chamois_Var\")": 6,
+                    "(Value=\"Rabbit_Variant\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 30,
+            "MedianLevel": 40,
+            "MaxLevel": 50
+        },
+        {
+            "Name": "PRO_Grasslands_Cliffs",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Jaguar\")": 6,
+                    "(Value=\"Wild_Boar\")": 5,
+                    "(Value=\"Buffalo\")": 2,
+                    "(Value=\"BlueBack\")": 2,
+                    "(Value=\"Rabbit_Variant\")": 2
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 15,
+            "MedianLevel": 35,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_Cliffs_0",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Jaguar\")": 6,
+                    "(Value=\"Wild_Boar\")": 5,
+                    "(Value=\"Buffalo\")": 2,
+                    "(Value=\"BlueBack\")": 2,
+                    "(Value=\"Rabbit_Variant\")": 2
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 25,
+            "MedianLevel": 35,
+            "MaxLevel": 45
+        },
+        {
+            "Name": "PRO_Grasslands_Cliffs_1",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Jaguar\")": 6,
+                    "(Value=\"Wild_Boar\")": 5,
+                    "(Value=\"Buffalo\")": 2,
+                    "(Value=\"BlueBack\")": 2,
+                    "(Value=\"Rabbit_Variant\")": 2
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 50,
+            "MedianLevel": 60,
+            "MaxLevel": 70
+        },
+        {
+            "Name": "PRO_Grasslands_Confier",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Bear\")": 1,
+                    "(Value=\"Jaguar\")": 4,
+                    "(Value=\"Conifer_Wolf\")": 8,
+                    "(Value=\"Buffalo\")": 2,
+                    "(Value=\"Moa\")": 1,
+                    "(Value=\"Chamois_Var\")": 5,
+                    "(Value=\"Rabbit\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 20,
+            "MedianLevel": 30,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_Confier_0",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Bear\")": 1,
+                    "(Value=\"Jaguar\")": 4,
+                    "(Value=\"Conifer_Wolf\")": 8,
+                    "(Value=\"Buffalo\")": 2,
+                    "(Value=\"Moa\")": 1,
+                    "(Value=\"Chamois_Var\")": 5,
+                    "(Value=\"Rabbit\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 25,
+            "MedianLevel": 35,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "PRO_Grasslands_Confier_1",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Bear\")": 1,
+                    "(Value=\"Jaguar\")": 4,
+                    "(Value=\"Conifer_Wolf\")": 8,
+                    "(Value=\"Buffalo\")": 2,
+                    "(Value=\"Moa\")": 1,
+                    "(Value=\"Chamois_Var\")": 5,
+                    "(Value=\"Rabbit\")": 5
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 30,
+            "MedianLevel": 45,
+            "MaxLevel": 60
+        },
+        {
+            "Name": "PRO_Grasslands_Crater",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Bear\")": 8,
+                    "(Value=\"BearCub\")": 8,
+                    "(Value=\"Wild_Boar\")": 2,
+                    "(Value=\"Deer_Variant\")": 3,
+                    "(Value=\"Moa\")": 1,
+                    "(Value=\"Chamois_Var\")": 4,
+                    "(Value=\"Rabbit_Variant\")": 3
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Kea",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 45,
+            "MedianLevel": 50,
+            "MaxLevel": 65
+        },
+        {
+            "Name": "PRO_Arctic_General",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Polar_Bear\")": 2,
+                    "(Value=\"SnowLeopard\")": 3,
+                    "(Value=\"Snow_Wolf\")": 6,
+                    "(Value=\"Wooly_Zebra\")": 5,
+                    "(Value=\"Snow_Rabbit\")": 5
+                }
+            },
+            "MinLevel": 35,
+            "MedianLevel": 45,
+            "MaxLevel": 60
+        },
+        {
+            "Name": "PRO_Arctic_General_0",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Polar_Bear\")": 2,
+                    "(Value=\"SnowLeopard\")": 3,
+                    "(Value=\"Snow_Wolf\")": 6,
+                    "(Value=\"Wooly_Zebra\")": 5,
+                    "(Value=\"Snow_Rabbit\")": 5
+                }
+            },
+            "MinLevel": 45,
+            "MedianLevel": 65,
+            "MaxLevel": 80
+        },
+        {
+            "Name": "PRO_Arctic_General_1",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Polar_Bear\")": 2,
+                    "(Value=\"SnowLeopard\")": 3,
+                    "(Value=\"Snow_Wolf\")": 6,
+                    "(Value=\"Wooly_Zebra\")": 5,
+                    "(Value=\"Snow_Rabbit\")": 5
+                }
+            },
+            "MinLevel": 50,
+            "MedianLevel": 70,
+            "MaxLevel": 90
+        },
+        {
+            "Name": "PRO_Arctic_General_2",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Polar_Bear\")": 2,
+                    "(Value=\"SnowLeopard\")": 3,
+                    "(Value=\"Snow_Wolf\")": 6,
+                    "(Value=\"Wooly_Zebra\")": 5,
+                    "(Value=\"Snow_Rabbit\")": 5
+                }
+            },
+            "MinLevel": 70,
+            "MedianLevel": 80,
             "MaxLevel": 120
         }
     ]
