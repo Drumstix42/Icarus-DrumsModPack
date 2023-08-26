@@ -161,6 +161,32 @@
             },
 	    "bDisplayOnCompass": false
         },
+        {    
+            "Name": "Deep_Mining_Drill_Electric",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Meta.Icon_Map_Meta'",
+            "ScaleFactor": 0.75,
+            "Color": {
+                "B": 0,
+                "G": 200,
+                "R": 255,
+                "A": 255
+            },
+	    "bDisplayOnCompass": false
+        },
+        {
+            "Name": "Deep_Mining_Drill_Biofuel",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Meta.Icon_Map_Meta'",
+            "ScaleFactor": 0.75,
+            "Color": {
+                "B": 100,
+                "G": 255,
+                "R": 100,
+                "A": 255
+            },
+	    "bDisplayOnCompass": false
+        },
         {
             "Name": "MapProxyMammoth",
             "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
