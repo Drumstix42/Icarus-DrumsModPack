@@ -11,7 +11,7 @@
             "SpawnFilter": "/Game/BP/AI/SpawnFilters/BP_SpawnFilter_DropshipWithinDistance.BP_SpawnFilter_DropshipWithinDistance_C",
             "InverseCondition": true,
             "FilterParams": {
-                "Distance": 10000
+                "Distance": 13000
             }
         },
         {
@@ -103,6 +103,13 @@
             "SpawnFilter": "/Game/BP/AI/SpawnFilters/BP_SpawnFilter_WaterWithinDistance.BP_SpawnFilter_WaterWithinDistance_C",
             "FilterParams": {
                 "Distance": 3000
+            }
+        },
+        {
+            "Name": "PRO_Croc_Population_Grasslands",
+            "SpawnFilter": "/Game/BP/AI/SpawnFilters/BP_SpawnFilter_PopulationCheck_Crocodile_Grasslands.BP_SpawnFilter_PopulationCheck_Crocodile_Grasslands_C",
+            "FilterParams": {
+                "Population": 1
             }
         }
     ]
