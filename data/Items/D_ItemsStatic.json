@@ -174,7 +174,7 @@
             "RowName": "None",
             "DataTableName": "D_IcarusAttachments"
         },
-        "CraftingExperience": 5,
+        "CraftingExperience": 20,
         "Manual_Tags": {
             "GameplayTags": []
         },
@@ -802,6 +802,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -812,6 +815,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -5480,6 +5486,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -5490,6 +5499,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -5693,6 +5705,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -5706,6 +5721,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -5804,6 +5822,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -5817,6 +5838,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -5915,6 +5939,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -5928,6 +5955,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -6131,6 +6161,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -6144,6 +6177,9 @@
                     },
                     {
                         "TagName": "Item.Crafting.Furnace"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -8124,6 +8160,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -8134,6 +8173,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -9057,6 +9099,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -9067,6 +9112,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -9543,7 +9591,7 @@
             "Audio": {
                 "RowName": "Default"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -11505,6 +11553,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -11515,6 +11566,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -12148,6 +12202,9 @@
                         "TagName": "Item.Bench"
                     },
                     {
+                        "TagName": "Item.Deployable.Storage"
+                    },
+                    {
                         "TagName": "Audio.Shelter.Check"
                     }
                 ]
@@ -12156,6 +12213,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Audio.Shelter.Check"
@@ -13110,6 +13170,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -13120,6 +13183,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -13215,6 +13281,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -13225,6 +13294,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -13289,7 +13361,7 @@
             "Audio": {
                 "RowName": "Default"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -18053,7 +18125,7 @@
             "Audio": {
                 "RowName": "Default"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -24541,6 +24613,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -24551,6 +24626,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -24643,6 +24721,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -24653,6 +24734,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -25417,6 +25501,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -25427,6 +25514,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -32371,6 +32461,9 @@
                         "TagName": "Item.Bench"
                     },
                     {
+                        "TagName": "Item.Deployable.Storage"
+                    },
+                    {
                         "TagName": "None"
                     }
                 ]
@@ -32382,6 +32475,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "None"
@@ -32711,6 +32807,7 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "CraftingExperience": 80,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -35182,6 +35279,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -35192,6 +35292,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -50880,6 +50983,9 @@
                         "TagName": "Item.Bench"
                     },
                     {
+                        "TagName": "Item.Deployable.Storage"
+                    },
+                    {
                         "TagName": "Audio.Shelter.Check"
                     }
                 ]
@@ -50888,6 +50994,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Audio.Shelter.Check"
@@ -83490,6 +83599,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -83500,6 +83612,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -84264,7 +84379,7 @@
                 "RowName": "Default"
             },
             "AdditionalStats": {
-                "(Value=\"IsSaddleCargoUseOnly_?\")": 1
+                "(Value=\"IsSaddleCargoUseOnly_?\")": 0
             },
             "CraftingExperience": 500,
             "Manual_Tags": {
@@ -86041,7 +86156,7 @@
             "Audio": {
                 "RowName": "Radar"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 600,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -93267,7 +93382,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 40,
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -93309,7 +93424,7 @@
             "Decayable": {
                 "RowName": "Decay_General"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 40,
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -100110,7 +100225,7 @@
             "Decayable": {
                 "RowName": "Decay_General"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -100152,7 +100267,7 @@
             "Decayable": {
                 "RowName": "Decay_Volatile_Substance"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -100194,7 +100309,7 @@
             "Decayable": {
                 "RowName": "Decay_General"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -101677,7 +101792,7 @@
             "Decayable": {
                 "RowName": "Decay_General"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -105311,7 +105426,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105374,7 +105489,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105437,7 +105552,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105500,7 +105615,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105563,7 +105678,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105626,7 +105741,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105689,7 +105804,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105752,7 +105867,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105815,7 +105930,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105878,7 +105993,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -105941,7 +106056,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -106004,7 +106119,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -106067,7 +106182,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -106130,7 +106245,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -106193,7 +106308,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -106256,7 +106371,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -106319,7 +106434,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -106382,7 +106497,7 @@
             "Audio": {
                 "RowName": "WoodRagTorch"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -111836,7 +111951,7 @@
             "Decayable": {
                 "RowName": "Decay_General"
             },
-            "CraftingExperience": 10,
+            "CraftingExperience": 20,
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -112191,6 +112306,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     }
                 ]
             },
@@ -112201,6 +112319,9 @@
                     },
                     {
                         "TagName": "Item.Bench"
+                    },
+                    {
+                        "TagName": "Item.Deployable.Storage"
                     },
                     {
                         "TagName": "Traits.Meshable"

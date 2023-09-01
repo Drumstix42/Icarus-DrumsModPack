@@ -159,7 +159,7 @@
                 "R": 255,
                 "A": 255
             },
-	    "bDisplayOnCompass": false
+	        "bDisplayOnCompass": false
         },
         {    
             "Name": "Deep_Mining_Drill_Electric",
@@ -172,7 +172,7 @@
                 "R": 255,
                 "A": 255
             },
-	    "bDisplayOnCompass": false
+	        "bDisplayOnCompass": false
         },
         {
             "Name": "Deep_Mining_Drill_Biofuel",
@@ -185,7 +185,7 @@
                 "R": 100,
                 "A": 255
             },
-	    "bDisplayOnCompass": false
+	        "bDisplayOnCompass": false
         },
         {
             "Name": "MapProxyMammoth",

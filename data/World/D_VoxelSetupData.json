@@ -577,6 +577,7 @@
             "SecondaryResourceType": {
                 "RowName": "Salt"
             },
+            "DensityMultiplier": 2,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineSalt"
