@@ -2365,7 +2365,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 20,
             "Manual_Tags": {
@@ -3846,7 +3846,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 10
@@ -5290,7 +5290,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 25
@@ -6896,7 +6896,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 15
@@ -6959,7 +6959,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 20
@@ -8501,7 +8501,7 @@
                 "RowName": "Flammable_Arrow"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -8813,7 +8813,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 25
@@ -8876,7 +8876,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 25
@@ -8939,7 +8939,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -31051,7 +31051,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 25
@@ -32308,7 +32308,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -38795,7 +38795,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 10,
@@ -39107,7 +39107,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseCriticalDamage_+%\")": 10,
@@ -47536,7 +47536,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 20,
             "Manual_Tags": {
@@ -47609,7 +47609,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 10,
             "Manual_Tags": {
@@ -48387,7 +48387,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCausePoison_%\")": 100
@@ -48463,7 +48463,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseSlow_%\")": 100
@@ -48539,7 +48539,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseWound_%\")": 100
@@ -48609,7 +48609,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCausePoison_%\")": 100
@@ -48679,7 +48679,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseSlow_%\")": 100
@@ -48749,7 +48749,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseWound_%\")": 100
@@ -53845,7 +53845,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 20,
             "Manual_Tags": {
@@ -53912,7 +53912,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseFireDamage_+\")": 40,
@@ -53994,7 +53994,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseFireDamage_+\")": 40,
@@ -54076,7 +54076,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BasePoisonDamage_+\")": 40,
@@ -54158,7 +54158,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BasePoisonDamage_+\")": 40,
@@ -54240,7 +54240,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseFrostDamage_+\")": 40,
@@ -54322,7 +54322,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseFrostDamage_+\")": 40,
@@ -56143,7 +56143,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 10,
             "Manual_Tags": {
@@ -61104,7 +61104,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 20,
             "Manual_Tags": {
@@ -61171,7 +61171,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 20,
             "Manual_Tags": {
@@ -61238,7 +61238,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseExplosiveDamage_+\")": 300,
@@ -61309,7 +61309,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseBleed_%\")": 100
@@ -61379,7 +61379,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseElectroshock_%\")": 100
@@ -61449,7 +61449,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 20,
             "Manual_Tags": {
@@ -67004,7 +67004,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 10,
             "Manual_Tags": {
@@ -67150,7 +67150,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 10,
             "Manual_Tags": {
@@ -67223,7 +67223,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseExplosiveDamage_+\")": 300,
@@ -67300,7 +67300,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseBleed_%\")": 100
@@ -67376,7 +67376,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseElectroshock_%\")": 100
@@ -67452,7 +67452,7 @@
                 "RowName": "Decay_MetaItem"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "CraftingExperience": 10,
             "Manual_Tags": {
@@ -70929,7 +70929,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseAttacksCauseMinorHemorrhage_%\")": 100,
@@ -102477,6 +102477,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Tool.Pickaxe.T1"
+                    },
+                    {
+                        "TagName": "Item.Tool.Pickaxe.T2"
                     }
                 ]
             },
@@ -102484,6 +102487,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Tool.Pickaxe.T1"
+                    },
+                    {
+                        "TagName": "Item.Tool.Pickaxe.T2"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -103036,7 +103042,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseFireDamage_+\")": 20,
@@ -104312,7 +104318,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BaseFrostDamage_+\")": 20,
@@ -105208,7 +105214,7 @@
                 "RowName": "Decay_02_Minutes"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Arrow"
             },
             "AdditionalStats": {
                 "(Value=\"BasePoisonDamage_+\")": 45,
