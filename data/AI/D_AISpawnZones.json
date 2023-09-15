@@ -20,7 +20,8 @@
                     "(Value=\"Conifer_Wolf\")": 8,
                     "(Value=\"Deer_Conifer_Large\")": 5,
                     "(Value=\"Chamois_M\")": 5,
-                    "(Value=\"Pronghorn\")": 5
+                    "(Value=\"Pronghorn\")": 5,
+                    "(Value=\"Horse\")": 4
                 }
             },
             "MedianLevel": 15,
@@ -39,11 +40,12 @@
                     "(Value=\"Pronghorn\")": 3,
                     "(Value=\"Buffalo\")": 2,
                     "(Value=\"Wild_Boar\")": 1,
-                    "(Value=\"Moa\")": 1
+                    "(Value=\"Moa\")": 1,
+                    "(Value=\"Horse\")": 1
                 }
             },
             "MedianLevel": 25,
-            "MaxLevel": 50
+            "MaxLevel": 70
         },
         {
             "Name": "OLY_Conifer_Hard",
@@ -58,7 +60,8 @@
                     "(Value=\"Pronghorn\")": 2,
                     "(Value=\"Buffalo\")": 3,
                     "(Value=\"Wild_Boar\")": 2,
-                    "(Value=\"Moa\")": 2
+                    "(Value=\"Moa\")": 2,
+                    "(Value=\"Horse\")": 2
                 }
             },
             "MinLevel": 60,
@@ -78,7 +81,8 @@
                     "(Value=\"Pronghorn\")": 1,
                     "(Value=\"Buffalo\")": 2,
                     "(Value=\"Wild_Boar\")": 3,
-                    "(Value=\"Moa\")": 3
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Horse\")": 2
                 }
             },
             "MinLevel": 60,
@@ -99,7 +103,7 @@
                 }
             },
             "MedianLevel": 15,
-            "MaxLevel": 30
+            "MaxLevel": 50
         },
         {
             "Name": "STYX_Conifer_Easy",
@@ -112,7 +116,8 @@
                     "(Value=\"Chamois_M\")": 10,
                     "(Value=\"Komodo\")": 3,
                     "(Value=\"Jaguar\")": 2,
-                    "(Value=\"Bear\")": 2
+                    "(Value=\"Bear\")": 1,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -122,7 +127,7 @@
                 ]
             },
             "MedianLevel": 15,
-            "MaxLevel": 30
+            "MaxLevel": 50
         },
         {
             "Name": "STYX_Conifer_Medium",
@@ -137,7 +142,8 @@
                     "(Value=\"Buffalo\")": 2,
                     "(Value=\"Wild_Boar\")": 1,
                     "(Value=\"Komodo\")": 5,
-                    "(Value=\"Moa\")": 1
+                    "(Value=\"Moa\")": 1,
+                    "(Value=\"Horse\")": 1
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -183,7 +189,8 @@
                     "(Value=\"Buffalo\")": 3,
                     "(Value=\"Komodo\")": 3,
                     "(Value=\"Jaguar\")": 4,
-                    "(Value=\"Moa\")": 2
+                    "(Value=\"Moa\")": 2,
+                    "(Value=\"Horse\")": 1
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -208,7 +215,8 @@
                     "(Value=\"Buffalo\")": 2,
                     "(Value=\"Wild_Boar\")": 3,
                     "(Value=\"Jaguar\")": 5,
-                    "(Value=\"Moa\")": 3
+                    "(Value=\"Moa\")": 3,
+                    "(Value=\"Horse\")": 1
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -251,7 +259,8 @@
                     "(Value=\"Bat_Dog\")": 5,
                     "(Value=\"Deer_Variant\")": 10,
                     "(Value=\"Chamois_Var\")": 8,
-                    "(Value=\"Rabbit\")": 5
+                    "(Value=\"Rabbit\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -275,7 +284,8 @@
                     "(Value=\"Bat_Dog\")": 10,
                     "(Value=\"Deer_Variant\")": 10,
                     "(Value=\"Chamois_Var\")": 5,
-                    "(Value=\"Rabbit\")": 5
+                    "(Value=\"Rabbit\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -290,7 +300,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 50
+            "MaxLevel": 120
         },
         {
             "Name": "PRO_Grasslands_Cats",
@@ -344,7 +354,8 @@
                 "SpawnList": {
                     "(Value=\"Moa\")": 5,
                     "(Value=\"Buffalo\")": 5,
-                    "(Value=\"Wild_Boar\")": 10
+                    "(Value=\"Wild_Boar\")": 10,
+                    "(Value=\"Horse\")": 5
                 },
                 "BiomeSpawnDensity": 10,
                 "RelevantAutonomousSpawners": [
@@ -363,7 +374,8 @@
             "Creatures": {
                 "SpawnList": {
                     "(Value=\"Snow_Wolf\")": 10,
-                    "(Value=\"Snow_Rabbit\")": 5
+                    "(Value=\"Snow_Rabbit\")": 5,
+                    "(Value=\"Horse\")": 2
                 }
             },
             "MinLevel": 10,
@@ -376,7 +388,7 @@
                 "SpawnList": {
                     "(Value=\"Polar_Bear\")": 2,
                     "(Value=\"Snow_Wolf\")": 10,
-                    "(Value=\"Mammoth_Arctic\")": 1,
+                    "(Value=\"Mammoth_Arctic\")": 2,
                     "(Value=\"Snow_Rabbit\")": 4,
                     "(Value=\"SnowLeopard\")": 2
                 },
@@ -748,7 +760,8 @@
                     "(Value=\"Bear\")": 5,
                     "(Value=\"Chamois_M\")": 2,
                     "(Value=\"Pronghorn\")": 3,
-                    "(Value=\"Wild_Boar\")": 5
+                    "(Value=\"Wild_Boar\")": 5,
+                    "(Value=\"Horse\")": 2
                 }
             },
             "MedianLevel": 15,
@@ -805,7 +818,7 @@
             },
             "MinLevel": 70,
             "MedianLevel": 80,
-            "MaxLevel": 120
+            "MaxLevel": 150
         },
         {
             "Name": "PRO_Lava_Strikers",
@@ -828,7 +841,7 @@
             },
             "MinLevel": 70,
             "MedianLevel": 80,
-            "MaxLevel": 90
+            "MaxLevel": 120
         },
         {
             "Name": "PRO_Lava_Komodo",
@@ -851,7 +864,7 @@
             },
             "MinLevel": 80,
             "MedianLevel": 100,
-            "MaxLevel": 120
+            "MaxLevel": 150
         },
         {
             "Name": "PRO_Swamp_Easy",
@@ -866,7 +879,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 25,
-            "MaxLevel": 30
+            "MaxLevel": 50
         },
         {
             "Name": "PRO_Swamp_Medium",
@@ -981,7 +994,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -992,7 +1006,7 @@
             },
             "MinLevel": 10,
             "MedianLevel": 15,
-            "MaxLevel": 30
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_General_0",
@@ -1005,7 +1019,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1016,7 +1031,7 @@
             },
             "MinLevel": 15,
             "MedianLevel": 35,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_General_1",
@@ -1029,7 +1044,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1040,7 +1056,7 @@
             },
             "MinLevel": 25,
             "MedianLevel": 35,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_General_2",
@@ -1053,7 +1069,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1064,7 +1081,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 30,
-            "MaxLevel": 50
+            "MaxLevel": 70
         },
         {
             "Name": "PRO_Grasslands_General_3",
@@ -1077,7 +1094,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1088,7 +1106,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 50
+            "MaxLevel": 70
         },
         {
             "Name": "PRO_Grasslands_General_4",
@@ -1101,7 +1119,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1112,7 +1131,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 45,
-            "MaxLevel": 55
+            "MaxLevel": 75
         },
         {
             "Name": "PRO_Grasslands_General_5",
@@ -1125,7 +1144,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1136,7 +1156,7 @@
             },
             "MinLevel": 45,
             "MedianLevel": 55,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Grasslands_Blueback",
@@ -1160,7 +1180,7 @@
             },
             "MinLevel": 10,
             "MedianLevel": 15,
-            "MaxLevel": 30
+            "MaxLevel": 50
         },
         {
             "Name": "PRO_Grasslands_Blueback_0",
@@ -1183,7 +1203,7 @@
             },
             "MinLevel": 15,
             "MedianLevel": 35,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_General_Birds",
@@ -1196,7 +1216,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1207,7 +1228,7 @@
             },
             "MinLevel": 10,
             "MedianLevel": 15,
-            "MaxLevel": 30
+            "MaxLevel": 50
         },
         {
             "Name": "PRO_Grasslands_General_Birds_0",
@@ -1220,7 +1241,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1231,7 +1253,7 @@
             },
             "MinLevel": 15,
             "MedianLevel": 35,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_General_Birds_1",
@@ -1244,7 +1266,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1255,7 +1278,7 @@
             },
             "MinLevel": 25,
             "MedianLevel": 35,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_General_Birds_2",
@@ -1268,7 +1291,8 @@
                     "(Value=\"Deer_Variant\")": 8,
                     "(Value=\"Moa\")": 3,
                     "(Value=\"Chamois_Var\")": 6,
-                    "(Value=\"Rabbit_Variant\")": 5
+                    "(Value=\"Rabbit_Variant\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1279,7 +1303,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 50
+            "MaxLevel": 70
         },
         {
             "Name": "PRO_Grasslands_Cliffs",
@@ -1300,7 +1324,7 @@
             },
             "MinLevel": 15,
             "MedianLevel": 35,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_Cliffs_0",
@@ -1321,7 +1345,7 @@
             },
             "MinLevel": 25,
             "MedianLevel": 35,
-            "MaxLevel": 45
+            "MaxLevel": 65
         },
         {
             "Name": "PRO_Grasslands_Cliffs_1",
@@ -1342,7 +1366,7 @@
             },
             "MinLevel": 50,
             "MedianLevel": 60,
-            "MaxLevel": 70
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Grasslands_Confier",
@@ -1354,7 +1378,8 @@
                     "(Value=\"Buffalo\")": 2,
                     "(Value=\"Moa\")": 1,
                     "(Value=\"Chamois_Var\")": 5,
-                    "(Value=\"Rabbit\")": 5
+                    "(Value=\"Rabbit\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1365,7 +1390,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 30,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_Confier_0",
@@ -1377,7 +1402,8 @@
                     "(Value=\"Buffalo\")": 2,
                     "(Value=\"Moa\")": 1,
                     "(Value=\"Chamois_Var\")": 5,
-                    "(Value=\"Rabbit\")": 5
+                    "(Value=\"Rabbit\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1388,7 +1414,7 @@
             },
             "MinLevel": 25,
             "MedianLevel": 35,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Grasslands_Confier_1",
@@ -1400,7 +1426,8 @@
                     "(Value=\"Buffalo\")": 2,
                     "(Value=\"Moa\")": 1,
                     "(Value=\"Chamois_Var\")": 5,
-                    "(Value=\"Rabbit\")": 5
+                    "(Value=\"Rabbit\")": 5,
+                    "(Value=\"Horse\")": 2
                 },
                 "RelevantAutonomousSpawners": [
                     {
@@ -1411,7 +1438,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 45,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Grasslands_Crater",
@@ -1434,7 +1461,7 @@
             },
             "MinLevel": 45,
             "MedianLevel": 50,
-            "MaxLevel": 65
+            "MaxLevel": 85
         },
         {
             "Name": "PRO_Arctic_General",
@@ -1449,7 +1476,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 45,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Arctic_General_0",
@@ -1464,7 +1491,7 @@
             },
             "MinLevel": 45,
             "MedianLevel": 65,
-            "MaxLevel": 80
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Arctic_General_1",
@@ -1479,7 +1506,7 @@
             },
             "MinLevel": 50,
             "MedianLevel": 70,
-            "MaxLevel": 90
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Arctic_General_2",
@@ -1494,7 +1521,7 @@
             },
             "MinLevel": 70,
             "MedianLevel": 80,
-            "MaxLevel": 120
+            "MaxLevel": 140
         },
         {
             "Name": "PRO_Arctic_Striker",
@@ -1515,7 +1542,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Arctic_Striker_0",
@@ -1536,7 +1563,7 @@
             },
             "MinLevel": 50,
             "MedianLevel": 65,
-            "MaxLevel": 90
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Arctic_Striker_1",
@@ -1557,7 +1584,7 @@
             },
             "MinLevel": 80,
             "MedianLevel": 100,
-            "MaxLevel": 120
+            "MaxLevel": 140
         },
         {
             "Name": "PRO_Tundra_General",
@@ -1580,7 +1607,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 45
+            "MaxLevel": 65
         },
         {
             "Name": "PRO_Tundra_General_0",
@@ -1603,7 +1630,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 40,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Tundra_General_1",
@@ -1626,7 +1653,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 45,
-            "MaxLevel": 70
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Tundra_Strikers",
@@ -1644,7 +1671,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 45,
-            "MaxLevel": 75
+            "MaxLevel": 95
         },
         {
             "Name": "PRO_Tundra_Strikers_0",
@@ -1668,7 +1695,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 45,
-            "MaxLevel": 90
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Swamp_General",
@@ -1693,7 +1720,7 @@
             },
             "MinLevel": 15,
             "MedianLevel": 25,
-            "MaxLevel": 40
+            "MaxLevel": 60
         },
         {
             "Name": "PRO_Swamp_General_0",
@@ -1718,7 +1745,7 @@
             },
             "MinLevel": 25,
             "MedianLevel": 35,
-            "MaxLevel": 50
+            "MaxLevel": 70
         },
         {
             "Name": "PRO_Swamp_General_1",
@@ -1743,7 +1770,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Swamp_General_2",
@@ -1768,7 +1795,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 55,
-            "MaxLevel": 65
+            "MaxLevel": 85
         },
         {
             "Name": "PRO_Swamp_General_3",
@@ -1793,7 +1820,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 60,
-            "MaxLevel": 75
+            "MaxLevel": 95
         },
         {
             "Name": "PRO_Swamp_General_4",
@@ -1818,7 +1845,7 @@
             },
             "MinLevel": 45,
             "MedianLevel": 65,
-            "MaxLevel": 80
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Swamp_General_5",
@@ -1843,7 +1870,7 @@
             },
             "MinLevel": 50,
             "MedianLevel": 75,
-            "MaxLevel": 90
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Swamp_General_6",
@@ -1868,7 +1895,7 @@
             },
             "MinLevel": 50,
             "MedianLevel": 65,
-            "MaxLevel": 100
+            "MaxLevel": 120
         },
         {
             "Name": "PRO_Swamp_General_Birds",
@@ -1893,7 +1920,7 @@
             },
             "MinLevel": 25,
             "MedianLevel": 35,
-            "MaxLevel": 50
+            "MaxLevel": 70
         },
         {
             "Name": "PRO_Swamp_General_Birds_0",
@@ -1918,7 +1945,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Swamp_General_Birds_1",
@@ -1943,7 +1970,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 55,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Swamp_Megatree",
@@ -1967,7 +1994,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 50
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Swamp_Megatree_0",
@@ -1991,7 +2018,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 50,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Swamp_Megatree_1",
@@ -2015,7 +2042,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 55,
-            "MaxLevel": 75
+            "MaxLevel": 95
         },
         {
             "Name": "PRO_Swamp_Megatree_2",
@@ -2039,7 +2066,7 @@
             },
             "MinLevel": 45,
             "MedianLevel": 60,
-            "MaxLevel": 80
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Swamp_Megatree_3",
@@ -2063,7 +2090,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 75,
-            "MaxLevel": 100
+            "MaxLevel": 120
         },
         {
             "Name": "PRO_Swamp_Megatree_4",
@@ -2087,7 +2114,7 @@
             },
             "MinLevel": 60,
             "MedianLevel": 75,
-            "MaxLevel": 120
+            "MaxLevel": 140
         },
         {
             "Name": "PRO_Swamp_Flooded",
@@ -2108,7 +2135,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 40,
-            "MaxLevel": 60
+            "MaxLevel": 80
         },
         {
             "Name": "PRO_Swamp_Flooded_0",
@@ -2129,7 +2156,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 55,
-            "MaxLevel": 65
+            "MaxLevel": 85
         },
         {
             "Name": "PRO_Swamp_Flooded_1",
@@ -2150,7 +2177,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 60,
-            "MaxLevel": 75
+            "MaxLevel": 95
         },
         {
             "Name": "PRO_Swamp_Flooded_2",
@@ -2171,7 +2198,7 @@
             },
             "MinLevel": 50,
             "MedianLevel": 75,
-            "MaxLevel": 90
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Lava_General",
@@ -2194,7 +2221,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 30,
-            "MaxLevel": 45
+            "MaxLevel": 85
         },
         {
             "Name": "PRO_Lava_General_0",
@@ -2217,7 +2244,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 30,
-            "MaxLevel": 60
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_General_1",
@@ -2240,7 +2267,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 45,
-            "MaxLevel": 60
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_General_2",
@@ -2263,7 +2290,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Lava_General_3",
@@ -2286,7 +2313,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 60,
-            "MaxLevel": 80
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Lava_General_4",
@@ -2309,7 +2336,7 @@
             },
             "MinLevel": 55,
             "MedianLevel": 60,
-            "MaxLevel": 65
+            "MaxLevel": 95
         },
         {
             "Name": "PRO_Lava_General_5",
@@ -2332,7 +2359,7 @@
             },
             "MinLevel": 60,
             "MedianLevel": 80,
-            "MaxLevel": 100
+            "MaxLevel": 130
         },
         {
             "Name": "PRO_Lava_General_6",
@@ -2355,7 +2382,7 @@
             },
             "MinLevel": 75,
             "MedianLevel": 90,
-            "MaxLevel": 120
+            "MaxLevel": 150
         },
         {
             "Name": "PRO_Lava_Buffalo",
@@ -2376,7 +2403,7 @@
             },
             "MinLevel": 15,
             "MedianLevel": 30,
-            "MaxLevel": 40
+            "MaxLevel": 70
         },
         {
             "Name": "PRO_Lava_Buffalo_0",
@@ -2397,7 +2424,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Lava_Striker",
@@ -2420,7 +2447,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 30,
-            "MaxLevel": 60
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_Striker_0",
@@ -2447,7 +2474,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Lava_Striker_1",
@@ -2470,7 +2497,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 45,
-            "MaxLevel": 60
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_Striker_2",
@@ -2489,7 +2516,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Lava_Striker_3",
@@ -2512,7 +2539,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 60,
-            "MaxLevel": 80
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Lava_Striker_4",
@@ -2535,7 +2562,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Lava_Striker_5",
@@ -2562,7 +2589,7 @@
             },
             "MinLevel": 60,
             "MedianLevel": 80,
-            "MaxLevel": 120
+            "MaxLevel": 150
         },
         {
             "Name": "PRO_Lava_General_Birds",
@@ -2589,7 +2616,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 30,
-            "MaxLevel": 45
+            "MaxLevel": 75
         },
         {
             "Name": "PRO_Lava_General_Birds_0",
@@ -2616,7 +2643,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 45,
-            "MaxLevel": 60
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_General_Birds_1",
@@ -2643,7 +2670,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 100
         },
         {
             "Name": "PRO_Lava_Drakes",
@@ -2664,7 +2691,7 @@
             },
             "MinLevel": 15,
             "MedianLevel": 30,
-            "MaxLevel": 40
+            "MaxLevel": 70
         },
         {
             "Name": "PRO_Lava_Drakes_0",
@@ -2685,7 +2712,7 @@
             },
             "MinLevel": 20,
             "MedianLevel": 30,
-            "MaxLevel": 60
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_Drakes_1",
@@ -2706,7 +2733,7 @@
             },
             "MinLevel": 30,
             "MedianLevel": 50,
-            "MaxLevel": 60
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_Drakes_2",
@@ -2727,7 +2754,7 @@
             },
             "MinLevel": 35,
             "MedianLevel": 50,
-            "MaxLevel": 70
+            "MaxLevel": 90
         },
         {
             "Name": "PRO_Lava_Drakes_3",
@@ -2748,7 +2775,7 @@
             },
             "MinLevel": 40,
             "MedianLevel": 60,
-            "MaxLevel": 80
+            "MaxLevel": 110
         },
         {
             "Name": "PRO_Lava_Drakes_4",
@@ -2769,7 +2796,7 @@
             },
             "MinLevel": 60,
             "MedianLevel": 80,
-            "MaxLevel": 100
+            "MaxLevel": 130
         },
         {
             "Name": "PRO_Lava_Drakes_5",
@@ -2790,7 +2817,7 @@
             },
             "MinLevel": 60,
             "MedianLevel": 90,
-            "MaxLevel": 120
+            "MaxLevel": 150
         }
     ]
 }
