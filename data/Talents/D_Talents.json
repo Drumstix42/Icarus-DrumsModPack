@@ -8162,7 +8162,7 @@
         {
             "Name": "Stalking_Base_Stamina",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-DisplayName\", \"Chase \\'em Down\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-Description\", \"Increase to base stamina\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina-Description\", \"Increase to base stamina. Thrown axes, knives, and spears are highlighted in the world (DrumsModPack). Grants access to Polar Bear armor recipes (DrumsModPack)\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Hunting/Talent_Hunting_ChaseEmDown.Talent_Hunting_ChaseEmDown",
             "TalentTree": {
                 "RowName": "Survival_Hunting"
@@ -8178,21 +8178,45 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 10
+                        "(Value=\"BaseMaximumStamina_+\")": 10,
+                        "(Value=\"HighlightThrownKnife_?\")": 1,
+                        "(Value=\"HighlightThrownAxe_?\")": 1,
+                        "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 25
+                        "(Value=\"BaseMaximumStamina_+\")": 25,
+                        "(Value=\"HighlightThrownKnife_?\")": 1,
+                        "(Value=\"HighlightThrownAxe_?\")": 1,
+                        "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 40
+                        "(Value=\"BaseMaximumStamina_+\")": 40,
+                        "(Value=\"HighlightThrownKnife_?\")": 1,
+                        "(Value=\"HighlightThrownAxe_?\")": 1,
+                        "(Value=\"HighlightThrownSpear_?\")": 1
                     },
-                    "GrantedFlags": []
+                    "GrantedFlags": [
+                        {
+                            "RowName": "Talent_Polarbear_Armor",
+                            "DataTableName": "D_CharacterFlags"
+                        }
+                    ]
                 }
             ],
             "ForbiddenFlags": [
@@ -17244,45 +17268,21 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 10,
-                        "(Value=\"HighlightThrownKnife_?\")": 1,
-                        "(Value=\"HighlightThrownAxe_?\")": 1,
-                        "(Value=\"HighlightThrownSpear_?\")": 1
+                        "(Value=\"BaseMaximumStamina_+\")": 10
                     },
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_Polarbear_Armor",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
+                    "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 25,
-                        "(Value=\"HighlightThrownKnife_?\")": 1,
-                        "(Value=\"HighlightThrownAxe_?\")": 1,
-                        "(Value=\"HighlightThrownSpear_?\")": 1
+                        "(Value=\"BaseMaximumStamina_+\")": 25
                     },
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_Polarbear_Armor",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
+                    "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+\")": 40,
-                        "(Value=\"HighlightThrownKnife_?\")": 1,
-                        "(Value=\"HighlightThrownAxe_?\")": 1,
-                        "(Value=\"HighlightThrownSpear_?\")": 1
+                        "(Value=\"BaseMaximumStamina_+\")": 40
                     },
-                    "GrantedFlags": [
-                        {
-                            "RowName": "Talent_Polarbear_Armor",
-                            "DataTableName": "D_CharacterFlags"
-                        }
-                    ]
+                    "GrantedFlags": []
                 }
             ],
             "RequiredTalents": [
@@ -19496,11 +19496,11 @@
                 "DataTableName": "D_WorkshopItems"
             },
             "TalentTree": {
-                "RowName": "Workshop_Armors"
+                "RowName": "Workshop_Backpacks"
             },
             "Position": {
                 "X": 500,
-                "Y": 300
+                "Y": 800
             },
             "Size": {
                 "X": 250,
@@ -19514,11 +19514,11 @@
                 "DataTableName": "D_WorkshopItems"
             },
             "TalentTree": {
-                "RowName": "Workshop_Armors"
+                "RowName": "Workshop_Backpacks"
             },
             "Position": {
                 "X": 2600,
-                "Y": 500
+                "Y": 1000
             },
             "Size": {
                 "X": 250,
@@ -19794,11 +19794,11 @@
                 "DataTableName": "D_WorkshopItems"
             },
             "TalentTree": {
-                "RowName": "Workshop_Armors"
+                "RowName": "Workshop_Backpacks"
             },
             "Position": {
                 "X": 2600,
-                "Y": 100
+                "Y": 600
             },
             "Size": {
                 "X": 250,
@@ -22101,11 +22101,11 @@
                 "DataTableName": "D_WorkshopItems"
             },
             "TalentTree": {
-                "RowName": "Workshop_Armors"
+                "RowName": "Workshop_Backpacks"
             },
             "Position": {
                 "X": 1900,
-                "Y": 300
+                "Y": 800
             },
             "Size": {
                 "X": 250,
@@ -22126,11 +22126,11 @@
                 "DataTableName": "D_WorkshopItems"
             },
             "TalentTree": {
-                "RowName": "Workshop_Armors"
+                "RowName": "Workshop_Backpacks"
             },
             "Position": {
                 "X": 1250,
-                "Y": 300
+                "Y": 800
             },
             "Size": {
                 "X": 250,
