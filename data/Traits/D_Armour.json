@@ -9,6 +9,8 @@
         "AnimBlueprintClass": "None",
         "FemaleAnimBlueprintClass": "None",
         "FirstPersonAnimBlueprintClass": "None",
+        "TPFurClass": "None",
+        "FPFurClass": "None",
         "ArmourStats": {},
         "ArmourType": "Undefined",
         "ArmourSet": {
@@ -1943,10 +1945,10 @@
             "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Head_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Head_Base_CopyPose_AnimBP_C",
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Head_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Head_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
-                "(Value=\"BasePhysicalDamageResistance_%\")": 4,
-                "(Value=\"BaseColdResistance_%\")": 4,
-                "(Value=\"BaseExposureResistance_+%\")": 3,
-                "(Value=\"BaseHeatResistance_%\")": 4
+                "(Value=\"BasePhysicalDamageResistance_%\")": 2,
+                "(Value=\"BaseColdResistance_%\")": 3,
+                "(Value=\"BaseExposureResistance_+%\")": 1,
+                "(Value=\"BaseHeatResistance_%\")": 6
             },
             "ArmourType": "Head",
             "ArmourSet": {
@@ -1960,10 +1962,10 @@
             "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Chest_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Chest_Base_CopyPose_AnimBP_C",
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Chest_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Chest_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
-                "(Value=\"BasePhysicalDamageResistance_%\")": 14,
-                "(Value=\"BaseColdResistance_%\")": 14,
-                "(Value=\"BaseExposureResistance_+%\")": 4,
-                "(Value=\"BaseHeatResistance_%\")": 6
+                "(Value=\"BasePhysicalDamageResistance_%\")": 8,
+                "(Value=\"BaseColdResistance_%\")": 6,
+                "(Value=\"BaseExposureResistance_+%\")": 1,
+                "(Value=\"BaseHeatResistance_%\")": 10
             },
             "ArmourType": "Chest",
             "ArmourSet": {
@@ -1979,10 +1981,10 @@
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Arm_base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Arm_base_CopyPose_AnimBP_C",
             "FirstPersonAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_1ST_CHA_MAL_ARM_Arm_AnimBP.SK_1ST_CHA_MAL_ARM_Arm_AnimBP_C",
             "ArmourStats": {
-                "(Value=\"BasePhysicalDamageResistance_%\")": 4,
-                "(Value=\"BaseColdResistance_%\")": 4,
+                "(Value=\"BasePhysicalDamageResistance_%\")": 2,
+                "(Value=\"BaseColdResistance_%\")": 1,
                 "(Value=\"BaseExposureResistance_+%\")": 3,
-                "(Value=\"BaseHeatResistance_%\")": 4
+                "(Value=\"BaseHeatResistance_%\")": 3
             },
             "ArmourType": "Hands",
             "ArmourSet": {
@@ -1996,10 +1998,10 @@
             "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Legs_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Legs_Base_CopyPose_AnimBP_C",
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Legs_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Legs_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
-                "(Value=\"BasePhysicalDamageResistance_%\")": 12,
-                "(Value=\"BaseColdResistance_%\")": 8,
+                "(Value=\"BasePhysicalDamageResistance_%\")": 2,
+                "(Value=\"BaseColdResistance_%\")": 4,
                 "(Value=\"BaseExposureResistance_+%\")": 4,
-                "(Value=\"BaseHeatResistance_%\")": 6
+                "(Value=\"BaseHeatResistance_%\")": 8
             },
             "ArmourType": "Legs",
             "ArmourSet": {
@@ -2013,8 +2015,8 @@
             "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Feet_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Feet_Base_CopyPose_AnimBP_C",
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Feet_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Feet_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
-                "(Value=\"BasePhysicalDamageResistance_%\")": 4,
-                "(Value=\"BaseColdResistance_%\")": 2,
+                "(Value=\"BasePhysicalDamageResistance_%\")": 2,
+                "(Value=\"BaseColdResistance_%\")": 1,
                 "(Value=\"BaseExposureResistance_+%\")": 2,
                 "(Value=\"BaseHeatResistance_%\")": 2
             },
@@ -2031,8 +2033,9 @@
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Head_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Head_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 4,
-                "(Value=\"BaseExposureResistance_+%\")": 4,
-                "(Value=\"BaseHeatResistance_%\")": 4
+                "(Value=\"BaseExposureResistance_+%\")": 2,
+                "(Value=\"BaseHeatResistance_%\")": 10,
+                "(Value=\"BaseColdResistance_%\")": 2
             },
             "ArmourType": "Head",
             "ArmourSet": {
@@ -2047,8 +2050,9 @@
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Chest_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Chest_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 10,
-                "(Value=\"BaseExposureResistance_+%\")": 7,
-                "(Value=\"BaseHeatResistance_%\")": 8
+                "(Value=\"BaseExposureResistance_+%\")": 6,
+                "(Value=\"BaseHeatResistance_%\")": 18,
+                "(Value=\"BaseColdResistance_%\")": 6
             },
             "ArmourType": "Chest",
             "ArmourSet": {
@@ -2065,8 +2069,9 @@
             "FirstPersonAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_1ST_CHA_MAL_ARM_Arm_AnimBP.SK_1ST_CHA_MAL_ARM_Arm_AnimBP_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 4,
-                "(Value=\"BaseExposureResistance_+%\")": 4,
-                "(Value=\"BaseHeatResistance_%\")": 2
+                "(Value=\"BaseExposureResistance_+%\")": 2,
+                "(Value=\"BaseHeatResistance_%\")": 6,
+                "(Value=\"BaseColdResistance_%\")": 2
             },
             "ArmourType": "Hands",
             "ArmourSet": {
@@ -2081,8 +2086,9 @@
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Legs_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Legs_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 8,
-                "(Value=\"BaseExposureResistance_+%\")": 6,
-                "(Value=\"BaseHeatResistance_%\")": 8
+                "(Value=\"BaseExposureResistance_+%\")": 4,
+                "(Value=\"BaseHeatResistance_%\")": 12,
+                "(Value=\"BaseColdResistance_%\")": 2
             },
             "ArmourType": "Legs",
             "ArmourSet": {
@@ -2097,8 +2103,9 @@
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Feet_Base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Feet_Base_CopyPose_AnimBP_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 2,
-                "(Value=\"BaseExposureResistance_+%\")": 4,
-                "(Value=\"BaseHeatResistance_%\")": 2
+                "(Value=\"BaseExposureResistance_+%\")": 2,
+                "(Value=\"BaseHeatResistance_%\")": 6,
+                "(Value=\"BaseColdResistance_%\")": 2
             },
             "ArmourType": "Feet",
             "ArmourSet": {
@@ -2114,8 +2121,9 @@
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 8,
                 "(Value=\"BaseHeatResistance_%\")": 15,
-                "(Value=\"BaseColdResistance_%\")": 10,
-                "(Value=\"BaseFireDamageResistance_%\")": 10
+                "(Value=\"BaseColdResistance_%\")": 6,
+                "(Value=\"BaseFireDamageResistance_%\")": 10,
+                "(Value=\"BaseExposureResistance_+%\")": 3
             },
             "ArmourType": "Head",
             "ArmourSet": {
@@ -2131,8 +2139,9 @@
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 18,
                 "(Value=\"BaseHeatResistance_%\")": 25,
-                "(Value=\"BaseColdResistance_%\")": 20,
-                "(Value=\"BaseFireDamageResistance_%\")": 15
+                "(Value=\"BaseColdResistance_%\")": 16,
+                "(Value=\"BaseFireDamageResistance_%\")": 15,
+                "(Value=\"BaseExposureResistance_+%\")": 6
             },
             "ArmourType": "Chest",
             "ArmourSet": {
@@ -2151,7 +2160,8 @@
                 "(Value=\"BasePhysicalDamageResistance_%\")": 8,
                 "(Value=\"BaseHeatResistance_%\")": 8,
                 "(Value=\"BaseColdResistance_%\")": 4,
-                "(Value=\"BaseFireDamageResistance_%\")": 5
+                "(Value=\"BaseFireDamageResistance_%\")": 5,
+                "(Value=\"BaseExposureResistance_+%\")": 2
             },
             "ArmourType": "Hands",
             "ArmourSet": {
@@ -2167,8 +2177,9 @@
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 15,
                 "(Value=\"BaseHeatResistance_%\")": 15,
-                "(Value=\"BaseColdResistance_%\")": 10,
-                "(Value=\"BaseFireDamageResistance_%\")": 15
+                "(Value=\"BaseColdResistance_%\")": 8,
+                "(Value=\"BaseFireDamageResistance_%\")": 15,
+                "(Value=\"BaseExposureResistance_+%\")": 3
             },
             "ArmourType": "Legs",
             "ArmourSet": {
@@ -2185,7 +2196,8 @@
                 "(Value=\"BasePhysicalDamageResistance_%\")": 6,
                 "(Value=\"BaseHeatResistance_%\")": 10,
                 "(Value=\"BaseColdResistance_%\")": 5,
-                "(Value=\"BaseFireDamageResistance_%\")": 5
+                "(Value=\"BaseFireDamageResistance_%\")": 5,
+                "(Value=\"BaseExposureResistance_+%\")": 2
             },
             "ArmourType": "Feet",
             "ArmourSet": {
@@ -2307,6 +2319,7 @@
             "FemaleMeshVariant": "/Game/ASS/CHA/ARM/SK_CHA_ARM_BrownBear_Chest.SK_CHA_ARM_BrownBear_Chest",
             "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_ARM_Chest_PolarBear_Skeleton_AnimBlueprint.SK_CHA_ARM_Chest_PolarBear_Skeleton_AnimBlueprint_C",
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_ARM_Chest_PolarBear_Skeleton_AnimBlueprint.SK_CHA_ARM_Chest_PolarBear_Skeleton_AnimBlueprint_C",
+            "TPFurClass": "/Game/ASS/CHA/ARM/GFur/BP_GFur_3RD_BrownBear_Chest.BP_GFur_3RD_BrownBear_Chest_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 8,
                 "(Value=\"BaseColdResistance_%\")": 16,
@@ -2326,6 +2339,8 @@
             "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_ARM_Arms_PolarBear_Skeleton_AnimBlueprint.SK_CHA_ARM_Arms_PolarBear_Skeleton_AnimBlueprint_C",
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_ARM_Arms_PolarBear_Skeleton_AnimBlueprint.SK_CHA_ARM_Arms_PolarBear_Skeleton_AnimBlueprint_C",
             "FirstPersonAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_1ST_CHA_MAL_ARM_Arm_AnimBP.SK_1ST_CHA_MAL_ARM_Arm_AnimBP_C",
+            "TPFurClass": "/Game/ASS/CHA/ARM/GFur/BP_GFur_3RD_BrownBear_Arms.BP_GFur_3RD_BrownBear_Arms_C",
+            "FPFurClass": "/Game/ASS/CHA/ARM/GFur/BP_GFur_1ST_BrownBear_Arms.BP_GFur_1ST_BrownBear_Arms_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 3,
                 "(Value=\"BaseColdResistance_%\")": 4,
@@ -2360,6 +2375,7 @@
             "FemaleMeshVariant": "/Game/ASS/CHA/ARM/SK_CHA_ARM_BrownBear_Feet.SK_CHA_ARM_BrownBear_Feet",
             "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_ARM_Boots_PolarBear_Skeleton_AnimBlueprint.SK_CHA_ARM_Boots_PolarBear_Skeleton_AnimBlueprint_C",
             "FemaleAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_ARM_Boots_PolarBear_Skeleton_AnimBlueprint.SK_CHA_ARM_Boots_PolarBear_Skeleton_AnimBlueprint_C",
+            "TPFurClass": "/Game/ASS/CHA/ARM/GFur/BP_GFur_3RD_BrownBear_Feet.BP_GFur_3RD_BrownBear_Feet_C",
             "ArmourStats": {
                 "(Value=\"BasePhysicalDamageResistance_%\")": 2,
                 "(Value=\"BaseColdResistance_%\")": 4,

@@ -477,7 +477,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16350,
+                "X": 15650,
                 "Y": 300
             },
             "Size": {
@@ -3366,7 +3366,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16350,
+                "X": 15650,
                 "Y": 1050
             },
             "Size": {
@@ -17252,7 +17252,7 @@
         {
             "Name": "Stalking_Base_Stamina_0",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina_0-DisplayName\", \"Chase \\'em Down\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina_0-Description\", \"Increase to base stamina. Thrown axes, knives, and spears are highlighted in the world (DrumsModPack). Grants access to Polar Bear armor recipes (DrumsModPack)\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Stalking_Base_Stamina_0-Description\", \"Increase to base stamina\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Hunting/Talent_Hunting_ChaseEmDown.Talent_Hunting_ChaseEmDown",
             "TalentTree": {
                 "RowName": "Survival_Hunting"
@@ -25647,7 +25647,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15650,
+                "X": 14950,
                 "Y": 100
             },
             "Size": {
@@ -25907,7 +25907,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15800,
+                "X": 15100,
                 "Y": 450
             },
             "Size": {
@@ -26210,7 +26210,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16000,
+                "X": 15300,
                 "Y": 850
             },
             "Size": {
@@ -26257,7 +26257,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16000,
+                "X": 15300,
                 "Y": 1200
             },
             "Size": {
@@ -27695,7 +27695,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15950,
+                "X": 15250,
                 "Y": 100
             },
             "Size": {
@@ -28137,10 +28137,10 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
+                "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 13950,
+                "X": 6150,
                 "Y": 850
             },
             "Size": {
@@ -28152,12 +28152,7 @@
                     "RowName": "Bone_Armor_Reroute",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
-            }
+            ]
         },
         {
             "Name": "Bone_Leg_Armor",
@@ -28166,10 +28161,10 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
+                "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 14250,
+                "X": 6450,
                 "Y": 850
             },
             "Size": {
@@ -28181,12 +28176,7 @@
                     "RowName": "Bone_Armor_Reroute",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
-            }
+            ]
         },
         {
             "Name": "Bone_Feet_Armor",
@@ -28195,10 +28185,10 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
+                "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 14400,
+                "X": 6600,
                 "Y": 1200
             },
             "Size": {
@@ -28210,12 +28200,7 @@
                     "RowName": "Bone_Armor_Reroute",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
-            }
+            ]
         },
         {
             "Name": "Bone_Head_Armor",
@@ -28224,10 +28209,10 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
+                "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 13800,
+                "X": 6000,
                 "Y": 1200
             },
             "Size": {
@@ -28239,12 +28224,7 @@
                     "RowName": "Bone_Armor_Reroute",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
-            }
+            ]
         },
         {
             "Name": "Bone_Arm_Armor",
@@ -28253,10 +28233,10 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
+                "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 14100,
+                "X": 6300,
                 "Y": 1200
             },
             "Size": {
@@ -28268,21 +28248,16 @@
                     "RowName": "Bone_Armor_Reroute",
                     "DataTableName": "D_Talents"
                 }
-            ],
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
-            }
+            ]
         },
         {
             "Name": "Bone_Armor_Reroute",
             "bIsReroute": true,
             "TalentTree": {
-                "RowName": "Blueprint_T2_Crafting"
+                "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 14100,
+                "X": 6300,
                 "Y": 1050
             },
             "Size": {
@@ -28292,7 +28267,7 @@
             "Rewards": [],
             "RequiredTalents": [
                 {
-                    "RowName": "Armor_Bench",
+                    "RowName": "Player_Crafting",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -31460,7 +31435,7 @@
                 "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 6400,
+                "X": 7200,
                 "Y": 450
             },
             "Size": {
@@ -31491,7 +31466,7 @@
                 "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 6700,
+                "X": 7500,
                 "Y": 450
             },
             "Size": {
@@ -31522,7 +31497,7 @@
                 "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 6100,
+                "X": 6900,
                 "Y": 450
             },
             "Size": {
@@ -31553,7 +31528,7 @@
                 "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 6400,
+                "X": 7200,
                 "Y": 850
             },
             "Size": {
@@ -31584,7 +31559,7 @@
                 "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 6700,
+                "X": 7500,
                 "Y": 850
             },
             "Size": {
@@ -31615,7 +31590,7 @@
                 "RowName": "Blueprint_T1_Player"
             },
             "Position": {
-                "X": 6100,
+                "X": 6900,
                 "Y": 850
             },
             "Size": {
@@ -31646,7 +31621,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16950,
+                "X": 16250,
                 "Y": 450
             },
             "Size": {
@@ -31671,7 +31646,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17250,
+                "X": 16550,
                 "Y": 450
             },
             "Size": {
@@ -31696,7 +31671,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16650,
+                "X": 15950,
                 "Y": 450
             },
             "Size": {
@@ -31721,7 +31696,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16950,
+                "X": 16250,
                 "Y": 850
             },
             "Size": {
@@ -31746,7 +31721,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17250,
+                "X": 16550,
                 "Y": 850
             },
             "Size": {
@@ -31771,7 +31746,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16650,
+                "X": 15950,
                 "Y": 100
             },
             "Size": {
@@ -31797,7 +31772,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16950,
+                "X": 16250,
                 "Y": 1200
             },
             "Size": {
@@ -31827,7 +31802,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17250,
+                "X": 16550,
                 "Y": 1200
             },
             "Size": {
@@ -32303,7 +32278,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16950,
+                "X": 16250,
                 "Y": 300
             },
             "Size": {
@@ -32529,13 +32504,138 @@
             "DrawMethodOverride": "XThenY"
         },
         {
+            "Name": "Brownbear_Chest_Armor",
+            "ExtraData": {
+                "RowName": "Item_Brownbear_Chest",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 13950,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Bone_Armor_Reroute_0",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "RequiredLevel": 20
+        },
+        {
+            "Name": "Brownbear_Leg_Armor",
+            "ExtraData": {
+                "RowName": "Item_Brownbear_Legs",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 14250,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Bone_Armor_Reroute_0",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "RequiredLevel": 20
+        },
+        {
+            "Name": "Brownbear_Feet_Armor",
+            "ExtraData": {
+                "RowName": "Item_Brownbear_Feet",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 14400,
+                "Y": 1200
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Bone_Armor_Reroute_0",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "RequiredLevel": 20
+        },
+        {
+            "Name": "BrownBear_Head_Armor",
+            "ExtraData": {
+                "RowName": "Item_Brownbear_Head_Armor",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 13800,
+                "Y": 1200
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Bone_Armor_Reroute_0",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "RequiredLevel": 20
+        },
+        {
+            "Name": "Brownbear_Arm_Armor",
+            "ExtraData": {
+                "RowName": "Item_Brownbear_Arms",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 14100,
+                "Y": 1200
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Bone_Armor_Reroute_0",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "RequiredLevel": 20
+        },
+        {
             "Name": "Bone_Armor_Reroute_0",
             "bIsReroute": true,
             "TalentTree": {
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15100,
+                "X": 14100,
                 "Y": 1050
             },
             "Size": {

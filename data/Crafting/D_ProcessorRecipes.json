@@ -55072,15 +55072,7 @@
             },
             "RecipeSets": [
                 {
-                    "RowName": "Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
+                    "RowName": "Character",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -55113,12 +55105,7 @@
                 }
             ],
             "Audio": {
-                "RowName": "ArmorBench"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
+                "RowName": "Default"
             }
         },
         {
@@ -55131,15 +55118,7 @@
             },
             "RecipeSets": [
                 {
-                    "RowName": "Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
+                    "RowName": "Character",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -55172,12 +55151,7 @@
                 }
             ],
             "Audio": {
-                "RowName": "ArmorBench"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
+                "RowName": "Default"
             }
         },
         {
@@ -55190,15 +55164,7 @@
             },
             "RecipeSets": [
                 {
-                    "RowName": "Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
+                    "RowName": "Character",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -55231,12 +55197,7 @@
                 }
             ],
             "Audio": {
-                "RowName": "ArmorBench"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
+                "RowName": "Default"
             }
         },
         {
@@ -55249,15 +55210,7 @@
             },
             "RecipeSets": [
                 {
-                    "RowName": "Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
+                    "RowName": "Character",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -55290,12 +55243,7 @@
                 }
             ],
             "Audio": {
-                "RowName": "ArmorBench"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
+                "RowName": "Default"
             }
         },
         {
@@ -55308,15 +55256,7 @@
             },
             "RecipeSets": [
                 {
-                    "RowName": "Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
+                    "RowName": "Character",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -55349,12 +55289,7 @@
                 }
             ],
             "Audio": {
-                "RowName": "ArmorBench"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "NewFrontiers"
-                }
+                "RowName": "Default"
             }
         },
         {
@@ -55507,6 +55442,309 @@
             ],
             "Audio": {
                 "RowName": "Default"
+            }
+        },
+        {
+            "Name": "Brownbear_Head_Armor",
+            "Requirement": {
+                "RowName": "BrownBear_Head_Armor"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Bear_Head",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Brownbear_Head",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
+            }
+        },
+        {
+            "Name": "Brownbear_Chest_Armor",
+            "Requirement": {
+                "RowName": "Brownbear_Chest_Armor"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Brownbear_Chest",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
+            }
+        },
+        {
+            "Name": "Brownbear_Arm_Armor",
+            "Requirement": {
+                "RowName": "Brownbear_Arm_Armor"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Brownbear_Arms",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
+            }
+        },
+        {
+            "Name": "Brownbear_Leg_Armor",
+            "Requirement": {
+                "RowName": "Brownbear_Leg_Armor"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 16,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Brownbear_Legs",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
+            }
+        },
+        {
+            "Name": "Brownbear_Feet_Armor",
+            "Requirement": {
+                "RowName": "Brownbear_Feet_Armor"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Brownbear_Feet",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
             }
         }
     ]
