@@ -374,8 +374,20 @@
             "Creatures": {
                 "SpawnList": {
                     "(Value=\"Snow_Wolf\")": 10,
+                    "(Value=\"Snow_Rabbit\")": 5
+                }
+            },
+            "MinLevel": 10,
+            "MedianLevel": 25,
+            "MaxLevel": 40
+        },
+        {
+            "Name": "STYX_Arctic_Easy",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Snow_Wolf\")": 10,
                     "(Value=\"Snow_Rabbit\")": 5,
-                    "(Value=\"Horse\")": 2
+                    "(Value=\"Tusker\")": 5
                 }
             },
             "MinLevel": 10,
@@ -392,17 +404,58 @@
                     "(Value=\"Snow_Rabbit\")": 4,
                     "(Value=\"SnowLeopard\")": 2
                 },
-                "BiomeSpawnDensity": 10
+                "BiomeSpawnDensity": 10,
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 60,
             "MedianLevel": 80,
             "MaxLevel": 120
         },
         {
+            "Name": "STYX_Arctic_Hard",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Polar_Bear\")": 2,
+                    "(Value=\"Snow_Wolf\")": 10,
+                    "(Value=\"Mammoth_Arctic\")": 2,
+                    "(Value=\"Snow_Rabbit\")": 4,
+                    "(Value=\"SnowLeopard\")": 2,
+                    "(Value=\"Tusker\")": 5
+                },
+                "BiomeSpawnDensity": 10,
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
+            },
+            "MinLevel": 60,
+            "MedianLevel": 80,
+            "MaxLevel": 180
+        },
+        {
             "Name": "Arctic_Bear_Easy",
             "Creatures": {
                 "SpawnList": {
                     "(Value=\"Polar_Bear\")": 2
+                }
+            },
+            "MinLevel": 20,
+            "MedianLevel": 50,
+            "MaxLevel": 80
+        },
+        {
+            "Name": "STYX_Arctic_Bear_Easy",
+            "Creatures": {
+                "SpawnList": {
+                    "(Value=\"Polar_Bear\")": 4,
+                    "(Value=\"Tusker\")": 2
                 }
             },
             "MinLevel": 20,
@@ -418,7 +471,13 @@
                     "(Value=\"SnowLeopard\")": 2,
                     "(Value=\"Mammoth_Arctic\")": 1,
                     "(Value=\"Scorpion_Arctic\")": 4
-                }
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 20,
             "MedianLevel": 40,
@@ -431,7 +490,13 @@
                     "(Value=\"Polar_Bear\")": 3,
                     "(Value=\"Mammoth_Arctic\")": 1,
                     "(Value=\"Scorpion_Arctic\")": 2
-                }
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 60,
             "MedianLevel": 90,
@@ -773,11 +838,17 @@
                 "SpawnList": {
                     "(Value=\"Polar_Bear\")": 5,
                     "(Value=\"Snow_Wolf\")": 5,
-                    "(Value=\"Mammoth_Arctic\")": 4,
+                    "(Value=\"Mammoth_Arctic\")": 3,
                     "(Value=\"Snow_Rabbit\")": 5,
                     "(Value=\"SnowLeopard\")": 5,
                     "(Value=\"Deer\")": 5
-                }
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MedianLevel": 15,
             "MaxLevel": 30
@@ -947,7 +1018,13 @@
                 "SpawnList": {
                     "(Value=\"Snow_Wolf\")": 5
                 },
-                "BiomeSpawnDensity": 10
+                "BiomeSpawnDensity": 10,
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 40,
             "MedianLevel": 50,
@@ -962,7 +1039,13 @@
                     "(Value=\"BlueBack\")": 10,
                     "(Value=\"Wooly_Zebra\")": 10
                 },
-                "BiomeSpawnDensity": 5
+                "BiomeSpawnDensity": 5,
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 40,
             "MedianLevel": 70,
@@ -1472,7 +1555,13 @@
                     "(Value=\"Snow_Wolf\")": 6,
                     "(Value=\"Wooly_Zebra\")": 5,
                     "(Value=\"Snow_Rabbit\")": 5
-                }
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 35,
             "MedianLevel": 45,
@@ -1487,7 +1576,13 @@
                     "(Value=\"Snow_Wolf\")": 6,
                     "(Value=\"Wooly_Zebra\")": 5,
                     "(Value=\"Snow_Rabbit\")": 5
-                }
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 45,
             "MedianLevel": 65,
@@ -1502,7 +1597,13 @@
                     "(Value=\"Snow_Wolf\")": 6,
                     "(Value=\"Wooly_Zebra\")": 5,
                     "(Value=\"Snow_Rabbit\")": 5
-                }
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 50,
             "MedianLevel": 70,
@@ -1517,7 +1618,13 @@
                     "(Value=\"Snow_Wolf\")": 6,
                     "(Value=\"Wooly_Zebra\")": 5,
                     "(Value=\"Snow_Rabbit\")": 5
-                }
+                },
+                "RelevantAutonomousSpawners": [
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
+                    }
+                ]
             },
             "MinLevel": 70,
             "MedianLevel": 80,
@@ -1558,6 +1665,10 @@
                     {
                         "RowName": "Predator_Bird_Few",
                         "DataTableName": "D_AutonomousSpawns"
+                    },
+                    {
+                        "RowName": "Arctic_Bat",
+                        "DataTableName": "D_AutonomousSpawns"
                     }
                 ]
             },
@@ -1578,6 +1689,10 @@
                 "RelevantAutonomousSpawners": [
                     {
                         "RowName": "Predator_Bird_Few",
+                        "DataTableName": "D_AutonomousSpawns"
+                    },
+                    {
+                        "RowName": "Arctic_Bat",
                         "DataTableName": "D_AutonomousSpawns"
                     }
                 ]
