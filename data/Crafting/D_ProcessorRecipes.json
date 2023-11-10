@@ -8575,7 +8575,7 @@
                         "RowName": "Organic_Resin",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 1,
+                    "Count": 10,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
