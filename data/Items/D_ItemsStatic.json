@@ -22070,6 +22070,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Equip.Quickbar"
+                    },
+                    {
+                        "TagName": "Item.Tool"
                     }
                 ]
             },
@@ -22077,6 +22080,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Equip.Quickbar"
+                    },
+                    {
+                        "TagName": "Item.Tool"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -22127,6 +22133,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Equip.Quickbar"
+                    },
+                    {
+                        "TagName": "Item.Tool"
                     }
                 ]
             },
@@ -22134,6 +22143,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Equip.Quickbar"
+                    },
+                    {
+                        "TagName": "Item.Tool"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -27113,8 +27125,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27166,8 +27188,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27220,8 +27252,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27273,8 +27315,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27327,8 +27379,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27380,8 +27442,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27434,8 +27506,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27487,8 +27569,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27541,8 +27633,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27594,8 +27696,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27648,8 +27760,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -27701,8 +27823,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -35694,6 +35826,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Equip.Quickbar"
+                    },
+                    {
+                        "TagName": "Item.Resource"
                     }
                 ]
             },
@@ -35701,6 +35836,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Equip.Quickbar"
+                    },
+                    {
+                        "TagName": "Item.Resource"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -36408,8 +36546,18 @@
             "Decayable": {
                 "RowName": "Decay_General"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53152,8 +53300,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53206,8 +53364,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53260,8 +53428,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53314,8 +53492,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53368,8 +53556,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53422,8 +53620,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53476,8 +53684,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53530,8 +53748,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53584,8 +53812,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53638,8 +53876,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53692,8 +53940,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53746,8 +54004,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53800,8 +54068,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -53854,8 +54132,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -67991,8 +68279,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 10,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -76794,8 +77092,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 40,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -76894,8 +77202,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 40,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -77190,8 +77508,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 40,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -93679,8 +94007,18 @@
                 "RowName": "WoodRagTorch"
             },
             "CraftingExperience": 40,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -93721,8 +94059,18 @@
                 "RowName": "Decay_General"
             },
             "CraftingExperience": 40,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -100622,8 +100970,18 @@
                 "RowName": "Decay_General"
             },
             "CraftingExperience": 20,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -100664,8 +101022,18 @@
                 "RowName": "Decay_Volatile_Substance"
             },
             "CraftingExperience": 20,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -100706,8 +101074,18 @@
                 "RowName": "Decay_General"
             },
             "CraftingExperience": 20,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -102490,8 +102868,18 @@
                 "RowName": "Decay_General"
             },
             "CraftingExperience": 25,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -102532,8 +102920,18 @@
                 "RowName": "Decay_General"
             },
             "CraftingExperience": 25,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -112597,8 +112995,18 @@
                 "RowName": "Decay_General"
             },
             "CraftingExperience": 20,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Resource"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116665,8 +117073,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116712,8 +117130,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116759,8 +117187,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116806,8 +117244,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116848,8 +117296,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116890,8 +117348,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116932,8 +117400,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -116979,8 +117457,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117026,8 +117514,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117068,8 +117566,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117115,8 +117623,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117162,8 +117680,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117204,8 +117732,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117246,8 +117784,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117293,8 +117841,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117340,8 +117898,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117387,8 +117955,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117434,8 +118012,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117481,8 +118069,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117523,8 +118121,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117570,8 +118178,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117612,8 +118230,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117659,8 +118287,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117743,8 +118381,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117785,8 +118433,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117827,8 +118485,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117874,8 +118542,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117921,8 +118599,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -117968,8 +118656,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118015,8 +118713,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118062,8 +118770,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118109,8 +118827,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118156,8 +118884,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118198,8 +118936,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118240,8 +118988,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118282,8 +119040,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118414,8 +119182,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118484,8 +119262,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118554,8 +119342,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118624,8 +119422,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118689,8 +119497,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118754,8 +119572,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118819,8 +119647,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118889,8 +119727,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -118954,8 +119802,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119024,8 +119882,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119094,8 +119962,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119159,8 +120037,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119224,8 +120112,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119294,8 +120192,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119364,8 +120272,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119434,8 +120352,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119504,8 +120432,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119569,8 +120507,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119639,8 +120587,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119704,8 +120662,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119769,8 +120737,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119839,8 +120817,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119909,8 +120897,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -119979,8 +120977,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120049,8 +121057,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120119,8 +121137,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120184,8 +121212,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120254,8 +121292,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120319,8 +121367,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120384,8 +121442,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120449,8 +121517,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120519,8 +121597,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120589,8 +121677,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120654,8 +121752,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120724,8 +121832,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -120789,8 +121907,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -122744,7 +123872,7 @@
                 "RowName": "Deployable_750"
             },
             "Inventory": {
-                "RowName": "Rustic_Decoration_Storage"
+                "RowName": "Storage_Metal_Crate_Medium"
             },
             "Experience": {
                 "RowName": "CraftedItem"
@@ -122837,7 +123965,7 @@
                 "RowName": "Deployable_750"
             },
             "Inventory": {
-                "RowName": "Rustic_Decoration_Storage"
+                "RowName": "Storage_Metal_Crate_Medium"
             },
             "Experience": {
                 "RowName": "CraftedItem"
@@ -124200,8 +125328,18 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -124271,8 +125409,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -124337,8 +125485,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -124391,8 +125549,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -124433,8 +125601,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -124475,8 +125653,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -126611,7 +127799,7 @@
                 "RowName": "Deployable_1000"
             },
             "Inventory": {
-                "RowName": "Rustic_Decoration_Storage"
+                "RowName": "Storage_Metal_Crate_Medium"
             },
             "Experience": {
                 "RowName": "CraftedItem"
@@ -126716,7 +127904,7 @@
                 "RowName": "Deployable_1000"
             },
             "Inventory": {
-                "RowName": "Rustic_Decoration_Storage"
+                "RowName": "Storage_Metal_Crate_Medium"
             },
             "Experience": {
                 "RowName": "CraftedItem"
@@ -127554,8 +128742,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -127608,8 +128806,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -127650,8 +128858,18 @@
                 "RowName": "Default"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -127704,8 +128922,18 @@
                 "RowName": "GenericDeployable"
             },
             "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -130261,6 +131489,342 @@
                     },
                     {
                         "TagName": "Traits.Inventory"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_00",
+            "Meshable": {
+                "RowName": "Mesh_Meta_Sickle_Inaris_00"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Sickle_Inaris_00"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Sickle"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Meta_Item_Inaris"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "ToolDamage": {
+                "RowName": "Meta_Sickle_Inaris"
+            },
+            "Audio": {
+                "RowName": "Sickle"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_01",
+            "Meshable": {
+                "RowName": "Mesh_Meta_Sickle_Inaris_01"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Sickle_Inaris_01"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Sickle"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Meta_Item_Inaris"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "ToolDamage": {
+                "RowName": "Meta_Sickle_Inaris"
+            },
+            "Audio": {
+                "RowName": "Sickle"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_02",
+            "Meshable": {
+                "RowName": "Mesh_Meta_Sickle_Inaris_02"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Sickle_Inaris_02"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Sickle"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Meta_Item_Inaris"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "ToolDamage": {
+                "RowName": "Meta_Sickle_Inaris"
+            },
+            "Audio": {
+                "RowName": "Sickle"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_03",
+            "Meshable": {
+                "RowName": "Mesh_Meta_Sickle_Inaris_03"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Sickle_Inaris_03"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Sickle"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Meta_Item_Inaris"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "ToolDamage": {
+                "RowName": "Meta_Sickle_Inaris"
+            },
+            "Audio": {
+                "RowName": "Sickle"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
                     }
                 ],
                 "ParentTags": []

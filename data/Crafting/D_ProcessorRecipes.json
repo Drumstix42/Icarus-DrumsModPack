@@ -5587,6 +5587,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -5632,6 +5636,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -5683,6 +5691,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -5728,6 +5740,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -5779,6 +5795,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -5824,6 +5844,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -5883,6 +5907,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -5936,6 +5964,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -5995,6 +6027,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -6048,6 +6084,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -6151,6 +6191,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -11848,6 +11900,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -11901,6 +11957,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -11960,6 +12020,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -12016,6 +12080,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -12069,6 +12137,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -12318,6 +12390,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -12644,11 +12728,15 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
-                    "RowName": "Kitchen_Stove",
+                    "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
                     "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -21623,6 +21711,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -21659,6 +21759,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -21697,6 +21809,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -21734,6 +21858,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -21770,6 +21906,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -22077,6 +22225,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -22122,6 +22274,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -22164,6 +22320,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -22215,6 +22375,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -23815,6 +23979,18 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -23858,6 +24034,18 @@
             "RecipeSets": [
                 {
                     "RowName": "Campfire",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -23907,6 +24095,18 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -23950,6 +24150,18 @@
             "RecipeSets": [
                 {
                     "RowName": "Campfire",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -24105,6 +24317,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -24151,6 +24367,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -25322,6 +25542,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -25359,6 +25591,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -25398,6 +25642,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -25435,6 +25691,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -25474,6 +25742,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -25512,6 +25792,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -25549,6 +25841,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -28758,6 +29062,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -28792,6 +29100,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -28832,6 +29144,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -28866,6 +29182,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -28906,6 +29226,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -28943,6 +29267,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -28977,6 +29305,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -33968,6 +34300,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -34026,6 +34362,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -37085,6 +37425,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -37126,6 +37478,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -37169,6 +37533,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -37201,6 +37577,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -40896,6 +41276,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -40933,6 +41325,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -40965,6 +41369,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -41010,6 +41418,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -41894,6 +42306,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -41941,6 +42357,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -41994,6 +42414,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -42041,6 +42465,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -42094,6 +42522,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -42144,6 +42576,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -42191,6 +42627,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -43319,6 +43759,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -43379,6 +43823,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -43445,6 +43893,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -43505,6 +43957,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -43571,6 +44027,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -43631,6 +44091,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -43697,6 +44161,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -43757,6 +44225,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -43823,6 +44295,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -43883,6 +44359,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Masonry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T3",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -43949,6 +44429,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -44012,6 +44496,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Masonry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -44069,6 +44557,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -44331,6 +44831,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -44883,6 +45387,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -47825,6 +48333,18 @@
                 {
                     "RowName": "Firepit",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47866,6 +48386,18 @@
                 },
                 {
                     "RowName": "Firepit",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -54449,7 +54981,7 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Fatty_TBone",
+                        "RowName": "Fatty_Tbone",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 2,
@@ -54828,74 +55360,6 @@
             }
         },
         {
-            "Name": "Rug_AlphaWolf",
-            "Requirement": {
-                "RowName": "Advanced_Rug_Set"
-            },
-            "SessionRequirement": {
-                "RowName": "Mission_BlackWolf_Items"
-            },
-            "RequiredMillijoules": 3000,
-            "RecipeSets": [
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Alphawolf_Head",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Fur",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 30,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Advanced_Leather",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Platinum_Weave",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5,
-                    "DynamicProperties": []
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Rug_AlphaWolf",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "ArmorBench"
-            }
-        },
-        {
             "Name": "Rug_Bear",
             "Requirement": {
                 "RowName": "Advanced_Rug_Set"
@@ -54961,71 +55425,6 @@
             }
         },
         {
-            "Name": "Rug_Buffalo",
-            "Requirement": {
-                "RowName": "Advanced_Rug_Set"
-            },
-            "RequiredMillijoules": 3000,
-            "RecipeSets": [
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Buffalo_Head",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Fur",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 30,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Advanced_Leather",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Platinum_Weave",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5,
-                    "DynamicProperties": []
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Rug_Buffalo",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "ArmorBench"
-            }
-        },
-        {
             "Name": "Rug_Conifer_Wolf",
             "Requirement": {
                 "RowName": "Basic_Rug_Set"
@@ -55034,6 +55433,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -55102,6 +55505,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -55164,6 +55571,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -55232,6 +55643,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -55274,71 +55689,6 @@
                 {
                     "Element": {
                         "RowName": "Rug_Desert_Wolf",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "ArmorBench"
-            }
-        },
-        {
-            "Name": "Rug_Jaguar",
-            "Requirement": {
-                "RowName": "Advanced_Rug_Set"
-            },
-            "RequiredMillijoules": 3000,
-            "RecipeSets": [
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Jaguar_Head",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Fur",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 30,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Advanced_Leather",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Platinum_Weave",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5,
-                    "DynamicProperties": []
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Rug_Jaguar",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -55435,6 +55785,10 @@
                     "DataTableName": "D_RecipeSets"
                 },
                 {
+                    "RowName": "Advanced_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
                     "RowName": "Electric_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
@@ -55489,128 +55843,6 @@
             }
         },
         {
-            "Name": "Rug_SnowLeopard",
-            "Requirement": {
-                "RowName": "Advanced_Rug_Set"
-            },
-            "RequiredMillijoules": 3000,
-            "RecipeSets": [
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "SnowLeopard_Head",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Fur",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 30,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Advanced_Leather",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Platinum_Weave",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5,
-                    "DynamicProperties": []
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Rug_SnowLeopard",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "ArmorBench"
-            }
-        },
-        {
-            "Name": "Rug_Weave_Thin",
-            "Requirement": {
-                "RowName": "Advanced_Rug_Set"
-            },
-            "RequiredMillijoules": 3000,
-            "RecipeSets": [
-                {
-                    "RowName": "Advanced_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Electric_Armor_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Advanced_Leather",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Platinum_Weave",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Fiber",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 60,
-                    "DynamicProperties": []
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Rug_Weave_Thin",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "ArmorBench"
-            }
-        },
-        {
             "Name": "Rug_Weave_Thick",
             "Requirement": {
                 "RowName": "Basic_Rug_Set"
@@ -55619,6 +55851,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Armor_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -55709,6 +55945,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Cooking_Station",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
                 },
                 {
@@ -56583,7 +56823,7 @@
         {
             "Name": "Brownbear_Head_Armor",
             "Requirement": {
-                "RowName": "BrownBear_Head_Armor"
+                "RowName": "Brownbear_Head_Armor"
             },
             "RecipeSets": [
                 {
@@ -61516,6 +61756,55 @@
                 {
                     "Element": {
                         "RowName": "Gold_Wall_Sign",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CarpentryBench"
+            }
+        },
+        {
+            "Name": "Gold_Partition",
+            "Requirement": {
+                "RowName": "Gold_Decorations"
+            },
+            "SessionRequirement": {
+                "DataTableName": "D_DLCPackageData",
+                "RowName": "Art_Deco_Pack"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Rustic_Decorations_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Refined_Gold",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Stone",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 24,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Gold_Partition",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
