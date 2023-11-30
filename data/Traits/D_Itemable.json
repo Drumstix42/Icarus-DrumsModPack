@@ -12590,7 +12590,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Corn_Seed",
@@ -12599,7 +12599,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Corn_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Corn_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Wheat_Seed",
@@ -12608,7 +12608,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wheat_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wheat_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Reed_Flower_Seed",
@@ -12617,7 +12617,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Reed_Flower_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Reed_Flower_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Yeast_Seed",
@@ -12626,7 +12626,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Yeast_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Yeast_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Lily_Seed",
@@ -12635,7 +12635,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Lily_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Lily_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Berry_Seed",
@@ -12644,7 +12644,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Berry_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Berry_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Pumpkin_Seed",
@@ -12653,7 +12653,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pumpkin_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pumpkin_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Bean_Seed",
@@ -12662,7 +12662,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Bean_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Bean_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Squash_Seed",
@@ -12671,7 +12671,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Squash_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Squash_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Watermelon_Seed",
@@ -12680,7 +12680,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Watermelon_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Watermelon_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Cocoa_Seed",
@@ -12689,7 +12689,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cocoa_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cocoa_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Coffee_Seed",
@@ -12698,7 +12698,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Coffee_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Coffee_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_GreenTea_Seed",
@@ -12707,7 +12707,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GreenTea_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GreenTea_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_WildTea_Seed",
@@ -12716,7 +12716,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_WildTea_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_WildTea_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Carrot_Seed",
@@ -12725,7 +12725,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Mushroom_Seed",
@@ -12734,7 +12734,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mushroom_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mushroom_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Tomato_Seed",
@@ -12743,7 +12743,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Tomato_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Tomato_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Potato_Seed",
@@ -12752,7 +12752,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Potato_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Potato_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Rhubarb_Seed",
@@ -12761,7 +12761,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rhubarb_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rhubarb_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Kumara_Seed",
@@ -12770,7 +12770,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Kumara_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Kumara_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Avocado_Seed",
@@ -12779,7 +12779,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Avocado_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Avocado_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Strawberry_Seed",
@@ -12788,7 +12788,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Strawberry_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Strawberry_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Fiber_Seed",
@@ -12797,7 +12797,7 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fiber_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fiber_Seed-FlavorText\", \"You reap what you sow.\")",
             "Weight": 10,
-            "MaxStack": 200
+            "MaxStack": 400
         },
         {
             "Name": "Item_Stone_Shovel",
