@@ -32470,6 +32470,38 @@
                 }
             ],
             "RequiredLevel": 20
+        },
+        {
+            "Name": "Raw_Wood_Sign",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Raw_Wood_Sign-DisplayName\", \"Rustic Sign Pack\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Raw_Wood_Sign-Description\", \"A Collection of Rustic Signs\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Raw_Wood_Sign_Trunk_A_Ground.T_ITEM_Raw_Wood_Sign_Trunk_A_Ground",
+            "ExtraData": {
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T1_Player"
+            },
+            "Position": {
+                "X": 6300,
+                "Y": 450
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Player_Crafting",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "ForbiddenFlags": [
+                {
+                    "DataTableName": "D_SessionFlags",
+                    "RowName": "Tutorial_HuntingLocked"
+                }
+            ]
         }
     ]
 }

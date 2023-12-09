@@ -169,6 +169,10 @@
             "RowName": "None",
             "DataTableName": "D_FLODDescriptions"
         },
+        "TurretData": {
+            "RowName": "None",
+            "DataTableName": "D_Turret"
+        },
         "AdditionalStats": {},
         "Attachments": {
             "RowName": "None",
@@ -11630,6 +11634,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -11683,6 +11690,9 @@
                         "TagName": "Traits.Highlightable"
                     },
                     {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
                         "TagName": "Traits.Durable"
                     }
                 ],
@@ -11711,6 +11721,9 @@
             },
             "Highlightable": {
                 "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
             },
             "Durable": {
                 "RowName": "Carcass_Medium"
@@ -11769,6 +11782,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -12982,6 +12998,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -13039,6 +13058,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -13794,6 +13816,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -13851,6 +13876,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -14093,6 +14121,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -14144,6 +14175,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -14443,6 +14477,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -14500,6 +14537,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -17203,6 +17243,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -17254,6 +17297,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -21440,6 +21486,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -21497,6 +21546,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -29906,6 +29958,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -29963,6 +30018,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -30073,6 +30131,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -30130,6 +30191,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -30912,6 +30976,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -30969,6 +31036,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -32732,6 +32802,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -32789,6 +32862,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -33361,6 +33437,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -33418,6 +33497,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -34562,6 +34644,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -34619,6 +34704,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -34724,6 +34812,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -34781,6 +34872,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -35549,6 +35643,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -35606,6 +35703,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -36717,6 +36817,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -36768,6 +36871,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -36799,6 +36905,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -36850,6 +36959,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -39725,6 +39837,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -39782,6 +39897,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -40229,6 +40347,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -40286,6 +40407,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -40317,6 +40441,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -40374,6 +40501,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -60498,6 +60628,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -60551,6 +60684,9 @@
                         "TagName": "Traits.Highlightable"
                     },
                     {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
                         "TagName": "Traits.Durable"
                     }
                 ],
@@ -60579,6 +60715,9 @@
             },
             "Highlightable": {
                 "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
             },
             "Durable": {
                 "RowName": "Carcass_Medium"
@@ -60637,6 +60776,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -80339,6 +80481,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -80396,6 +80541,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -80684,6 +80832,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -80741,6 +80892,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -82518,6 +82672,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -82575,6 +82732,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -82813,6 +82973,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -82864,6 +83027,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -83074,6 +83240,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -83125,6 +83294,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -85314,6 +85486,12 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
+            "Buildable": {
+                "DataTableName": "D_Actionable"
+            },
             "Durable": {
                 "RowName": "Carcass_Medium"
             },
@@ -85371,6 +85549,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -101831,19 +102012,22 @@
                 "RowName": "Basic_Turret"
             },
             "Durable": {
-                "RowName": "Deployable_1000"
+                "RowName": "Deployable_10000"
             },
             "Floatable": {
                 "RowName": "HeavyItem"
             },
             "Inventory": {
-                "RowName": "Inventory_Basic_Turret"
+                "RowName": "Inventory_Turret"
             },
             "Decayable": {
                 "RowName": "Decay_10_Minutes"
             },
             "Weight": {
                 "RowName": "MediumDeployable"
+            },
+            "TurretData": {
+                "RowName": "Basic_Pistol_Turret"
             },
             "Generated_Tags": {
                 "GameplayTags": [
@@ -111857,6 +112041,9 @@
             "Highlightable": {
                 "RowName": "Generic"
             },
+            "Actionable": {
+                "RowName": "Carcass_Drop"
+            },
             "Durable": {
                 "RowName": "Carcass_Small"
             },
@@ -111908,6 +112095,9 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -131867,6 +132057,44 @@
                     },
                     {
                         "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Mission_AudioLog_Prometheus_3",
+            "Meshable": {
+                "RowName": "Mesh_Module_Waypoint"
+            },
+            "Itemable": {
+                "RowName": "Item_Mission_AudioLog_Prometheus_3"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "AdditionalStats": {
+                "(Value=\"IsInvolvedInQuest_?\")": 1
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
                     }
                 ],
                 "ParentTags": []
