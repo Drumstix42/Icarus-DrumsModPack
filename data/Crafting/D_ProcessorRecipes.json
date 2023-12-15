@@ -126,7 +126,7 @@
                 }
             ],
             "Audio": {
-                "RowName": "Default"
+                "RowName": "CraftingBench"
             }
         },
         {
@@ -62170,6 +62170,42 @@
             ],
             "Audio": {
                 "RowName": "CarpentryBench"
+            }
+        },
+        {
+            "Name": "Fur_Curtain_Door",
+            "Requirement": {
+                "RowName": "Leather_Curtain_Door"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Crafting_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fur_Curtain_Door",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CraftingBench"
             }
         }
     ]

@@ -19101,7 +19101,7 @@
             },
             "Position": {
                 "X": 2600,
-                "Y": 1000
+                "Y": 1150
             },
             "Size": {
                 "X": 250,
@@ -19381,7 +19381,7 @@
             },
             "Position": {
                 "X": 2600,
-                "Y": 550
+                "Y": 450
             },
             "Size": {
                 "X": 250,
@@ -32265,6 +32265,31 @@
             "bDefaultUnlocked": true
         },
         {
+            "Name": "Workshop_Backpack_Medic",
+            "ExtraData": {
+                "RowName": "Meta_Medic_Backpack",
+                "DataTableName": "D_WorkshopItems"
+            },
+            "TalentTree": {
+                "RowName": "Workshop_Backpacks"
+            },
+            "Position": {
+                "X": 2600,
+                "Y": 800
+            },
+            "Size": {
+                "X": 250,
+                "Y": 250
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Workshop_Larkwell_Backpack_Beta",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
             "Name": "Workshop_Backpack_Hunter",
             "ExtraData": {
                 "RowName": "Meta_Hunters_Backpack",
@@ -32288,6 +32313,10 @@
                 },
                 {
                     "RowName": "Workshop_Mining_Backpack",
+                    "DataTableName": "D_Talents"
+                },
+                {
+                    "RowName": "Workshop_Backpack_Medic",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -32430,10 +32459,6 @@
                 {
                     "RowName": "Workshop_Backpack_Tech",
                     "DataTableName": "D_Talents"
-                },
-                {
-                    "RowName": "Workshop_Backpack_Medic",
-                    "DataTableName": "D_Talents"
                 }
             ],
             "bDefaultUnlocked": true,
@@ -32502,6 +32527,16 @@
                     "RowName": "Tutorial_HuntingLocked"
                 }
             ]
+        },
+        {
+            "Name": "Fur_Curtain_Door",
+            "ExtraData": {
+                "RowName": "Item_Fur_Curtain_Door",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            }
         }
     ]
 }
