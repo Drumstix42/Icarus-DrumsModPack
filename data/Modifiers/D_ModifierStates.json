@@ -1367,7 +1367,7 @@
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"AuraEffect_AdditionalPhysicalDamageMitigation-ModifierName\", \"Aura Effect: Reduced Physical Damage Taken\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"AuraEffect_AdditionalPhysicalDamageMitigation-ModifierDescription\", \"Reduced physical damage.\")",
             "GrantedStats": {
-                "(Value=\"BasePhysicalDamageResistance_+%\")": 5
+                "(Value=\"BasePhysicalDamageResistance_%\")": 5
             },
             "AuraRange": 500,
             "Behaviour": "/Game/BP/Behaviours/Modifiers/BP_Modifier_Base.BP_Modifier_Base_C",
@@ -8253,7 +8253,7 @@
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Worker_Bee.T_ITEM_Worker_Bee'",
             "Type": "Debuff",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Bee_Swarm-ModifierName\", \"Bee Swarm\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Bee_Swarm-ModifierDescription\", \"Bees are covering you and stinging you through your suit. Slows movement and attack speed.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Bee_Swarm-ModifierDescription\", \"Bees are swarming all around you. Slows movement and attack speed. Also causes small periodic damage.\")",
             "GrantedStats": {
                 "(Value=\"BaseMovementSpeed_+%\")": -5,
                 "(Value=\"BaseAttackSpeed_+%\")": -5
