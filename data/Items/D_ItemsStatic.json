@@ -18521,7 +18521,7 @@
                 "RowName": "Decay_General"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Thermos"
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -94524,6 +94524,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     }
                 ]
             },
@@ -94537,6 +94540,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -94605,6 +94611,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     }
                 ]
             },
@@ -94618,6 +94627,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -94686,6 +94698,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     }
                 ]
             },
@@ -94699,6 +94714,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -94767,6 +94785,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     }
                 ]
             },
@@ -94780,6 +94801,9 @@
                     },
                     {
                         "TagName": "Item.Plant"
+                    },
+                    {
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112676,6 +112700,213 @@
             }
         },
         {
+            "Name": "Platinium_Shovel",
+            "Meshable": {
+                "RowName": "Mesh_Platinum_Shovel"
+            },
+            "Itemable": {
+                "RowName": "Item_Platinum_Shovel"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_Shovel"
+            },
+            "Actionable": {
+                "RowName": "Shovel"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Stone_Shovel"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Audio": {
+                "RowName": "ShovelWood"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Shovel"
+                    },
+                    {
+                        "TagName": "FieldGuide.Equipment"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Shovel"
+                    },
+                    {
+                        "TagName": "FieldGuide.Equipment"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Titanium_Shovel",
+            "Meshable": {
+                "RowName": "Mesh_Titanium_Shovel"
+            },
+            "Itemable": {
+                "RowName": "Item_Titanium_Shovel"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_Shovel"
+            },
+            "Actionable": {
+                "RowName": "Shovel"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Stone_Shovel"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Audio": {
+                "RowName": "ShovelWood"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Shovel"
+                    },
+                    {
+                        "TagName": "FieldGuide.Equipment"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Shovel"
+                    },
+                    {
+                        "TagName": "FieldGuide.Equipment"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Workshop_Shovel",
+            "Meshable": {
+                "RowName": "Mesh_Workshop_Shovel"
+            },
+            "Itemable": {
+                "RowName": "Item_Workshop_Shovel"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_Shovel"
+            },
+            "Actionable": {
+                "RowName": "Shovel"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Stone_Shovel"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Audio": {
+                "RowName": "ShovelWood"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Shovel"
+                    },
+                    {
+                        "TagName": "FieldGuide.Equipment"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Shovel"
+                    },
+                    {
+                        "TagName": "FieldGuide.Equipment"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
             "Name": "Dirt_Mound",
             "Meshable": {
                 "RowName": "Mesh_Seed"
@@ -116443,6 +116674,84 @@
             },
             "Armour": {
                 "RowName": "Medic_Backpack"
+            },
+            "Durable": {
+                "RowName": "Meta_Armor"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Audio": {
+                "RowName": "Backpack"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Backpack"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Backpack"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Equippable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Armour"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Tech_Backpack",
+            "Meshable": {
+                "RowName": "Mesh_Tech_Backpack"
+            },
+            "Itemable": {
+                "RowName": "Item_Tech_Backpack"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Equippable": {
+                "RowName": "Tech_Backpack"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Armour": {
+                "RowName": "Tech_Backpack"
             },
             "Durable": {
                 "RowName": "Meta_Armor"
@@ -129483,7 +129792,7 @@
                 "RowName": "Decay_General"
             },
             "Audio": {
-                "RowName": "WoodRagTorch"
+                "RowName": "Default_Food"
             },
             "CraftingExperience": 10,
             "Manual_Tags": {
@@ -129565,7 +129874,7 @@
                 "RowName": "Decay_General"
             },
             "Audio": {
-                "RowName": "WoodRagTorch"
+                "RowName": "Default_Food"
             },
             "CraftingExperience": 10,
             "Manual_Tags": {
@@ -130862,7 +131171,7 @@
                 "RowName": "Decay_General"
             },
             "Audio": {
-                "RowName": "Default"
+                "RowName": "Waterskin"
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -131052,6 +131361,79 @@
                     },
                     {
                         "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "AnimalCarcass_Hammerhead_Slug_Small",
+            "Meshable": {
+                "RowName": "Mesh_Carcass_Hammerhead_Slug"
+            },
+            "Itemable": {
+                "RowName": "Item_Carcass_Swamp_Slug"
+            },
+            "Interactable": {
+                "RowName": "AnimalCorpse_NoCarry"
+            },
+            "Hitable": {
+                "RowName": "AnimalCarcass"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Durable": {
+                "RowName": "Carcass_Large"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "Carcass"
+            },
+            "CraftingExperience": 400,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Item.Utility"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T2"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Item.Utility"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T2"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Hitable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
                     }
                 ],
                 "ParentTags": []
