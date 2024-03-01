@@ -372,10 +372,12 @@
             "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier.BP_EquippableModifier_C",
             "GrantedStats": {
                 "(Value=\"BaseCraftingSpeed_+%\")": 20,
+                "(Value=\"BaseItemWear_+%\")": -10,
                 "(Value=\"BaseMiningCopperRewards_+%\")": 30,
                 "(Value=\"BaseMiningGoldRewards_+%\")": 30,
                 "(Value=\"BaseMiningPlatinumRewards_+%\")": 30,
-                "(Value=\"BaseBackpackSlots_+\")": 12
+                "(Value=\"BaseBackpackSlots_+\")": 12,
+                "(Value=\"BaseAttacksCauseElectroshock_%\")": 15
             },
             "bBindToAllInventoryUpdates": false
         },

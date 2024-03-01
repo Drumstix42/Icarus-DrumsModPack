@@ -1602,8 +1602,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3300,
-                "Y": 400
+                "X": 3500,
+                "Y": 350
             },
             "Size": {
                 "X": 184,
@@ -1675,7 +1675,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 2900,
+                "X": 2800,
                 "Y": 400
             },
             "Size": {
@@ -1796,7 +1796,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11650,
+                "X": 12500,
                 "Y": 300
             },
             "Size": {
@@ -1846,7 +1846,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4300,
+                "X": 4600,
                 "Y": 100
             },
             "Size": {
@@ -1990,7 +1990,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4300,
+                "X": 4600,
                 "Y": 450
             },
             "Size": {
@@ -2131,7 +2131,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9200,
+                "X": 9550,
                 "Y": 1200
             },
             "Size": {
@@ -2155,7 +2155,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9200,
+                "X": 9550,
                 "Y": 850
             },
             "Size": {
@@ -2179,7 +2179,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8500,
+                "X": 8700,
                 "Y": 1200
             },
             "Size": {
@@ -2205,7 +2205,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8500,
+                "X": 8700,
                 "Y": 850
             },
             "Size": {
@@ -2310,8 +2310,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3300,
-                "Y": 100
+                "X": 3200,
+                "Y": 350
             },
             "Size": {
                 "X": 184,
@@ -2358,8 +2358,8 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 500,
-                "Y": 950
+                "X": 300,
+                "Y": 1050
             },
             "Size": {
                 "X": 184,
@@ -2367,7 +2367,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Fabricator",
+                    "RowName": "T4_Gun_Reroute",
                     "DataTableName": "D_Talents"
                 }
             ]
@@ -2382,7 +2382,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8800,
+                "X": 9000,
                 "Y": 850
             },
             "Size": {
@@ -2784,7 +2784,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9050,
+                "X": 9800,
                 "Y": 450
             },
             "Size": {
@@ -2808,7 +2808,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12550,
+                "X": 13350,
                 "Y": 450
             },
             "Size": {
@@ -2857,8 +2857,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3700,
-                "Y": 400
+                "X": 3800,
+                "Y": 350
             },
             "Size": {
                 "X": 184,
@@ -2931,8 +2931,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 6250,
-                "Y": 100
+                "X": 4850,
+                "Y": 500
             },
             "Size": {
                 "X": 184,
@@ -3174,7 +3174,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12800,
+                "X": 13450,
                 "Y": 1050
             },
             "Size": {
@@ -6546,7 +6546,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11300,
+                "X": 12150,
                 "Y": 300
             },
             "Size": {
@@ -6570,7 +6570,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10950,
+                "X": 11800,
                 "Y": 300
             },
             "Size": {
@@ -11265,7 +11265,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11700,
+                "X": 12150,
                 "Y": 100
             },
             "Size": {
@@ -12060,7 +12060,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 6950,
+                "X": 7400,
                 "Y": 300
             },
             "Size": {
@@ -12616,7 +12616,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5300,
+                "X": 5600,
                 "Y": 100
             },
             "Size": {
@@ -12640,7 +12640,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 4700,
+                "X": 5000,
                 "Y": 100
             },
             "Size": {
@@ -12664,7 +12664,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 5850,
+                "X": 5200,
                 "Y": 100
             },
             "Size": {
@@ -12688,7 +12688,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7300,
+                "X": 7750,
                 "Y": 300
             },
             "Size": {
@@ -12781,7 +12781,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12900,
+                "X": 13700,
                 "Y": 300
             },
             "Size": {
@@ -12805,7 +12805,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8700,
+                "X": 9400,
                 "Y": 300
             },
             "Size": {
@@ -12829,7 +12829,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9200,
+                "X": 9950,
                 "Y": 100
             },
             "Size": {
@@ -12853,7 +12853,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9800,
+                "X": 10250,
                 "Y": 100
             },
             "Size": {
@@ -12901,7 +12901,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12550,
+                "X": 13350,
                 "Y": 100
             },
             "Size": {
@@ -12925,7 +12925,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9350,
+                "X": 10100,
                 "Y": 450
             },
             "Size": {
@@ -13011,7 +13011,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9950,
+                "X": 10700,
                 "Y": 450
             },
             "Size": {
@@ -13035,7 +13035,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9650,
+                "X": 10400,
                 "Y": 450
             },
             "Size": {
@@ -13059,7 +13059,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13500,
+                "X": 14150,
                 "Y": 1200
             },
             "Size": {
@@ -13091,7 +13091,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13650,
+                "X": 14300,
                 "Y": 850
             },
             "Size": {
@@ -13123,7 +13123,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13950,
+                "X": 14600,
                 "Y": 850
             },
             "Size": {
@@ -13155,7 +13155,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13800,
+                "X": 14450,
                 "Y": 1200
             },
             "Size": {
@@ -13187,7 +13187,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14100,
+                "X": 14750,
                 "Y": 1200
             },
             "Size": {
@@ -13216,7 +13216,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13800,
+                "X": 14450,
                 "Y": 1050
             },
             "Size": {
@@ -13301,7 +13301,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7600,
+                "X": 7800,
                 "Y": 850
             },
             "Size": {
@@ -13546,7 +13546,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8350,
+                "X": 8950,
                 "Y": 450
             },
             "Size": {
@@ -13570,7 +13570,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8050,
+                "X": 8650,
                 "Y": 450
             },
             "Size": {
@@ -13594,7 +13594,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8050,
+                "X": 8650,
                 "Y": 100
             },
             "Size": {
@@ -13619,7 +13619,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8350,
+                "X": 8950,
                 "Y": 100
             },
             "Size": {
@@ -13868,7 +13868,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8800,
+                "X": 9000,
                 "Y": 1200
             },
             "Size": {
@@ -15175,8 +15175,8 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11000,
-                "Y": 1200
+                "X": 11050,
+                "Y": 900
             },
             "Size": {
                 "X": 184,
@@ -15184,7 +15184,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "SplineTool_Water",
+                    "RowName": "T4_Water_Reroute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -15197,11 +15197,11 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T4_Fabricator"
+                "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11000,
-                "Y": 850
+                "X": 6050,
+                "Y": 350
             },
             "Size": {
                 "X": 184,
@@ -15209,7 +15209,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Wire_Tool",
+                    "RowName": "Biofuel_Water_Pump",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -15225,7 +15225,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 12000,
+                "X": 12850,
                 "Y": 850
             },
             "Size": {
@@ -15249,7 +15249,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 12000,
+                "X": 12850,
                 "Y": 450
             },
             "Size": {
@@ -15270,11 +15270,11 @@
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
-                "RowName": "Blueprint_T4_Fabricator"
+                "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11300,
-                "Y": 1200
+                "X": 6750,
+                "Y": 150
             },
             "Size": {
                 "X": 184,
@@ -15298,7 +15298,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 9450,
+                "X": 9800,
                 "Y": 450
             },
             "Size": {
@@ -15346,7 +15346,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 8600,
+                "X": 8950,
                 "Y": 100
             },
             "Size": {
@@ -15371,7 +15371,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 8300,
+                "X": 8650,
                 "Y": 100
             },
             "Size": {
@@ -15395,7 +15395,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 10500,
+                "X": 10950,
                 "Y": 100
             },
             "Size": {
@@ -15419,7 +15419,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 10800,
+                "X": 11250,
                 "Y": 300
             },
             "Size": {
@@ -15443,7 +15443,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11100,
+                "X": 11550,
                 "Y": 100
             },
             "Size": {
@@ -15468,7 +15468,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11250,
+                "X": 11700,
                 "Y": 450
             },
             "Size": {
@@ -15493,7 +15493,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11400,
+                "X": 11850,
                 "Y": 100
             },
             "Size": {
@@ -15566,7 +15566,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12650,
+                "X": 13300,
                 "Y": 850
             },
             "Size": {
@@ -15592,7 +15592,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12500,
+                "X": 13150,
                 "Y": 1200
             },
             "Size": {
@@ -15618,7 +15618,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12950,
+                "X": 13600,
                 "Y": 850
             },
             "Size": {
@@ -15644,7 +15644,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12800,
+                "X": 13450,
                 "Y": 1200
             },
             "Size": {
@@ -15670,7 +15670,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13100,
+                "X": 13750,
                 "Y": 1200
             },
             "Size": {
@@ -17192,7 +17192,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8200,
+                "X": 8400,
                 "Y": 1200
             },
             "Size": {
@@ -17218,7 +17218,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8200,
+                "X": 8400,
                 "Y": 850
             },
             "Size": {
@@ -17243,7 +17243,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 7650,
+                "X": 8000,
                 "Y": 100
             },
             "Size": {
@@ -17267,7 +17267,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 7050,
+                "X": 7400,
                 "Y": 100
             },
             "Size": {
@@ -18110,7 +18110,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5000,
+                "X": 5300,
                 "Y": 450
             },
             "Size": {
@@ -18136,7 +18136,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 8900,
+                "X": 9250,
                 "Y": 100
             },
             "Size": {
@@ -18162,7 +18162,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 7150,
+                "X": 7500,
                 "Y": 450
             },
             "Size": {
@@ -18187,7 +18187,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 7550,
+                "X": 7900,
                 "Y": 450
             },
             "Size": {
@@ -19381,7 +19381,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4300,
+                "X": 4500,
                 "Y": 100
             },
             "Size": {
@@ -19405,7 +19405,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5000,
+                "X": 5300,
                 "Y": 100
             },
             "Size": {
@@ -20723,7 +20723,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 10100,
+                "X": 10550,
                 "Y": 100
             },
             "Size": {
@@ -20748,7 +20748,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 9250,
+                "X": 9600,
                 "Y": 100
             },
             "Size": {
@@ -20772,7 +20772,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 9650,
+                "X": 10000,
                 "Y": 100
             },
             "Size": {
@@ -21197,7 +21197,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9600,
+                "X": 10000,
                 "Y": 850
             },
             "Size": {
@@ -22239,8 +22239,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 4700,
-                "Y": 100
+                "X": 4500,
+                "Y": 500
             },
             "Size": {
                 "X": 184,
@@ -22263,8 +22263,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 5050,
-                "Y": 100
+                "X": 4150,
+                "Y": 500
             },
             "Size": {
                 "X": 184,
@@ -22693,7 +22693,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 1600,
+                "X": 1650,
                 "Y": 1200
             },
             "Size": {
@@ -22881,7 +22881,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6300,
+                "X": 6600,
                 "Y": 450
             },
             "Size": {
@@ -22904,7 +22904,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6000,
+                "X": 6300,
                 "Y": 100
             },
             "Size": {
@@ -23017,7 +23017,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6300,
+                "X": 6600,
                 "Y": 100
             },
             "Size": {
@@ -23111,7 +23111,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 6600,
+                "X": 6900,
                 "Y": 100
             },
             "Size": {
@@ -23135,7 +23135,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10200,
+                "X": 10850,
                 "Y": 1050
             },
             "Size": {
@@ -23159,7 +23159,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11950,
+                "X": 12600,
                 "Y": 850
             },
             "Size": {
@@ -23184,7 +23184,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11800,
+                "X": 12450,
                 "Y": 1200
             },
             "Size": {
@@ -23209,7 +23209,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12100,
+                "X": 12750,
                 "Y": 1200
             },
             "Size": {
@@ -23234,7 +23234,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11500,
+                "X": 12150,
                 "Y": 1200
             },
             "Size": {
@@ -23259,7 +23259,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11650,
+                "X": 12300,
                 "Y": 850
             },
             "Size": {
@@ -23284,7 +23284,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11100,
+                "X": 11750,
                 "Y": 1200
             },
             "Size": {
@@ -23309,7 +23309,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10800,
+                "X": 11450,
                 "Y": 1200
             },
             "Size": {
@@ -23334,7 +23334,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10950,
+                "X": 11600,
                 "Y": 850
             },
             "Size": {
@@ -23359,7 +23359,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10650,
+                "X": 11300,
                 "Y": 850
             },
             "Size": {
@@ -23384,7 +23384,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10500,
+                "X": 11150,
                 "Y": 1200
             },
             "Size": {
@@ -23406,7 +23406,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10800,
+                "X": 11450,
                 "Y": 1050
             },
             "Size": {
@@ -23430,7 +23430,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 11800,
+                "X": 12450,
                 "Y": 1050
             },
             "Size": {
@@ -23834,7 +23834,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 3950,
+                "X": 4150,
                 "Y": 100
             },
             "Size": {
@@ -23945,7 +23945,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7650,
+                "X": 8100,
                 "Y": 300
             },
             "Size": {
@@ -24051,7 +24051,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9900,
+                "X": 10550,
                 "Y": 1200
             },
             "Size": {
@@ -25182,7 +25182,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 1000,
+                "X": 1050,
                 "Y": 1200
             },
             "Size": {
@@ -25261,7 +25261,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 5600,
+                "X": 5900,
                 "Y": 100
             },
             "Size": {
@@ -25501,8 +25501,8 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11600,
-                "Y": 850
+                "X": 11400,
+                "Y": 1200
             },
             "Size": {
                 "X": 184,
@@ -25510,7 +25510,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "SplineTool_Water",
+                    "RowName": "T4_Water_Reroute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -25579,7 +25579,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11550,
+                "X": 12000,
                 "Y": 450
             },
             "Size": {
@@ -25696,8 +25696,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9500,
-                "Y": 100
+                "X": 6400,
+                "Y": 150
             },
             "Size": {
                 "X": 184,
@@ -25705,11 +25705,10 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Kitchen_Bench",
+                    "RowName": "SplineTool_Water",
                     "DataTableName": "D_Talents"
                 }
             ],
-            "RequiredLevel": 30,
             "Metadata": {
                 "RequiredFeatureLevel": {
                     "RowName": "Galileo"
@@ -25856,7 +25855,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 11600,
+                "X": 11750,
                 "Y": 1200
             },
             "Size": {
@@ -25888,7 +25887,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7600,
+                "X": 7800,
                 "Y": 1200
             },
             "Size": {
@@ -25914,7 +25913,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7900,
+                "X": 8100,
                 "Y": 1050
             },
             "Size": {
@@ -25940,7 +25939,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7300,
+                "X": 7500,
                 "Y": 1200
             },
             "Size": {
@@ -26210,7 +26209,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 5450,
+                "X": 4850,
                 "Y": 100
             },
             "Size": {
@@ -27873,7 +27872,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7000,
+                "X": 7200,
                 "Y": 1200
             },
             "Size": {
@@ -27906,7 +27905,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7000,
+                "X": 7200,
                 "Y": 850
             },
             "Size": {
@@ -27939,7 +27938,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7300,
+                "X": 7500,
                 "Y": 850
             },
             "Size": {
@@ -28544,7 +28543,7 @@
             },
             "Position": {
                 "X": 2350,
-                "Y": 1000
+                "Y": 950
             },
             "Size": {
                 "X": 0,
@@ -28566,7 +28565,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 8600,
+                "X": 8950,
                 "Y": 500
             },
             "Size": {
@@ -28590,7 +28589,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 7350,
+                "X": 7700,
                 "Y": 300
             },
             "Size": {
@@ -28661,7 +28660,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 1300,
+                "X": 1350,
                 "Y": 850
             },
             "Size": {
@@ -28707,7 +28706,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 10300,
+                "X": 10750,
                 "Y": 400
             },
             "Size": {
@@ -30688,7 +30687,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9900,
+                "X": 10550,
                 "Y": 850
             },
             "Size": {
@@ -30808,7 +30807,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14450,
+                "X": 15100,
                 "Y": 1050
             },
             "Size": {
@@ -31446,7 +31445,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13550,
+                "X": 14350,
                 "Y": 450
             },
             "Size": {
@@ -31471,7 +31470,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13850,
+                "X": 14650,
                 "Y": 450
             },
             "Size": {
@@ -31496,7 +31495,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13250,
+                "X": 14050,
                 "Y": 450
             },
             "Size": {
@@ -31521,7 +31520,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15050,
+                "X": 15700,
                 "Y": 100
             },
             "Size": {
@@ -31546,7 +31545,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15350,
+                "X": 16000,
                 "Y": 100
             },
             "Size": {
@@ -31571,7 +31570,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14750,
+                "X": 15400,
                 "Y": 100
             },
             "Size": {
@@ -31596,7 +31595,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15050,
+                "X": 15700,
                 "Y": 450
             },
             "Size": {
@@ -31621,7 +31620,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15350,
+                "X": 16000,
                 "Y": 450
             },
             "Size": {
@@ -31646,7 +31645,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14750,
+                "X": 15400,
                 "Y": 450
             },
             "Size": {
@@ -31671,7 +31670,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15050,
+                "X": 15700,
                 "Y": 850
             },
             "Size": {
@@ -31701,7 +31700,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15350,
+                "X": 16000,
                 "Y": 850
             },
             "Size": {
@@ -31731,7 +31730,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15050,
+                "X": 15700,
                 "Y": 1200
             },
             "Size": {
@@ -31761,7 +31760,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15350,
+                "X": 16000,
                 "Y": 1200
             },
             "Size": {
@@ -31791,7 +31790,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14450,
+                "X": 15100,
                 "Y": 100
             },
             "Size": {
@@ -31817,7 +31816,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14450,
+                "X": 15100,
                 "Y": 300
             },
             "Size": {
@@ -31840,7 +31839,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14300,
+                "X": 14500,
                 "Y": 700
             },
             "Size": {
@@ -32449,7 +32448,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10500,
+                "X": 11300,
                 "Y": 300
             },
             "Size": {
@@ -32704,6 +32703,55 @@
             ]
         },
         {
+            "Name": "Battery_Shelf_T3",
+            "ExtraData": {
+                "RowName": "Item_Battery_Shelf_T3",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 2050,
+                "Y": 950
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Power_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Battery_Shelf_T4",
+            "ExtraData": {
+                "RowName": "Item_Battery_Shelf_T4",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 2050,
+                "Y": 1200
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Battery_Shelf_T3",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
             "Name": "Prospect_Reroute_Desert_Oly",
             "bIsReroute": true,
             "TalentTree": {
@@ -32886,7 +32934,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10100,
+                "X": 10550,
                 "Y": 100
             },
             "Size": {
@@ -32976,6 +33024,220 @@
                 }
             ],
             "bDefaultUnlocked": true
+        },
+        {
+            "Name": "T4_Shotgun",
+            "ExtraData": {
+                "RowName": "Item_Shotgun_T4",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 700,
+                "Y": 1050
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "T4_Gun_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "T4_Gun_Reroute",
+            "bIsReroute": true,
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 500,
+                "Y": 850
+            },
+            "Size": {
+                "X": 0,
+                "Y": 0
+            },
+            "Rewards": [],
+            "RequiredTalents": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "bDefaultUnlocked": true
+        },
+        {
+            "Name": "Workshop_CHAC_Shotgun",
+            "ExtraData": {
+                "RowName": "Meta_CHAC_Shotgun",
+                "DataTableName": "D_WorkshopItems"
+            },
+            "TalentTree": {
+                "RowName": "Workshop_Firearms"
+            },
+            "Position": {
+                "X": 500,
+                "Y": 800
+            },
+            "Size": {
+                "X": 250,
+                "Y": 250
+            }
+        },
+        {
+            "Name": "Flow_Meter",
+            "ExtraData": {
+                "RowName": "Item_Flow_Meter",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 2650,
+                "Y": 1200
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Power_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Biofuel_Water_Pump",
+            "ExtraData": {
+                "RowName": "Item_Biofuel_Water_Pump",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 5700,
+                "Y": 350
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "JerryCan",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Metal_Rain_Catcher",
+            "ExtraData": {
+                "RowName": "Item_Rain_Reservoir_T3",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 6400,
+                "Y": 500
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "SplineTool_Water",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Water_Barrel",
+            "ExtraData": {
+                "RowName": "Item_Water_Barrel",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 6750,
+                "Y": 500
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "SplineTool_Water",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Water_Borer",
+            "ExtraData": {
+                "RowName": "Item_Water_Borer",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 11750,
+                "Y": 900
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "T4_Water_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "T4_Water_Reroute",
+            "bIsReroute": true,
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 11400,
+                "Y": 900
+            },
+            "Size": {
+                "X": 0,
+                "Y": 0
+            },
+            "Rewards": [],
+            "RequiredTalents": [
+                {
+                    "RowName": "Wire_Tool",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "bDefaultUnlocked": true,
+            "DrawMethodOverride": "XThenY"
         }
     ]
 }

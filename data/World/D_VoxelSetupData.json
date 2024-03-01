@@ -588,7 +588,7 @@
         },
         {
             "Name": "Limestone_Normal",
-            "ResourceCategory": "Stone",
+            "ResourceCategory": "Limestone",
             "ResourceType": {
                 "RowName": "Limestone"
             },
@@ -608,7 +608,7 @@
         },
         {
             "Name": "Limestone_Dense",
-            "ResourceCategory": "Stone",
+            "ResourceCategory": "Limestone",
             "ResourceType": {
                 "RowName": "Limestone"
             },

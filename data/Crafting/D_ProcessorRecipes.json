@@ -3462,7 +3462,7 @@
             "Requirement": {
                 "RowName": "Steel_Arrow"
             },
-            "RequiredMillijoules": 3500,
+            "RequiredMillijoules": 250,
             "RecipeSets": [
                 {
                     "RowName": "Anvil_Bench",
@@ -3488,7 +3488,7 @@
                         "RowName": "Epoxy",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 5,
+                    "Count": 1,
                     "DynamicProperties": []
                 },
                 {
@@ -3496,7 +3496,7 @@
                         "RowName": "Stick",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": []
                 },
                 {
@@ -3514,7 +3514,7 @@
                         "RowName": "Steel_Arrow",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -6994,7 +6994,7 @@
             "Requirement": {
                 "RowName": "Aluminium_Arrow"
             },
-            "RequiredMillijoules": 3500,
+            "RequiredMillijoules": 250,
             "RecipeSets": [
                 {
                     "RowName": "Anvil_Bench_T3",
@@ -7032,7 +7032,7 @@
                         "RowName": "Epoxy",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 5,
+                    "Count": 1,
                     "DynamicProperties": []
                 }
             ],
@@ -7042,7 +7042,7 @@
                         "RowName": "Aluminium_Arrow",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -7056,7 +7056,7 @@
             "Requirement": {
                 "RowName": "Carbon_Arrow"
             },
-            "RequiredMillijoules": 3500,
+            "RequiredMillijoules": 250,
             "RecipeSets": [
                 {
                     "RowName": "Anvil_Bench_T3",
@@ -7094,7 +7094,7 @@
                         "RowName": "Epoxy",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 5,
+                    "Count": 1,
                     "DynamicProperties": []
                 }
             ],
@@ -7104,7 +7104,7 @@
                         "RowName": "Carbon_Arrow",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -8059,7 +8059,7 @@
                         "RowName": "Refined_Metal",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 12,
+                    "Count": 6,
                     "DynamicProperties": []
                 },
                 {
@@ -8861,7 +8861,7 @@
             "Requirement": {
                 "RowName": "Composite_Arrow"
             },
-            "RequiredMillijoules": 3500,
+            "RequiredMillijoules": 250,
             "RecipeSets": [
                 {
                     "RowName": "Anvil_Bench_T4",
@@ -8887,7 +8887,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 2,
                     "DynamicProperties": []
                 }
             ],
@@ -8897,7 +8897,7 @@
                         "RowName": "Composite_Arrow",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -9060,7 +9060,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 12,
+                    "Count": 18,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -9372,7 +9372,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 15,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -12657,7 +12657,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 7,
+                    "Count": 8,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -12868,7 +12868,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 17,
+                    "Count": 12,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -16003,7 +16003,7 @@
             "Requirement": {
                 "RowName": "Titanium_Arrow"
             },
-            "RequiredMillijoules": 3500,
+            "RequiredMillijoules": 250,
             "RecipeSets": [
                 {
                     "RowName": "Anvil_Bench_T4",
@@ -16029,7 +16029,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 5,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -16047,7 +16047,7 @@
                         "RowName": "Titanium_Arrow",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -16289,7 +16289,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 12,
+                    "Count": 18,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -18000,7 +18000,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 15,
+                    "Count": 12,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -18069,7 +18069,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 15,
+                    "Count": 12,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -18138,7 +18138,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 15,
+                    "Count": 12,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -18997,7 +18997,7 @@
             "Requirement": {
                 "RowName": "Incendiary_Ammo"
             },
-            "RequiredMillijoules": 4000,
+            "RequiredMillijoules": 1000,
             "RecipeSets": [
                 {
                     "RowName": "Machining_Bench",
@@ -19205,7 +19205,7 @@
                         "RowName": "Platinum_Bolt",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 1,
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -19258,7 +19258,7 @@
                         "RowName": "Titanium_Bolt",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 1,
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -19309,7 +19309,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 5,
+                    "Count": 6,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -19438,7 +19438,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 5,
+                    "Count": 6,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -21450,7 +21450,7 @@
                         "RowName": "Fur",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 12,
+                    "Count": 16,
                     "DynamicProperties": [],
                     "Alterations": []
                 },
@@ -23538,7 +23538,7 @@
             },
             "RecipeSets": [
                 {
-                    "RowName": "Fabricator",
+                    "RowName": "Machining_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -23561,7 +23561,7 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Carbon_Fiber",
+                        "RowName": "Platinum_Shealth",
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 4,
@@ -25495,25 +25495,17 @@
             "RequiredMillijoules": 5000,
             "RecipeSets": [
                 {
-                    "RowName": "Fabricator",
+                    "RowName": "Machining_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
                 {
                     "Element": {
-                        "RowName": "Aluminium",
+                        "RowName": "Steel_Ingot",
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 2,
-                    "DynamicProperties": []
-                },
-                {
-                    "Element": {
-                        "RowName": "Composites",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 1,
                     "DynamicProperties": []
                 },
                 {
@@ -25521,7 +25513,15 @@
                         "RowName": "Epoxy",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 2,
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
                     "DynamicProperties": []
                 }
             ],
@@ -34808,10 +34808,6 @@
             "Name": "Clay_Brick",
             "RequiredMillijoules": 12500,
             "RecipeSets": [
-                {
-                    "RowName": "Stone_Furnace",
-                    "DataTableName": "D_RecipeSets"
-                },
                 {
                     "RowName": "Concrete_Furnace",
                     "DataTableName": "D_RecipeSets"
@@ -54448,10 +54444,6 @@
             "RequiredMillijoules": 12500,
             "RecipeSets": [
                 {
-                    "RowName": "Stone_Furnace",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
                     "RowName": "Concrete_Furnace",
                     "DataTableName": "D_RecipeSets"
                 },
@@ -63237,6 +63229,242 @@
             }
         },
         {
+            "Name": "Battery_T3",
+            "RecipeSets": [
+                {
+                    "RowName": "RefundOnly",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Platinum_Shealth",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Battery_T3",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Battery_T3_Shelf",
+            "Requirement": {
+                "RowName": "Battery_Shelf_T3"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 16,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Platinum_Shealth",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Titanium_Plate",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Battery_Shelf_T3",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Battery_T4",
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "RefundOnly",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Titanium_Plate",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Battery_T4",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Battery_T4_Shelf",
+            "Requirement": {
+                "RowName": "Battery_Shelf_T4"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Titanium_Plate",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 18,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 18,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Composites",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Battery_Shelf_T4",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
             "Name": "Smoked_Giant_Steak",
             "RequiredMillijoules": 25000,
             "RecipeSets": [
@@ -66222,6 +66450,396 @@
             ],
             "Audio": {
                 "RowName": "Default"
+            }
+        },
+        {
+            "Name": "Shotgun_T4",
+            "Requirement": {
+                "RowName": "T4_Shotgun"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Advanced_Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Titanium_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 14,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 25,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Shotgun_T4",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Flow_Meter",
+            "Requirement": {
+                "RowName": "Flow_Meter"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Aluminium",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Flow_Meter",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CraftingBench"
+            }
+        },
+        {
+            "Name": "Rain_Reservoir_T3",
+            "Requirement": {
+                "RowName": "Metal_Rain_Catcher"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Refined_Metal",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 12,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Stone",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Charcoal",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Rain_Reservoir_T3",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Water_Barrel",
+            "Requirement": {
+                "RowName": "Water_Barrel"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Refined_Metal",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 40,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Water_Barrel",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Water_Borer",
+            "Requirement": {
+                "RowName": "Water_Borer"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Composites",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Water_Borer",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Biofuel_Water_Pump",
+            "Requirement": {
+                "RowName": "Biofuel_Water_Pump"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 12,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 12,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Biofuel_Water_Pump",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
             }
         }
     ]
