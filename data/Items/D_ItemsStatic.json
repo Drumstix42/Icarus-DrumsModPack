@@ -2116,7 +2116,7 @@
                 "RowName": "LightItem"
             },
             "Decayable": {
-                "RowName": "Decay_Waterskin"
+                "RowName": "Decay_General"
             },
             "Audio": {
                 "RowName": "Waterskin"
@@ -15920,7 +15920,7 @@
                 "RowName": "LightItem"
             },
             "Decayable": {
-                "RowName": "Decay_Sponge"
+                "RowName": "Decay_General"
             },
             "Audio": {
                 "RowName": "Sponge"
@@ -67038,7 +67038,7 @@
                 "RowName": "Item_Mission_Prototype_Laser"
             },
             "Interactable": {
-                "RowName": "Deployable_Power_Toggle_Only"
+                "RowName": "Mission_Prototype_Laser"
             },
             "Focusable": {
                 "RowName": "Focusable_1H"
@@ -69566,6 +69566,9 @@
             },
             "Weight": {
                 "RowName": "LightDeployable"
+            },
+            "Resource": {
+                "RowName": "Basic_Oxite_Dissolver"
             },
             "Audio": {
                 "RowName": "GenericDeployable"
@@ -110691,6 +110694,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"ConvertCoolWaterToWarmWater_?\")": 1
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -111095,6 +111101,9 @@
             },
             "Audio": {
                 "RowName": "Canteen"
+            },
+            "AdditionalStats": {
+                "(Value=\"ConvertCoolWaterToWarmWater_?\")": 1
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -112875,6 +112884,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Seed"
+                    },
+                    {
+                        "TagName": "Item.Mound"
                     }
                 ]
             },
@@ -112882,6 +112894,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Seed"
+                    },
+                    {
+                        "TagName": "Item.Mound"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113584,7 +113599,7 @@
                 "RowName": "MediumDeployable"
             },
             "Resource": {
-                "RowName": "Masonry_Bench"
+                "RowName": "Masonry_Bench_T3"
             },
             "Audio": {
                 "RowName": "GenericDeployable"
@@ -123608,6 +123623,361 @@
             }
         },
         {
+            "Name": "Water_Purifier_T1_Water",
+            "Meshable": {
+                "RowName": "Mesh_Generic"
+            },
+            "Itemable": {
+                "RowName": "Item_Water_Purifier_T1_Water"
+            },
+            "Interactable": {
+                "RowName": "Water_Purifier"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Water_Purifier_T1_Water"
+            },
+            "Fillable": {
+                "RowName": "WaterPurifier"
+            },
+            "Durable": {
+                "RowName": "Deployable_1000"
+            },
+            "Inventory": {
+                "RowName": "Water_Purifier"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Generator": {
+                "RowName": "Water_Purifier"
+            },
+            "Weight": {
+                "RowName": "HeavyDeployable"
+            },
+            "Audio": {
+                "RowName": "StoneDeployable"
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Fillable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Inventory"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Water_Purifier_T1_Ground",
+            "Meshable": {
+                "RowName": "Mesh_Generic"
+            },
+            "Itemable": {
+                "RowName": "Item_Water_Purifier_T1_Ground"
+            },
+            "Interactable": {
+                "RowName": "Water_Purifier"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Water_Purifier_T1_Ground"
+            },
+            "Fillable": {
+                "RowName": "WaterPurifier"
+            },
+            "Durable": {
+                "RowName": "Deployable_1000"
+            },
+            "Inventory": {
+                "RowName": "Water_Purifier"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Generator": {
+                "RowName": "Water_Purifier"
+            },
+            "Weight": {
+                "RowName": "HeavyDeployable"
+            },
+            "Audio": {
+                "RowName": "StoneDeployable"
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Fillable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Inventory"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Water_Purifier_T2",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Machining"
+            },
+            "Itemable": {
+                "RowName": "Item_Water_Purifier_T2"
+            },
+            "Interactable": {
+                "RowName": "Deployable"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Water_Purifier_T3"
+            },
+            "Fillable": {
+                "RowName": "Water_Purifier_T2"
+            },
+            "Durable": {
+                "RowName": "Deployable_1000"
+            },
+            "Inventory": {
+                "RowName": "Water_Purifier_T2"
+            },
+            "Slotable": {
+                "RowName": "WaterRefill"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Generator": {
+                "RowName": "Water_Purifier"
+            },
+            "Weight": {
+                "RowName": "HeavyDeployable"
+            },
+            "Resource": {
+                "RowName": "Water_Purifier_T2"
+            },
+            "Audio": {
+                "RowName": "StoneDeployable"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.ResourceNetwork"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.ResourceNetwork"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Fillable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Inventory"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Water_Purifier_T4",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Fabricator"
+            },
+            "Itemable": {
+                "RowName": "Item_Water_Purifier_T4"
+            },
+            "Interactable": {
+                "RowName": "Deployable"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Water_Purifier_T4"
+            },
+            "Durable": {
+                "RowName": "Deployable_1000"
+            },
+            "Inventory": {
+                "RowName": "Water_Purifier_T2"
+            },
+            "Slotable": {
+                "RowName": "WaterRefill"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Weight": {
+                "RowName": "HeavyDeployable"
+            },
+            "Resource": {
+                "RowName": "Water_Purifier_T4"
+            },
+            "Audio": {
+                "RowName": "StoneDeployable"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.ResourceNetwork"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.ResourceNetwork"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Inventory"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
             "Name": "Desert_Mammoth_Trophy",
             "Meshable": {
                 "RowName": "Mesh_Generic_Trophy"
@@ -132123,6 +132493,156 @@
             }
         },
         {
+            "Name": "Bramble",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Seed"
+            },
+            "Itemable": {
+                "RowName": "Item_Bramble"
+            },
+            "Interactable": {
+                "RowName": "Deployable_NoPickup"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Bramble"
+            },
+            "Durable": {
+                "RowName": "Deployable_1000"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.Defense"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.Defense"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Bramble_Seed",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Seed"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Bramble_Seed"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Consumable": {
+                "RowName": "Meta_Bramble_Seed"
+            },
+            "Usable": {
+                "RowName": "Consume_Stack"
+            },
+            "Floatable": {
+                "RowName": "Items"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "Audio": {
+                "RowName": "Food_Crunch"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Consumable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Floatable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
             "Name": "AnimalCarcass_Mange_Wolf",
             "Meshable": {
                 "RowName": "Mesh_Carcass_Mange_Wolf"
@@ -132419,6 +132939,265 @@
                     },
                     {
                         "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "DEV_ResourceNetworkInspector",
+            "Meshable": {
+                "RowName": "Mesh_0_Placeholder_Invisible"
+            },
+            "Itemable": {
+                "RowName": "Item_Dev_ResourceNetworkInspector"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Dev_ResourceNetworkInspector"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "AnimalCarcass_Ghost_Crocodile",
+            "Meshable": {
+                "RowName": "Mesh_Carcass_Ghost_Crocodile"
+            },
+            "Itemable": {
+                "RowName": "Item_Carcass_Ghost_Crocodile"
+            },
+            "Interactable": {
+                "RowName": "AnimalCorpse_NoCarry"
+            },
+            "Hitable": {
+                "RowName": "AnimalCarcass"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Durable": {
+                "RowName": "Carcass_Large"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "Carcass"
+            },
+            "CraftingExperience": 600,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Hitable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "AnimalCarcass_Ape",
+            "Meshable": {
+                "RowName": "Mesh_Carcass_Ape"
+            },
+            "Itemable": {
+                "RowName": "Item_Carcass_Ape"
+            },
+            "Interactable": {
+                "RowName": "AnimalCorpse_NoCarry"
+            },
+            "Hitable": {
+                "RowName": "AnimalCarcass"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Durable": {
+                "RowName": "Carcass_Large"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "Carcass"
+            },
+            "CraftingExperience": 600,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Hitable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Mission_AudioLog_Prometheus_4",
+            "Meshable": {
+                "RowName": "Mesh_Module_Waypoint"
+            },
+            "Itemable": {
+                "RowName": "Item_Mission_AudioLog_Prometheus_4"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "AdditionalStats": {
+                "(Value=\"IsInvolvedInQuest_?\")": 1
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FactionMission.Item"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FactionMission.Item"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Any_Water_Container",
+            "Itemable": {
+                "RowName": "Item_Water_Container"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Traits.Itemable"
                     }
                 ],
                 "ParentTags": []
