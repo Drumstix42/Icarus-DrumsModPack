@@ -85,6 +85,9 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
+            "PyriticCrustResourceType": {
+                "RowName": "Pyritic_Crust_Stone"
+            },
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineStone"
@@ -104,6 +107,9 @@
             },
             "SecondaryResourceType": {
                 "RowName": "Stone"
+            },
+            "PyriticCrustResourceType": {
+                "RowName": "Pyritic_Crust_Stone"
             },
             "DensityMultiplier": 2,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
@@ -577,7 +583,9 @@
             "SecondaryResourceType": {
                 "RowName": "Salt"
             },
-            "DensityMultiplier": 2,
+            "PyriticCrustResourceType": {
+                "RowName": "Pyritic_Crust_Salt"
+            },
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
                 "RowName": "MineSalt"
@@ -594,6 +602,9 @@
             },
             "SecondaryResourceType": {
                 "RowName": "Crushed_Limestone"
+            },
+            "PyriticCrustResourceType": {
+                "RowName": "Pyritic_Crust_Limestone"
             },
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
             "ExperienceForMining": {
@@ -614,6 +625,9 @@
             },
             "SecondaryResourceType": {
                 "RowName": "Crushed_Limestone"
+            },
+            "PyriticCrustResourceType": {
+                "RowName": "Pyritic_Crust_Limestone"
             },
             "DensityMultiplier": 2,
             "FullyMinedSound": "/Game/FMOD/Events/SFX/D_Surfaces/SFX_VOXEL_FINAL_HIT.SFX_VOXEL_FINAL_HIT",
