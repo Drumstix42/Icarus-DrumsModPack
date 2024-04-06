@@ -796,6 +796,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 1
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -11172,7 +11175,8 @@
             },
             "AdditionalStats": {
                 "(Value=\"BaseSleepQuality_%\")": 100,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 600
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 600,
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -11253,8 +11257,9 @@
                 "RowName": "WoodDeployable"
             },
             "AdditionalStats": {
-                "(Value=\"BaseSleepQuality_%\")": 125,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 750
+                "(Value=\"BaseSleepQuality_%\")": 110,
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 650,
+                "(Value=\"BaseComfortLevel_+\")": 10
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -11341,8 +11346,9 @@
                 "RowName": "WoodDeployable"
             },
             "AdditionalStats": {
-                "(Value=\"BaseSleepQuality_%\")": 150,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 900
+                "(Value=\"BaseSleepQuality_%\")": 110,
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 650,
+                "(Value=\"BaseComfortLevel_+\")": 14
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -11436,6 +11442,9 @@
             },
             "Audio": {
                 "RowName": "StoneDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -12425,6 +12434,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -14397,6 +14409,9 @@
             "Audio": {
                 "RowName": "WoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -14752,6 +14767,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -14826,6 +14844,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -14908,6 +14929,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -14988,6 +15012,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -15551,6 +15578,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -15618,6 +15648,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Generated_Tags": {
                 "GameplayTags": [
@@ -16009,6 +16042,9 @@
             },
             "Audio": {
                 "RowName": "SmallWoodDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -20726,6 +20762,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -26175,6 +26214,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -26252,6 +26294,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -26331,6 +26376,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -26408,6 +26456,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -26487,6 +26538,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -26564,6 +26618,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -26643,6 +26700,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -26720,6 +26780,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -26799,6 +26862,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -26876,6 +26942,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -26955,6 +27024,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -27033,6 +27105,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -27110,6 +27185,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -27346,6 +27424,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -27472,6 +27553,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -27600,6 +27684,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -27726,6 +27813,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -27854,6 +27944,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -27980,6 +28073,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -34785,6 +34881,9 @@
             },
             "Audio": {
                 "RowName": "Campfire"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -51256,6 +51355,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -51323,6 +51425,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Generated_Tags": {
                 "GameplayTags": [
@@ -53790,6 +53895,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "CraftingExperience": 200,
             "Manual_Tags": {
                 "GameplayTags": [
@@ -53917,6 +54025,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "CraftingExperience": 200,
             "Manual_Tags": {
@@ -54046,6 +54157,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "CraftingExperience": 200,
             "Manual_Tags": {
                 "GameplayTags": [
@@ -54173,6 +54287,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "CraftingExperience": 200,
             "Manual_Tags": {
@@ -54302,6 +54419,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "CraftingExperience": 200,
             "Manual_Tags": {
                 "GameplayTags": [
@@ -54430,6 +54550,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "CraftingExperience": 200,
             "Manual_Tags": {
                 "GameplayTags": [
@@ -54557,6 +54680,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "CraftingExperience": 200,
             "Manual_Tags": {
@@ -64806,6 +64932,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -65181,6 +65310,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -65273,6 +65405,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -65658,6 +65793,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -65751,6 +65889,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -65843,6 +65984,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -66142,8 +66286,9 @@
                 "RowName": "WoodDeployable"
             },
             "AdditionalStats": {
-                "(Value=\"BaseSleepQuality_%\")": 125,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 750
+                "(Value=\"BaseSleepQuality_%\")": 110,
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 650,
+                "(Value=\"BaseComfortLevel_+\")": 14
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -66228,6 +66373,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -68738,6 +68886,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -68825,6 +68976,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -68908,6 +69062,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -68993,6 +69150,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -69076,6 +69236,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -69161,6 +69324,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -69244,6 +69410,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -69329,6 +69498,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -69413,6 +69585,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -69496,6 +69671,9 @@
             },
             "Audio": {
                 "RowName": "StoneDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -86915,7 +87093,8 @@
                 "RowName": "Default"
             },
             "AdditionalStats": {
-                "(Value=\"BaseInventoryCannotSpoil_?\")": 1
+                "(Value=\"BaseInventoryCannotSpoil_?\")": 1,
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -87018,6 +87197,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -87106,6 +87288,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 10
+            },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
@@ -87193,6 +87378,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 12
             },
             "Generated_Tags": {
                 "GameplayTags": [
@@ -96242,6 +96430,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -96325,6 +96516,9 @@
             },
             "Audio": {
                 "RowName": "SmallWoodDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -96410,6 +96604,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -96493,6 +96690,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -96578,6 +96778,9 @@
             "Audio": {
                 "RowName": "StoneDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -96661,6 +96864,9 @@
             },
             "Audio": {
                 "RowName": "StoneDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -96746,6 +96952,9 @@
             "Audio": {
                 "RowName": "StoneDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -96829,6 +97038,9 @@
             },
             "Audio": {
                 "RowName": "StoneDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -96914,6 +97126,9 @@
             "Audio": {
                 "RowName": "StoneDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -96997,6 +97212,9 @@
             },
             "Audio": {
                 "RowName": "StoneDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -97087,6 +97305,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -97181,6 +97402,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -97273,6 +97497,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -97367,6 +97594,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -97459,6 +97689,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -97553,6 +97786,9 @@
             "Audio": {
                 "RowName": "Default"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -97645,6 +97881,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -98243,6 +98482,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -98739,8 +98981,9 @@
                 "RowName": "WoodDeployable"
             },
             "AdditionalStats": {
-                "(Value=\"BaseSleepQuality_%\")": 165,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 1000
+                "(Value=\"BaseSleepQuality_%\")": 120,
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 700,
+                "(Value=\"BaseComfortLevel_+\")": 20
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -98838,6 +99081,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -98927,6 +99173,9 @@
             },
             "Audio": {
                 "RowName": "SmallWoodDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -99360,6 +99609,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -99446,6 +99698,9 @@
             },
             "Audio": {
                 "RowName": "Vase"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -99534,6 +99789,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -99620,6 +99878,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -99708,6 +99969,9 @@
             "Audio": {
                 "RowName": "Vase"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -99794,6 +100058,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -99882,6 +100149,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -99968,6 +100238,9 @@
             },
             "Audio": {
                 "RowName": "Vase"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -100056,6 +100329,9 @@
             "Audio": {
                 "RowName": "Vase"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -100142,6 +100418,9 @@
             },
             "Audio": {
                 "RowName": "Vase"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -100230,6 +100509,9 @@
             "Audio": {
                 "RowName": "Vase"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -100316,6 +100598,9 @@
             },
             "Audio": {
                 "RowName": "Vase"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -102528,6 +102813,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -102614,6 +102902,9 @@
             },
             "Weight": {
                 "RowName": "LightDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -102702,6 +102993,9 @@
             "Weight": {
                 "RowName": "LightDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -102788,6 +103082,9 @@
             },
             "Weight": {
                 "RowName": "LightDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -102879,6 +103176,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -102965,6 +103265,9 @@
             },
             "Weight": {
                 "RowName": "LightDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -116242,6 +116545,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -116317,6 +116623,9 @@
             "Audio": {
                 "RowName": "SmallWoodDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -116391,6 +116700,9 @@
             },
             "Audio": {
                 "RowName": "SmallWoodDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -116475,6 +116787,9 @@
             },
             "Audio": {
                 "RowName": "SmallWoodDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -119018,6 +119333,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119097,6 +119415,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -119178,6 +119499,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119258,6 +119582,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119332,6 +119659,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -119408,6 +119738,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119482,6 +119815,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -119563,6 +119899,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119637,6 +119976,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -119718,6 +120060,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119798,6 +120143,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119873,6 +120221,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -119947,6 +120298,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -120028,6 +120382,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -120107,6 +120464,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -120188,6 +120548,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -120268,6 +120631,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -120342,6 +120708,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -120423,6 +120792,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -120498,6 +120870,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -120572,6 +120947,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -120653,6 +121031,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -120732,6 +121113,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -120813,6 +121197,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -120892,6 +121279,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -120973,6 +121363,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -121047,6 +121440,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -121128,6 +121524,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -121202,6 +121601,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -121283,6 +121685,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -121363,6 +121768,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -121437,6 +121845,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -121518,6 +121929,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -121592,6 +122006,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -122016,6 +122433,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -122102,6 +122522,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -122190,6 +122613,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -122276,6 +122702,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -122364,6 +122793,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -122451,6 +122883,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -122537,6 +122972,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -122915,6 +123353,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -123384,6 +123825,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -123556,8 +124000,9 @@
                 "RowName": "WoodDeployable"
             },
             "AdditionalStats": {
-                "(Value=\"BaseSleepQuality_%\")": 115,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 900
+                "(Value=\"BaseSleepQuality_%\")": 120,
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 700,
+                "(Value=\"BaseComfortLevel_+\")": 20
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -124292,6 +124737,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "CraftingExperience": 200,
             "Manual_Tags": {
                 "GameplayTags": [
@@ -124367,6 +124815,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "CraftingExperience": 200,
             "Manual_Tags": {
@@ -125302,6 +125753,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -125388,6 +125842,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -125476,6 +125933,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -125563,6 +126023,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -125649,6 +126112,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -126295,6 +126761,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -126668,8 +127137,9 @@
                 "RowName": "WoodDeployable"
             },
             "AdditionalStats": {
-                "(Value=\"BaseSleepQuality_%\")": 115,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 900
+                "(Value=\"BaseSleepQuality_%\")": 120,
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 700,
+                "(Value=\"BaseComfortLevel_+\")": 20
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -126857,6 +127327,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -127024,6 +127497,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "CraftingExperience": 200,
             "Manual_Tags": {
@@ -127205,6 +127681,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "CraftingExperience": 200,
             "Manual_Tags": {
                 "GameplayTags": [
@@ -127285,8 +127764,9 @@
                 "RowName": "MetalDeployable"
             },
             "AdditionalStats": {
-                "(Value=\"BaseSleepQuality_%\")": 165,
-                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 1000
+                "(Value=\"BaseSleepQuality_%\")": 120,
+                "(Value=\"BaseSleepModifierDurationSeconds_+\")": 700,
+                "(Value=\"BaseComfortLevel_+\")": 20
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -127480,6 +127960,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -127570,6 +128053,9 @@
             "Audio": {
                 "RowName": "MetalDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -127656,6 +128142,9 @@
             },
             "Audio": {
                 "RowName": "MetalDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -127744,6 +128233,9 @@
             "Audio": {
                 "RowName": "MetalDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -127831,6 +128323,9 @@
             "Audio": {
                 "RowName": "MetalDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -127917,6 +128412,9 @@
             },
             "Audio": {
                 "RowName": "MetalDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -128104,6 +128602,9 @@
             "Audio": {
                 "RowName": "MetalDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -128191,6 +128692,9 @@
             "Audio": {
                 "RowName": "MetalDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -128277,6 +128781,9 @@
             },
             "Audio": {
                 "RowName": "MetalDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -128839,6 +129346,9 @@
             "Audio": {
                 "RowName": "StoneDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -128935,6 +129445,9 @@
             "Audio": {
                 "RowName": "GenericDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -129015,6 +129528,9 @@
             },
             "Audio": {
                 "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -129112,6 +129628,9 @@
             "Audio": {
                 "RowName": "Vase"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -129196,6 +129715,9 @@
             "Audio": {
                 "RowName": "MetalDeployable"
             },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
             "Manual_Tags": {
                 "GameplayTags": [
                     {
@@ -129270,6 +129792,9 @@
             },
             "Audio": {
                 "RowName": "MetalDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -129444,6 +129969,9 @@
             },
             "Audio": {
                 "RowName": "Default"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 8
             },
             "Manual_Tags": {
                 "GameplayTags": [

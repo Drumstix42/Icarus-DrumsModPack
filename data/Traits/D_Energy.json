@@ -268,7 +268,8 @@
         {
             "Name": "WindTurbine",
             "FlowType": "Produce",
-            "ResourceFlowRate": 3500
+            "ResourceFlowRate": 3500,
+	    "bAllowAutoRestart": true
         },
         {
             "Name": "T4Communicator",
