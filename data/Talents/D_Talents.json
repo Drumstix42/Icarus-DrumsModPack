@@ -32241,6 +32241,24 @@
             ]
         },
         {
+            "Name": "Workshop_Printed_Cot",
+            "ExtraData": {
+                "RowName": "Meta_Cot_Printed",
+                "DataTableName": "D_WorkshopItems"
+            },
+            "TalentTree": {
+                "RowName": "Workshop_Deployables"
+            },
+            "Position": {
+                "X": 500,
+                "Y": 1250
+            },
+            "Size": {
+                "X": 250,
+                "Y": 250
+            }
+        },
+        {
             "Name": "Brownbear_Chest_Armor",
             "ExtraData": {
                 "RowName": "Item_Brownbear_Chest",
@@ -33360,6 +33378,30 @@
                 "Y": 250
             },
             "DrawMethodOverride": "YThenX"
+        },
+        {
+            "Name": "Prospect_Styx_D_Recovery",
+            "ExtraData": {
+                "RowName": "STYX_D_Recovery",
+                "DataTableName": "D_ProspectList"
+            },
+            "TalentTree": {
+                "RowName": "Prospect_Styx"
+            },
+            "Position": {
+                "X": 2250,
+                "Y": 2550
+            },
+            "Size": {
+                "X": 256,
+                "Y": 256
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Prospect_Styx_D_Expedition",
+                    "DataTableName": "D_Talents"
+                }
+            ]
         }
     ]
 }

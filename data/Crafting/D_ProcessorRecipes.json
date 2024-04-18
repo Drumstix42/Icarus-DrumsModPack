@@ -1755,6 +1755,14 @@
                 {
                     "RowName": "Character",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -1902,6 +1910,14 @@
                 {
                     "RowName": "Character",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -1950,6 +1966,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Character",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -2097,6 +2121,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Character",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -68277,6 +68309,68 @@
             ],
             "Audio": {
                 "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Mission_Incubator",
+            "SessionRequirement": {
+                "DataTableName": "D_SessionFlags",
+                "RowName": "Mission_Recipe_Incubator"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 16,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Mission_Incubator",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
             }
         }
     ]
