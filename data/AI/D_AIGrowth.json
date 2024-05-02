@@ -1292,7 +1292,7 @@
                 "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
                 "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
                 "(Value=\"BasePhysicalDamageResistance_%\")": 40,
-                "(Value=\"BaseMountCargoSlots_+\")": 2
+                "(Value=\"BaseMountCargoSlots_+\")": 2,
                 "(Value=\"BaseMaximumStomachFullness_+\")": 2,
                 "(Value=\"IsMountPrimaryAttackDisabledByDefault_?\")": 1,
                 "(Value=\"BaseFallDamageResistance_%\")": 15

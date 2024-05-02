@@ -238,7 +238,8 @@
             "Name": "Larkwell_Backpack_Beta",
             "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier.BP_EquippableModifier_C",
             "GrantedStats": {
-                "(Value=\"BaseBackpackSlots_+\")": 12
+                "(Value=\"BaseBackpackSlots_+\")": 12,
+                "(Value=\"BaseWeightCapacity_+%\")": 15
             },
             "bBindToAllInventoryUpdates": false
         },
@@ -293,6 +294,7 @@
                 "(Value=\"BaseMovementSpeed_+\")": -30,
                 "(Value=\"BaseMaximumHealth_+\")": 200,
                 "(Value=\"BaseMountHeavyCargoSlots_+\")": 5,
+                "(Value=\"IsPullingCart_?\")": 1
             }
         },
         {
