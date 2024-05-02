@@ -2596,6 +2596,30 @@
             }
         },
         {
+            "Name": "Food_Animal_Feed_Speed",
+            "Stats": {
+                "(Value=\"BaseFoodRecovery_+\")": 100
+            },
+            "Modifier": {
+                "Modifier": {
+                    "RowName": "Animal_Feed_Speed"
+                },
+                "ModifierLifetime": 900
+            }
+        },
+        {
+            "Name": "Food_Animal_Feed_Carryweight",
+            "Stats": {
+                "(Value=\"BaseFoodRecovery_+\")": 100
+            },
+            "Modifier": {
+                "Modifier": {
+                    "RowName": "Animal_Feed_CarryWeight"
+                },
+                "ModifierLifetime": 900
+            }
+        },
+        {
             "Name": "Smoked_Giant_Steak",
             "Stats": {
                 "(Value=\"BaseFoodRecovery_+\")": 200,
@@ -2938,7 +2962,13 @@
                 },
                 "ModifierLifetime": 2400
             },
-            "DescriptionText": "Can be placed in a Suit Food Slot to Auto Consume."
+            "DescriptionText": "Can be placed in a Suit Food Slot to Auto Consume.",
+            "Byproducts": [
+                {
+                    "RowName": "Glass_Jar",
+                    "DataTableName": "D_ItemTemplate"
+                }
+            ]
         },
         {
             "Name": "Big_Breakfast",
@@ -3004,6 +3034,19 @@
                     "RowName": "Fried_Chicken"
                 },
                 "ModifierLifetime": 1800
+            },
+            "DescriptionText": "Can be placed in a Suit Food Slot to Auto Consume."
+        },
+        {
+            "Name": "Grilled_Chicken",
+            "Stats": {
+                "(Value=\"BaseFoodRecovery_+\")": 50
+            },
+            "Modifier": {
+                "Modifier": {
+                    "RowName": "Grilled_Chicken"
+                },
+                "ModifierLifetime": 900
             },
             "DescriptionText": "Can be placed in a Suit Food Slot to Auto Consume."
         },

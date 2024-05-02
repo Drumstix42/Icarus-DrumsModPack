@@ -151,6 +151,110 @@
             "Weight": {
                 "RowName": "Overburdened"
             }
+        },
+        {
+            "Name": "Sheep",
+            "Food": [
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Hunger_3_Sheep",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.05
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Hunger_2_Sheep",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.1
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Hunger_1_Sheep",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.15
+                }
+            ],
+            "Water": [
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Thirst_3_Sheep",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.05
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Thirst_2_Sheep",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.1
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Thirst_1_Sheep",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.15
+                }
+            ],
+            "Weight": {
+                "RowName": "Overburdened"
+            }
+        },
+        {
+            "Name": "Chicken",
+            "Food": [
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Hunger_3_Chicken",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.05
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Hunger_2_Chicken",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.1
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Hunger_1_Chicken",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.15
+                }
+            ],
+            "Water": [
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Thirst_3_Chicken",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.05
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Thirst_2_Chicken",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.1
+                },
+                {
+                    "Modifier": {
+                        "RowName": "Tame_Thirst_1_Chicken",
+                        "DataTableName": "D_ModifierStates"
+                    },
+                    "PercentTrigger": 0.15
+                }
+            ],
+            "Weight": {
+                "RowName": "Overburdened"
+            }
         }
     ]
 }

@@ -362,6 +362,7 @@
         },
         {
             "Name": "Water_Trough_T4",
+            "AutoActivate": true,
             "AutoShutoffFlowPercent": 99,
             "bAllowAutoRestart": true
         },
@@ -371,6 +372,7 @@
         },
         {
             "Name": "Food_Trough_T4",
+            "AutoActivate": true,
             "ResourceFlowRate": 500,
             "AutoShutoffFlowPercent": 99,
             "bAllowAutoRestart": true
@@ -380,6 +382,14 @@
             "AlwaysActive": true,
             "AutoActivate": true,
             "AutoShutoffFlowPercent": 99
+        },
+        {
+            "Name": "Water_Trough",
+            "FlowType": "Store",
+            "ResourceFlowRate": 250,
+            "bStorageIsInFlowOnly": true,
+            "AutoShutoffFlowPercent": 99,
+	    "bAllowAutoRestart": true
         }
     ]
 }
