@@ -357,7 +357,7 @@
             "SlotTemplate": {
                 "RowName": "Any_Food_Or_Ice"
             },
-            "StartingSlots": 24
+            "StartingSlots": 32
         },
         {
             "Name": "Animal_Corpse",
@@ -392,42 +392,42 @@
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 10
+            "StartingSlots": 16
         },
         {
             "Name": "Storage_Wood_Crate_Medium",
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 20
+            "StartingSlots": 30
         },
         {
             "Name": "Storage_Metal_Crate_Small",
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 15
+            "StartingSlots": 24
         },
         {
             "Name": "Storage_Metal_Crate_Medium",
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 25
+            "StartingSlots": 40
         },
         {
             "Name": "Storage_Wood_Cupboard",
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 40
+            "StartingSlots": 60
         },
         {
             "Name": "Storage_Metal_Cupboard",
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 50
+            "StartingSlots": 80
         },
         {
             "Name": "Faction_Corpse",
@@ -472,7 +472,7 @@
             "SlotTemplate": {
                 "RowName": "Icebox_Contents"
             },
-            "StartingSlots": 12
+            "StartingSlots": 24
         },
         {
             "Name": "Firepit",
@@ -522,7 +522,7 @@
             "SlotTemplate": {
                 "RowName": "General_Inventory_Slot"
             },
-            "StartingSlots": 12
+            "StartingSlots": 24
         },
         {
             "Name": "Kitchen_Stove",
@@ -532,14 +532,14 @@
             "SlotTemplate": {
                 "RowName": "General_Inventory_Slot"
             },
-            "StartingSlots": 20
+            "StartingSlots": 24
         },
         {
             "Name": "Storage_Kitchen_Block",
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 40
+            "StartingSlots": 50
         },
         {
             "Name": "Faction_Satellite_Defend",
@@ -671,7 +671,7 @@
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 60
+            "StartingSlots": 80
         },
         {
             "Name": "Storage_Faction_Crate_One",
@@ -936,7 +936,7 @@
             "SlotTemplate": {
                 "RowName": "Any_Tamed_Creature_Food_Trough"
             },
-            "StartingSlots": 4
+            "StartingSlots": 6
         },
         {
             "Name": "Alteration_Bench",
@@ -1214,7 +1214,7 @@
             "InventoryID": {
                 "Value": "General"
             },
-            "StartingSlots": 12,
+            "StartingSlots": 20,
             "RemoveOnly": true
         },
         {
@@ -1282,7 +1282,7 @@
             "SlotTemplate": {
                 "RowName": "Any_Food_Or_Ice"
             },
-            "StartingSlots": 12
+            "StartingSlots": 50
         },
         {
             "Name": "Fishing_Trap",
@@ -1292,7 +1292,7 @@
             "SlotTemplate": {
                 "RowName": "General_Inventory_Slot"
             },
-            "StartingSlots": 6,
+            "StartingSlots": 12,
             "RemoveOnly": true
         },
         {
@@ -1303,7 +1303,7 @@
             "SlotTemplate": {
                 "RowName": "General_Inventory_Slot"
             },
-            "StartingSlots": 12,
+            "StartingSlots": 24,
             "RemoveOnly": true
         },
         {
@@ -1372,7 +1372,7 @@
             "SlotTemplate": {
                 "RowName": "Any_Ammo"
             },
-            "StartingSlots": 4
+            "StartingSlots": 8
         },
         {
             "Name": "Tackle_Box",
@@ -1719,6 +1719,16 @@
             },
             "SlotTemplate": {
                 "RowName": "Any_Hatchable_Egg"
+            },
+            "StartingSlots": 1
+        },
+        {
+            "Name": "Cairn",
+            "InventoryID": {
+                "Value": "General"
+            },
+            "SlotTemplate": {
+                "RowName": "Any_AnimalCorpse"
             },
             "StartingSlots": 1
         }

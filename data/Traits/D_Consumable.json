@@ -1735,27 +1735,42 @@
             }
         },
         {
-            "Name": "Health_Enhancement_Tonic",
+            "Name": "Health_Remedy",
             "Stats": {
                 "(Value=\"BaseHealthRecovery_+\")": 100
             },
             "Modifier": {
-                "Modifier": {
-                    "RowName": "Health_Enhancement_Tonic"
-                },
-                "ModifierLifetime": 120
+                "ModifierLifetime": 240
+            }
+        },
+        {
+            "Name": "Health_Enhancement_Tonic",
+            "Stats": {
+                "(Value=\"BaseHealthRecovery_+\")": 250
+            },
+            "Modifier": {
+                "ModifierLifetime": 480
+            }
+        },
+        {
+            "Name": "Health_Elixir",
+            "Stats": {
+                "(Value=\"BaseHealthRecovery_+\")": 500
+            },
+            "Modifier": {
+                "ModifierLifetime": 480
             }
         },
         {
             "Name": "Stamina_Enhancement_Tonic",
             "Stats": {
-                "(Value=\"BaseStaminaRecovery_+\")": 100
+                "(Value=\"BaseStaminaRecovery_+\")": 50
             },
             "Modifier": {
                 "Modifier": {
                     "RowName": "Stamina_Enhancement_Tonic"
                 },
-                "ModifierLifetime": 120
+                "ModifierLifetime": 240
             }
         },
         {
@@ -1769,20 +1784,20 @@
                 "Modifier": {
                     "RowName": "Sustenence_Enhancement_Tonic"
                 },
-                "ModifierLifetime": 120
+                "ModifierLifetime": 240
             }
         },
         {
             "Name": "Strength_Enhancement_Tonic",
             "Stats": {
-                "(Value=\"BaseHealthRecovery_+\")": 50,
-                "(Value=\"BaseStaminaRecovery_+\")": 50
+                "(Value=\"BaseHealthRecovery_+\")": 100,
+                "(Value=\"BaseStaminaRecovery_+\")": 25
             },
             "Modifier": {
                 "Modifier": {
                     "RowName": "Strength_Enhancement_Tonic"
                 },
-                "ModifierLifetime": 120
+                "ModifierLifetime": 480
             }
         },
         {
