@@ -3146,8 +3146,47 @@
                 "Modifier": {
                     "RowName": "Animal_Feed_Bean"
                 },
-                "ModifierLifetime": 1800
+                "ModifierLifetime": 900
             }
+        },
+        {
+            "Name": "Vitamins",
+            "Modifier": {
+                "Modifier": {
+                    "RowName": "Vitamins"
+                },
+                "ModifierLifetime": 6000
+            }
+        },
+        {
+            "Name": "Dressing_Kit",
+            "Modifier": {
+                "Modifier": {
+                    "RowName": "Dressing_Kit"
+                },
+                "ModifierLifetime": 1
+            }
+        },
+        {
+            "Name": "Workshop_Dressing_Kit",
+            "Modifier": {
+                "Modifier": {
+                    "RowName": "Workshop_Dressing_Kit"
+                },
+                "ModifierLifetime": 1
+            }
+        },
+        {
+            "Name": "Workshop_Dressing_Bundle",
+            "Modifier": {
+                "ModifierLifetime": 1
+            },
+            "Byproducts": [
+                {
+                    "RowName": "Workshop_Dressing_Kit_x5",
+                    "DataTableName": "D_ItemTemplate"
+                }
+            ]
         }
     ]
 }

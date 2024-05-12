@@ -1721,10 +1721,10 @@
                 "(Value=\"BaseHealthRegenDelay_+\")": 2,
                 "(Value=\"BaseSlowResistance_%\")": 10,
                 "(Value=\"BaseImmobiliseResistance_%\")": 10,
-                "(Value=\"BaseMovementSpeed_+\")": 500
+                "(Value=\"BaseMovementSpeed_+\")": 115
             },
-            "Health": "CurveFloat'/Game/Data/AI/C_WolfHealth.C_WolfHealth'",
-            "MeleeDamage": "CurveFloat'/Game/Data/AI/C_WolfMeleeDamage.C_WolfMeleeDamage'",
+            "Health": "CurveFloat'/Game/Data/AI/C_SpiderHealth.C_SpiderHealth'",
+            "MeleeDamage": "CurveFloat'/Game/Data/AI/C_SpiderMeleeDamage.C_SpiderMeleeDamage'",
             "CustomStats": [
                 {
                     "Stat": {
@@ -3320,7 +3320,7 @@
             "Name": "MiniHippo_Quest",
             "Base": {
                 "(Value=\"BaseSwimSpeed_+\")": 300,
-                "(Value=\"BaseHealthRegenPerMinute_+\")": 20,
+                "(Value=\"BaseHealthRegenPerMinute_+\")": 90,
                 "(Value=\"BaseMinimumFallDamage_%\")": 1,
                 "(Value=\"BaseMaximumFallDamage_%\")": 100,
                 "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
