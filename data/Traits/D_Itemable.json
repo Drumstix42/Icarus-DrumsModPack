@@ -1164,7 +1164,7 @@
             "Name": "Item_Kit_Stone_Furnace",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Kit_Stone_Furnace-DisplayName\", \"Stone Furnace\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Kit_Stone_Furnace.ITEM_Kit_Stone_Furnace",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Kit_Stone_Furnace-Description\", \"A simple stone furnace for smelting iron and copper.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Kit_Stone_Furnace-Description\", \"A simple stone furnace for smelting iron, copper and steel.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Kit_Stone_Furnace-FlavorText\", \"Bronze-age technology, spread to the stars.\")",
             "Weight": 30000
         },
@@ -3996,7 +3996,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_Mammoth_Tusk.ITEM_Mammoth_Tusk",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mammoth_Tusk-Description\", \"A fortune in ivory from a titan reborn; a small step towards revealing Icarus\\'s secrets.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mammoth_Tusk-FlavorText\", \"Theories suggest that when exotic material present in plant life is ingested, it affects cellular reproduction in animals. The exact mechanism is unclear, with speculation that some varieties of exotics possess negative mass, producing relativistic micro-effects. Analysis of this specimen will reveal more.\")",
-            "Weight": 10000
+            "Weight": 15000
         },
         {
             "Name": "Item_Bone_Sickle",
@@ -6282,7 +6282,7 @@
             "Name": "Item_Spoiled_Plants",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Spoiled_Plants-DisplayName\", \"Spoiled Plants\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_Spoiled_Plants.ITEM_Spoiled_Plants",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Spoiled_Plants-Description\", \"This produce is certainly past it\\'s best\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Spoiled_Plants-Description\", \"This produce is certainly past its best\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Spoiled_Plants-FlavorText\", \"I wouldn\\'t eat that if I were you\")",
             "Weight": 25,
             "MaxStack": 100
@@ -7053,7 +7053,7 @@
         },
         {
             "Name": "Item_Rustic_CouchLarge",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchLarge-DisplayName\", \"Rustic 3 Seater Couch\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchLarge-DisplayName\", \"Rustic 3-Seater Couch\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Rustic_CouchLarge.ITEM_Rustic_CouchLarge",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchLarge-Description\", \"A large and cozy couch to share.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchLarge-FlavorText\", \"Or to keep all for yourself.\")",
@@ -7061,7 +7061,7 @@
         },
         {
             "Name": "Item_Rustic_CouchMedium",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchMedium-DisplayName\", \"Rustic 2 Seater Couch\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchMedium-DisplayName\", \"Rustic 2-Seater Couch\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Rustic_CouchMedium.ITEM_Rustic_CouchMedium",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchMedium-Description\", \"A lovingly crafted loveseat.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_CouchMedium-FlavorText\", \"It could also just be a really big armchair.\")",
@@ -7153,7 +7153,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Rustic_Bed.ITEM_Rustic_Bed",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_Bed-Description\", \"An extra sturdy and comfortable bed.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rustic_Bed-FlavorText\", \"Something a little fancier.\")",
-            "Weight": 15000
+            "Weight": 10000
         },
         {
             "Name": "Item_Rustic_Statue",
@@ -9376,7 +9376,7 @@
             "Name": "Item_Saddle_Cart_Wood",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Wood-DisplayName\", \"Wooden Cart\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ICON_Cart_Wood.ICON_Cart_Wood",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Wood-Description\", \"Place this cart inside a tamed Buffalo or Tusker\\'s inventory to greatly increase its carrying capacity. This cart cannot be used as a seat by players.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Wood-Description\", \"Place this cart inside a tamed Buffalo or Tusker\\'s inventory to greatly increase its carrying capacity.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Wood-FlavorText\", \"Lending a helping hand, or hoof.\")",
             "Weight": 80000
         },
@@ -10761,7 +10761,7 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Carved_Bed_A.ITEM_Carved_Bed_A",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carved_Bed-Description\", \"A finely crafted bed.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carved_Bed-FlavorText\", \"Carving wood by hand is a time-consuming process that requires a great deal of skill and patience.\")",
-            "Weight": 1000
+            "Weight": 10000
         },
         {
             "Name": "Item_Carved_Bookshelf",
@@ -13023,7 +13023,7 @@
             "Name": "Item_Meta_Resource_Pack_Stone",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Resource_Pack_Stone-DisplayName\", \"UDA Stone Resource Supply\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/ResourcePack/T_ITEM_Resource_Pack_Stone.T_ITEM_Resource_Pack_Stone",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Resource_Pack_Stone-Description\", \"A collection of 250 Stone collected by another prospector for you. \\'CONSUME\\' to open bundle.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Resource_Pack_Stone-Description\", \"A collection of 250 Stone collected by another prospector for you. C\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Resource_Pack_Stone-FlavorText\", \"These supplies are ethically provided by contractors who were found to be in breach of precept 45-379b, this is enforced by Group 15 and its subsidiaries.\")",
             "Weight": 10000
         },
@@ -14092,7 +14092,7 @@
         },
         {
             "Name": "Item_Metal_Chair_Living_2Seater",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Chair_Living_2Seater-DisplayName\", \"Industrial Two Seater Couch\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Chair_Living_2Seater-DisplayName\", \"Industrial 2-Seater Couch\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Metal_Chair_Living_2Seater.T_ITEM_Metal_Chair_Living_2Seater",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Chair_Living_2Seater-Description\", \"A sleek and minimalist metal two seater couch.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Chair_Living_2Seater-FlavorText\", \"Designed for functionality and a touch of urban elegance.\")",
@@ -15325,33 +15325,33 @@
         },
         {
             "Name": "Item_Turret_Pistol",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Pistol-DisplayName\", \"Pistol Turret\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Pistol-DisplayName\", \"Automated Defense System: Pistol\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Turret_Pistol.T_ITEM_Turret_Pistol",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Pistol-Description\", \"A turret that uses pistol ammunition to defend its surroundings. Fires a steady shots at a medium range.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Pistol-Description\", \"A turret that uses pistol ammunition to defend its surroundings. Fires a steady shots at a medium range. Power consumption reduced when idle.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Pistol-FlavorText\", \"This design is marked as \\\"experimental\\\" by the Lagos Group - The UDA is not liable for any injuries caused by this unit.\")",
             "Weight": 20000
         },
         {
             "Name": "Item_Turret_Rifle",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle-DisplayName\", \"Burst Rifle Turret\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle-DisplayName\", \"Automated Defense System: Burst Rifle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Turret_Rifle.T_ITEM_Turret_Rifle",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle-Description\", \"A turret that uses rifle ammunition to defend its surroundings. Fires a short burst of rounds at medium range.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle-Description\", \"A turret that uses rifle ammunition to defend its surroundings. Fires a short burst of rounds at medium range. Power consumption reduced when idle.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle-FlavorText\", \"This design is marked as \\\"experimental\\\" by the Lagos Group - The UDA is not liable for any injuries caused by this unit.\")",
             "Weight": 25000
         },
         {
             "Name": "Item_Turret_Rifle_Precision",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle_Precision-DisplayName\", \"Precision Rifle Turret\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle_Precision-DisplayName\", \"Automated Defense System: Rifle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Turret_Rifle.T_ITEM_Turret_Rifle",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle_Precision-Description\", \"A turret that uses rifle ammunition to defend its surroundings. Fires slowly, at long range.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle_Precision-Description\", \"A turret that uses rifle ammunition to defend its surroundings. Fires slowly, at long range. Power consumption reduced when idle.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Rifle_Precision-FlavorText\", \"This design is marked as \\\"experimental\\\" by the Lagos Group - The UDA is not liable for any injuries caused by this unit.\")",
             "Weight": 25000
         },
         {
             "Name": "Item_Turret_Shotgun",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Shotgun-DisplayName\", \"Shotgun Turret\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Shotgun-DisplayName\", \"Automated Defense System: Shotgun\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Turret_Shotgun.T_ITEM_Turret_Shotgun",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Shotgun-Description\", \"A turret that uses shotgun ammunition to defend its surroundings. Fires rapidly at short range.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Shotgun-Description\", \"A turret that uses shotgun ammunition to defend its surroundings. Fires rapidly at short range. Power consumption reduced when idle.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Turret_Shotgun-FlavorText\", \"This design is marked as \\\"experimental\\\" by the Lagos Group - The UDA is not liable for any injuries caused by this unit.\")",
             "Weight": 25000
         },
@@ -15612,9 +15612,9 @@
         {
             "Name": "Item_Saddle_Cart_Plough",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Plough-DisplayName\", \"Seeding Cart\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Saddle_Cart_Harvest.T_ITEM_Saddle_Cart_Harvest",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Saddle_Cart_Plough.T_ITEM_Saddle_Cart_Plough",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Plough-Description\", \"A cart which when stocked with seeds and pulled by an animal will create dirt mounds with planted seeds.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Plough-FlavorText\", \"Can be pulled by a tamed Buffalo or Tusker. This cart cannot be used as a seat by players.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Plough-FlavorText\", \"Can be pulled by a tamed Buffalo or Tusker.\")",
             "Weight": 80000
         },
         {
@@ -15622,7 +15622,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Watering-DisplayName\", \"Watering Cart\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Saddle_Cart_Water.T_ITEM_Saddle_Cart_Water",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Watering-Description\", \"A cart which when stocked with water and pulled by an animal will water nearby crops.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Watering-FlavorText\", \"Can be pulled by a tamed Buffalo or Tusker. This cart cannot be used as a seat by players.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Watering-FlavorText\", \"Can be pulled by a tamed Buffalo or Tusker.\")",
             "Weight": 80000
         },
         {
@@ -15630,7 +15630,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Harvesting-DisplayName\", \"Harvesting Cart\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Saddle_Cart_Harvest.T_ITEM_Saddle_Cart_Harvest",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Harvesting-Description\", \"A cart when pulled by an animal will attempt to harvest fully grown nearby plants.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Harvesting-FlavorText\", \"Can be pulled by a tamed Buffalo or Tusker. This cart cannot be used as a seat by players.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Saddle_Cart_Harvesting-FlavorText\", \"Can be pulled by a tamed Buffalo or Tusker.\")",
             "Weight": 80000
         },
         {
@@ -16287,6 +16287,7 @@
             "Name": "Item_Rifle_CHAC",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_CHAC-DisplayName\", \"CHAC \\\"Sovereign\\\" Rifle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Guns/T_ITEM_Rifle_CHAC.T_ITEM_Rifle_CHAC",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_CHAC-Description\", \"A modern hunting rifle with fairly quick reloads that deals a decent amount of damage.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_CHAC-FlavorText\", \"The latest addition from the China Hangzhou Armament Company\")",
             "Weight": 3000
         },
@@ -16334,7 +16335,7 @@
             "Name": "Pyritic_Crust_Stone",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Stone-DisplayName\", \"Noxious Crust (Stone)\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Pyritic_Crust.T_ITEM_Pyritic_Crust",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Stone-Description\", \"A heavily scarred stone with traces of metal and minerals. Use the Organic Residue Cleanser to gain Titanium Ore. Toxic to humans, this will damage you when carried.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Stone-Description\", \"A heavily scarred stone with traces of metal and minerals. Use the Organic Residue Cleanser to gain Stone. Toxic to humans, this will damage you when carried.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Stone-FlavorText\", \"The UDA has issued an Icarus-wide health warning regarding this material. Use at your own risk.\")",
             "Weight": 250,
             "MaxStack": 50
@@ -16343,7 +16344,7 @@
             "Name": "Pyritic_Crust_Salt",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Salt-DisplayName\", \"Noxious Crust (Salt)\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Pyritic_Crust.T_ITEM_Pyritic_Crust",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Salt-Description\", \"A heavily scarred stone with traces of metal and minerals. Use the Organic Residue Cleanser to gain Titanium Ore. Toxic to humans, this will damage you when carried.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Salt-Description\", \"A heavily scarred stone with traces of metal and minerals. Use the Organic Residue Cleanser to gain Salt. Toxic to humans, this will damage you when carried.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Salt-FlavorText\", \"The UDA has issued an Icarus-wide health warning regarding this material. Use at your own risk.\")",
             "Weight": 250,
             "MaxStack": 50
@@ -16352,7 +16353,7 @@
             "Name": "Pyritic_Crust_Limestone",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Limestone-DisplayName\", \"Noxious Crust (Limestone)\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Pyritic_Crust.T_ITEM_Pyritic_Crust",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Limestone-Description\", \"A heavily scarred stone with traces of metal and minerals. Use the Organic Residue Cleanser to gain Titanium Ore. Toxic to humans, this will damage you when carried.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Limestone-Description\", \"A heavily scarred stone with traces of metal and minerals. Use the Organic Residue Cleanser to gain Limestone. Toxic to humans, this will damage you when carried.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Pyritic_Crust_Limestone-FlavorText\", \"The UDA has issued an Icarus-wide health warning regarding this material. Use at your own risk.\")",
             "Weight": 250,
             "MaxStack": 50
@@ -16905,6 +16906,7 @@
         {
             "Name": "Item_Dog_Trophy_C1",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_C1-DisplayName\", \"Pug Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Dog_Trophy_C1.T_ITEM_Dog_Trophy_C1",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_C1-Description\", \"A preserved memory of your Good Dog.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_C1-FlavorText\", \"Once a loyal companion.\")",
             "Weight": 2500
@@ -16975,7 +16977,7 @@
             "Name": "Item_Single_Ceiling_Light",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Single_Ceiling_Light-DisplayName\", \"Single Ceiling Light\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Single_Ceiling_Light.T_ITEM_Single_Ceiling_Light",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Single_Ceiling_Light-Description\", \"A simple wall light.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Single_Ceiling_Light-Description\", \"A simple ceiling light.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Single_Ceiling_Light-FlavorText\", \"A simple light for your lighting needs.\")",
             "Weight": 1000
         },
@@ -17122,7 +17124,7 @@
             "Name": "Item_Workshop_Dressing_Kit_Bundle",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dressing_Kit_Bundle-DisplayName\", \"Xigo Quick-Fix Bundle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Workshop_Dressing_Bundle.T_ITEM_Workshop_Dressing_Bundle",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dressing_Kit_Bundle-Description\", \"Provides the best healing Xigo can offer, treating most wounds, poisons\\', bacterial and parasitic infections instantly. Consume for a pack for 5 Xigo Quick-Fix Kits\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dressing_Kit_Bundle-Description\", \"Provides the best healing Xigo can offer, treating most wounds, poisons\\', bacterial and parasitic infections instantly. Consume for a pack of 5 Xigo Quick-Fix Kits\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dressing_Kit_Bundle-FlavorText\", \"One of the latest Xigo products, for a better you.\")",
             "Weight": 8000
         },
@@ -17130,7 +17132,7 @@
             "Name": "Item_Medicine_Bag",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Medicine_Bag-DisplayName\", \"Medical Satchel\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Medicine_Bag.T_ITEM_Medicine_Bag",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Medicine_Bag-Description\", \"A sturdy satchel which can carry all sorts of medical supplies.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Medicine_Bag-Description\", \"A sturdy satchel which can carry all sorts of medical supplies. Allows instant use of medicine inside the bag.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Medicine_Bag-FlavorText\", \"You are a real doctor now.\")",
             "Weight": 2000
         },
@@ -17158,6 +17160,132 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Charging_Device-Description\", \"Charges basic battery powered devices when they are placed inside.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Charging_Device-FlavorText\", \"Gotta Love Technology\")",
             "Weight": 10000
+        },
+        {
+            "Name": "Item_Wood_CornerStair_Refined",
+            "DisplayName": "INVTEXT(\"[DNT] Interior Wood Corner Stairs\")",
+            "Weight": 500,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_Workshop_Dog_D1",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_D1-DisplayName\", \"Cryogenically Frozen Tan Laika\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Dog_D1.T_ITEM_Workshop_Dog_D1",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_D1-Description\", \"A Dog preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_D1-FlavorText\", \"It is Laika - Back from space - what a good dog.\")",
+            "Weight": 10
+        },
+        {
+            "Name": "Item_Workshop_Dog_D2",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_D2-DisplayName\", \"Cryogenically Frozen Brown Laika\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Dog_D2.T_ITEM_Workshop_Dog_D2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_D2-Description\", \"A Dog preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_D2-FlavorText\", \"It is Laika - Back from space - what a good dog.\")",
+            "Weight": 10
+        },
+        {
+            "Name": "Item_Dog_Head_D1",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Head_D1-DisplayName\", \"Tan Laika Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Dog_Head_D1.T_ITEM_Dog_Head_D1",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Head_D1-Description\", \"A preserved memory of a once loyal companion.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Head_D1-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Dog_Head_D2",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Head_D2-DisplayName\", \"Brown Laika Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Dog_Head_D2.T_ITEM_Dog_Head_D2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Head_D2-Description\", \"A preserved memory of a once loyal companion.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Head_D2-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Dog_Trophy_D1_1",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D1_1-DisplayName\", \"Tan Laika Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Dog_Trophy_D1_1.T_ITEM_Dog_Trophy_D1_1",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D1_1-Description\", \"A preserved memory of your Good Dog.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D1_1-FlavorText\", \"Once a loyal companion.\")",
+            "Weight": 2500
+        },
+        {
+            "Name": "Item_Dog_Trophy_D1_2",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D1_2-DisplayName\", \"Tan Laika Jumpsuit Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Dog_Trophy_D1_2.T_ITEM_Dog_Trophy_D1_2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D1_2-Description\", \"A preserved memory of your Good Dog.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D1_2-FlavorText\", \"Once a loyal companion.\")",
+            "Weight": 2500
+        },
+        {
+            "Name": "Item_Carcass_Dog_D",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Dog_D-DisplayName\", \"Laika Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Dog_Carcass_D1_1.T_ITEM_Dog_Carcass_D1_1",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Dog_D-Description\", \"A good dog lies at your feet now dead.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Dog_D-FlavorText\", \"Frozen on Earth, Defrosted on Icarus, What a Life...\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Butchery_Bench",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Butchery_Bench-DisplayName\", \"Butchery Bench\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Butchery_Bench.T_ITEM_Butchery_Bench",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Butchery_Bench-Description\", \"A modular workspace for cooking and concocting complex recipes.\")",
+            "Weight": 20000
+        },
+        {
+            "Name": "Item_Advanced_Butchery_Bench",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Butchery_Bench-DisplayName\", \"Marble Butchery Bench\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Advanced_Butchery_Bench.T_ITEM_Advanced_Butchery_Bench",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Butchery_Bench-FlavorText\", \"Cleaner and more durable than other benches on Icarus. \")",
+            "Weight": 20000
+        },
+        {
+            "Name": "Item_Carcass_Eagle",
+            "DisplayName": "INVTEXT(\"[DNT] Eagle Carcass\")",
+            "Description": "INVTEXT(\"[DNT] Eagle Carcass\")",
+            "FlavorText": "INVTEXT(\"[DNT] Eagle Carcass\")",
+            "Weight": 1250
+        },
+        {
+            "Name": "Item_Dog_Accessory_D",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Accessory_D-DisplayName\", \"Laika\\'s Jumpsuit\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Dog_Accessory_D.T_ITEM_Dog_Accessory_D",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Accessory_D-Description\", \"An old harness fashioned into a jumpsuit for a very special dog. (A Laika dog accessory only)\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Accessory_D-FlavorText\", \"Laika was a good dog.\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_Pistol_Round_Workshop",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pistol_Round_Workshop-DisplayName\", \"Jacketed Pistol Ammo \")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Projectiles/T_ITEM_Ammo_Workshop_Pistol.T_ITEM_Ammo_Workshop_Pistol",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pistol_Round_Workshop-Description\", \"Reliable Jacketed 9mm ammunition.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pistol_Round_Workshop-FlavorText\", \"The latest addition from the China Hangzhou Armament Company\")",
+            "Weight": 10,
+            "MaxStack": 100
+        },
+        {
+            "Name": "Item_Pistol_Round_Workshop_Bundle",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pistol_Round_Workshop_Bundle-DisplayName\", \"Jacketed Pistol Ammo Box\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Projectiles/T_ITEM_Pistol_Round_Workshop_Bundle.T_ITEM_Pistol_Round_Workshop_Bundle",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pistol_Round_Workshop_Bundle-Description\", \"A Box of 25 Jacketed Pistol Ammo. \\'CONSUME\\' to open box.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pistol_Round_Workshop_Bundle-FlavorText\", \"The latest addition from the China Hangzhou Armament Company\")",
+            "Weight": 250
+        },
+        {
+            "Name": "Item_Dog_Trophy_D2_1",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D2_1-DisplayName\", \"Brown Laika Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Dog_Trophy_D2_1.T_ITEM_Dog_Trophy_D2_1",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D2_1-Description\", \"A preserved memory of your Good Dog.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D2_1-FlavorText\", \"Once a loyal companion.\")",
+            "Weight": 2500
+        },
+        {
+            "Name": "Item_Dog_Trophy_D2_2",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D2_2-DisplayName\", \"Brown Laika Jumpsuit Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Dog_Trophy_D2_2.T_ITEM_Dog_Trophy_D2_2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D2_2-Description\", \"A preserved memory of your Good Dog.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Dog_Trophy_D2_2-FlavorText\", \"Once a loyal companion.\")",
+            "Weight": 2500
         }
     ]
 }
