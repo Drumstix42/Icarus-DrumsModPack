@@ -26134,6 +26134,14 @@
                     },
                     "Count": 20,
                     "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Dirt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
                 }
             ],
             "Outputs": [
@@ -29972,6 +29980,14 @@
                 {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -30012,6 +30028,14 @@
                 },
                 {
                     "RowName": "Advanced_Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -30054,6 +30078,14 @@
                 {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -30094,6 +30126,14 @@
                 },
                 {
                     "RowName": "Advanced_Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -30136,6 +30176,14 @@
                 {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -30177,6 +30225,14 @@
                 {
                     "RowName": "Advanced_Kitchen_Bench",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -30217,6 +30273,14 @@
                 },
                 {
                     "RowName": "Advanced_Kitchen_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -46905,6 +46969,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -46942,6 +47014,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -46981,6 +47061,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47018,6 +47106,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47057,6 +47153,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47094,6 +47198,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47133,6 +47245,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47170,6 +47290,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47209,6 +47337,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47246,6 +47382,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47285,6 +47429,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47322,6 +47474,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47361,6 +47521,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47398,6 +47566,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47437,6 +47613,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47474,6 +47658,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47513,6 +47705,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47550,6 +47750,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47589,6 +47797,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47626,6 +47842,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47665,6 +47889,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47702,6 +47934,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47741,6 +47981,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47778,6 +48026,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47817,6 +48073,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47854,6 +48118,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47893,6 +48165,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -47930,6 +48210,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47969,6 +48257,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48006,6 +48302,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48045,6 +48349,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48082,6 +48394,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48121,6 +48441,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48158,6 +48486,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48197,6 +48533,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48234,6 +48578,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48273,6 +48625,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48310,6 +48670,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48349,6 +48717,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48386,6 +48762,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48425,6 +48809,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48462,6 +48854,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48501,6 +48901,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48538,6 +48946,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48577,6 +48993,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48614,6 +49038,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48653,6 +49085,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48690,6 +49130,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48729,6 +49177,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48766,6 +49222,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48805,6 +49269,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48842,6 +49314,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48881,6 +49361,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48918,6 +49406,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48957,6 +49453,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -48994,6 +49498,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -49033,6 +49545,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -49070,6 +49590,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -49109,6 +49637,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -49146,6 +49682,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -49185,6 +49729,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -49222,6 +49774,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -49261,6 +49821,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -49298,6 +49866,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -49337,6 +49913,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -49375,6 +49959,14 @@
                 {
                     "RowName": "Fishing_Bench_Recipes",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -49412,6 +50004,14 @@
             "RecipeSets": [
                 {
                     "RowName": "Fishing_Bench_Recipes",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Butchery_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Advanced_Butchery_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -65715,6 +66315,91 @@
                 {
                     "Element": {
                         "RowName": "Beehive_Extractor",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Turret_Pistol",
+            "Requirement": {
+                "RowName": "Turret_Pistol"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Titanium_Plate",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 12,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Composites",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 12,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Aluminium",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 12,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Pistol_Handgun",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 12,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Turret_Pistol",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
