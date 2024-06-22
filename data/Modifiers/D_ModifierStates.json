@@ -204,7 +204,7 @@
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Stamina_Consumption-ModifierName\", \"Stamina Consumption\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Stamina_Consumption-ModifierDescription\", \"Decreases stamina consumption\")",
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": -5
+                "(Value=\"BaseStaminaActionCost_+%\")": -5
             },
             "ShouldTick": true,
             "MergeType": "Replace",
@@ -421,7 +421,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Affliction_Overheating-ModifierDescription\", \"Your body temperature is rising. Thirst has increased. You need to cool down.\")",
             "GrantedStats": {
                 "(Value=\"BaseWaterConsumption_+%\")": 50,
-                "(Value=\"BaseStaminaConsumed_+%\")": 10
+                "(Value=\"BaseStaminaActionCost_+%\")": 10
             },
             "bEscalates": true,
             "Escalation": {
@@ -454,7 +454,6 @@
                 ],
                 "AutoDescription": " NONE( Character.Player.Invincible )"
             },
-            "bEffectsNPCs": false,
             "SaveToDatabase": false
         },
         {
@@ -468,7 +467,7 @@
             },
             "GrantedStats": {
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
-                "(Value=\"BaseStaminaConsumed_+%\")": 25
+                "(Value=\"BaseStaminaActionCost_+%\")": 25
             },
             "Behaviour": "/Game/BP/Behaviours/Modifiers/BP_Modifier_HeatOverload.BP_Modifier_HeatOverload_C",
             "ModifierVariables": {
@@ -554,7 +553,6 @@
                 ],
                 "AutoDescription": " NONE( Character.Player.Invincible )"
             },
-            "bEffectsNPCs": false,
             "SaveToDatabase": false
         },
         {
@@ -2401,7 +2399,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Wine",
@@ -2418,7 +2417,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "DeathRun",
@@ -2427,7 +2427,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"DeathRun-ModifierDescription\", \"Short speed and stamina boost on respawn.\")",
             "GrantedStats": {
                 "(Value=\"BaseMovementSpeed_+%\")": 10,
-                "(Value=\"BaseStaminaConsumed_+%\")": -20,
+                "(Value=\"BaseStaminaActionCost_+%\")": -20,
                 "(Value=\"BaseStealthThreatModifier_+%\")": -15
             },
             "MergeType": "Stack"
@@ -3281,7 +3281,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Coconut",
@@ -3499,7 +3500,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Pumpkin",
@@ -3521,7 +3523,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Squash",
@@ -3543,7 +3546,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Carrot",
@@ -3565,7 +3569,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Mushroom",
@@ -3587,7 +3592,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Corn_Soup",
@@ -3609,7 +3615,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Mushroom_Soup",
@@ -3631,7 +3638,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Fruit_Salad",
@@ -3655,7 +3663,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Wild_Salad",
@@ -3678,7 +3687,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Meat_Stew",
@@ -3698,7 +3708,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Fried_Soy_Beans",
@@ -3723,7 +3734,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Fish_Dish",
@@ -3746,7 +3758,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Roasted_Vegetables",
@@ -3770,7 +3783,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Creamed_Corn",
@@ -3793,7 +3807,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "FlatBread",
@@ -3837,7 +3852,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Meat_Pie",
@@ -3857,7 +3873,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Vegetable_Pie",
@@ -3883,7 +3900,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Bread",
@@ -3926,7 +3944,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Crumbed_Fish",
@@ -3950,7 +3969,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Picked_Carrot",
@@ -4012,8 +4032,7 @@
                         "TagName": "ModifierState.Medicine.Antibiotic.T3"
                     }
                 ]
-            },
-            "bEffectsNPCs": false
+            }
         },
         {
             "Name": "Antiparasitic_Vaccine",
@@ -4027,8 +4046,7 @@
                         "TagName": "ModifierState.Medicine.Antiparasitic.T3"
                     }
                 ]
-            },
-            "bEffectsNPCs": false
+            }
         },
         {
             "Name": "Antipoison_Vaccine",
@@ -4042,8 +4060,7 @@
                         "TagName": "ModifierState.Medicine.Antipoison.T3"
                     }
                 ]
-            },
-            "bEffectsNPCs": false
+            }
         },
         {
             "Name": "Blood_Thinning_Vaccine",
@@ -4057,8 +4074,7 @@
                         "TagName": "ModifierState.Medicine.Bloodthinner.T3"
                     }
                 ]
-            },
-            "bEffectsNPCs": false
+            }
         },
         {
             "Name": "Reignite_Chance_Reduction",
@@ -5197,7 +5213,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Tomato",
@@ -5219,7 +5236,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Hearty_Salad",
@@ -5242,7 +5260,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Tomato_Soup",
@@ -5264,7 +5283,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Picked_Tomato",
@@ -5313,7 +5333,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Potato_Bread",
@@ -5337,7 +5358,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Shepherds_Pie",
@@ -5357,7 +5379,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Soy_Bean",
@@ -5379,7 +5402,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Health_Enhancement_Tonic",
@@ -5662,7 +5686,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Dried_Avocado",
@@ -5684,7 +5709,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Dried_Rhubarb",
@@ -5707,7 +5733,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Rhubarb",
@@ -5729,7 +5756,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Cooked_Kumara",
@@ -5751,7 +5779,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Stuffed_Avocado",
@@ -5775,7 +5804,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Mixed_Berries",
@@ -5798,7 +5828,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Rhubarb_Stew",
@@ -5810,7 +5841,7 @@
                 "(Value=\"BaseMaximumStamina_+\")": 225,
                 "(Value=\"BaseOxygenConsumption_+%\")": -10,
                 "(Value=\"BaseWaterConsumption_+%\")": -10,
-                "(Value=\"BaseStaminaConsumed_+%\")": -10
+                "(Value=\"BaseStaminaActionCost_+%\")": -10
             },
             "ModifierEffectivenessAffectors": [
                 {
@@ -5822,7 +5853,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Fried_Chunky_Vegetables",
@@ -5846,7 +5878,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Pickled_Avocado",
@@ -5869,7 +5902,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Strawberry_Jam",
@@ -5892,7 +5926,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Shepherds_Roll",
@@ -5913,7 +5948,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Savory_Roll",
@@ -5934,7 +5970,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Vegetable_Roll",
@@ -5960,7 +5997,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Fruit_Muffin",
@@ -5983,7 +6021,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Lava",
@@ -6029,7 +6068,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Fish_Chunk_Stew",
@@ -6041,7 +6081,7 @@
                 "(Value=\"BaseMaximumHealth_+\")": 150,
                 "(Value=\"BaseMaximumStamina_+\")": 75,
                 "(Value=\"BaseStaminaRegen_+%\")": 10,
-                "(Value=\"BaseStaminaConsumed_+%\")": -10,
+                "(Value=\"BaseStaminaActionCost_+%\")": -10,
                 "(Value=\"BaseMeleeDamage_+%\")": 5
             },
             "ModifierEffectivenessAffectors": [
@@ -6054,7 +6094,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Dried_Freshwater_Fillet",
@@ -6078,7 +6119,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Dried_Saltwater_Fillet",
@@ -6102,7 +6144,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Freshwater_Fillet_Curry",
@@ -6125,7 +6168,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Saltwater_Fillet_Sashimi",
@@ -6150,7 +6194,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Pickled_Freshwater_Fillet",
@@ -6169,7 +6214,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Crumbed_Saltwater_Fillet",
@@ -6194,7 +6240,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Fish_Fillet_Pie",
@@ -6219,7 +6266,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "SpikedBrambles",
@@ -6337,7 +6385,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Grilled_Saltwater_Fillet",
@@ -6360,7 +6409,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Tearing_Fish",
@@ -6710,7 +6760,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -20,
@@ -6740,7 +6790,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -10,
@@ -6770,7 +6820,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -10,
@@ -6800,7 +6850,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseCooldownDegreePerMinute_+\")": -16,
@@ -6829,7 +6879,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseCooldownDegreePerMinute_+\")": -24,
@@ -6858,7 +6908,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -10,
@@ -6888,7 +6938,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -20
@@ -6916,7 +6966,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseCooldownDegreePerMinute_+\")": 16,
@@ -6948,7 +6998,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -30
@@ -6976,7 +7026,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -20,
@@ -7005,7 +7055,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseFoodConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -10
@@ -7033,7 +7083,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseFoodConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -30
@@ -7061,7 +7111,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseFoodConsumption_+%\")": 100,
                 "(Value=\"BaseCooldownDegreePerMinute_+\")": 24,
@@ -7090,7 +7140,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -10
@@ -7118,7 +7168,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -30
@@ -7146,7 +7196,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseCooldownDegreePerMinute_+\")": 16,
@@ -7176,7 +7226,7 @@
                 "RowName": "Exposure_Light"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseOxygenConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -20
@@ -7503,6 +7553,11 @@
                 "(Value=\"BaseToolStaminaActionCost_+%\")": -20,
                 "(Value=\"BaseExperience_+%\")": 15
             },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
             "ModifierLifetimeAffectors": [
                 {
                     "Value": "FoodModifierDuration_+%"
@@ -7522,6 +7577,11 @@
                 "(Value=\"BaseToolStaminaActionCost_+%\")": -10,
                 "(Value=\"BaseWaterConsumption_+%\")": -10
             },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
             "ModifierLifetimeAffectors": [
                 {
                     "Value": "FoodModifierDuration_+%"
@@ -7540,6 +7600,11 @@
                 "(Value=\"BaseMaximumStamina_+\")": 100,
                 "(Value=\"BaseToolStaminaActionCost_+%\")": -15
             },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
             "ModifierLifetimeAffectors": [
                 {
                     "Value": "FoodModifierDuration_+%"
@@ -7568,7 +7633,9 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false,
+            "RemovedOnClick": true
         },
         {
             "Name": "GasFlyer_Poison",
@@ -7918,7 +7985,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Animal_Feed_CarryWeight",
@@ -7939,7 +8007,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Smoked_Giant_Steak",
@@ -8119,7 +8188,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Smoked_Saltwater_Fillet",
@@ -8145,7 +8215,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Dried_Meat_Generic",
@@ -8168,7 +8239,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Smoked_Meat_Generic",
@@ -8191,7 +8263,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Honey_Jar",
@@ -8499,9 +8572,9 @@
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Honey_Mead-ModifierName\", \"Honey Mead\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Honey_Mead-ModifierDescription\", \"Boosts max stamina and food modifier duration.\")",
             "GrantedStats": {
-                "(Value=\"BaseStaminaRegen_+%\")": 100,
-                "(Value=\"BaseMaximumStamina_+\")": 125,
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumStamina_+\")": 125,
+                "(Value=\"BaseStaminaRegen_+%\")": 100,
                 "(Value=\"BaseFoodModifierDuration_+%\")": 30
             },
             "ModifierLifetimeAffectors": [
@@ -8509,7 +8582,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "Replace"
+            "MergeType": "Replace",
+            "bEffectsNPCs": false
         },
         {
             "Name": "Honey_Bar",
@@ -8522,6 +8596,11 @@
                 "(Value=\"BaseToolStaminaActionCost_+%\")": -10,
                 "(Value=\"BaseFoodModifierDuration_+%\")": 15
             },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
             "ModifierLifetimeAffectors": [
                 {
                     "Value": "FoodModifierDuration_+%"
@@ -8755,7 +8834,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -10
@@ -8784,7 +8863,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseSprintSpeed_+%\")": -30
@@ -8813,7 +8892,7 @@
                 "RowName": "Exposure_Dynamic"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 100,
+                "(Value=\"BaseStaminaActionCost_+%\")": 100,
                 "(Value=\"BaseMovementSpeed_+%\")": -50,
                 "(Value=\"BaseWaterConsumption_+%\")": 100,
                 "(Value=\"BaseCooldownDegreePerMinute_+\")": -24,
@@ -8940,7 +9019,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Treated_Water-ModifierDescription\", \"Water that has be treated with charcoal.\")",
             "GrantedStats": {
                 "(Value=\"BaseWaterConsumption_+%\")": -10,
-                "(Value=\"BaseStaminaConsumed_+%\")": -10
+                "(Value=\"BaseStaminaActionCost_+%\")": -10
             },
             "MergeType": "Stack",
             "ModifierTags": {
@@ -8981,7 +9060,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Purified_Water-ModifierDescription\", \"Water that has undergone a purification process.\")",
             "GrantedStats": {
                 "(Value=\"BaseWaterConsumption_+%\")": -15,
-                "(Value=\"BaseStaminaConsumed_+%\")": -15
+                "(Value=\"BaseStaminaActionCost_+%\")": -15
             },
             "MergeType": "Stack",
             "ModifierTags": {
@@ -9040,7 +9119,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "ExoticDebuff",
@@ -9186,7 +9266,7 @@
                 "RowName": "Generic_Negative_LongCoolDown"
             },
             "GrantedStats": {
-                "(Value=\"BaseStaminaConsumed_+%\")": 50,
+                "(Value=\"BaseStaminaActionCost_+%\")": 50,
                 "(Value=\"BaseMeleeDamageResistance_+%\")": -25
             },
             "bEscalates": true,
@@ -9586,8 +9666,8 @@
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Energy_Brownout_Turret-ModifierName\", \"Energy Shortage\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Energy_Brownout_Turret-ModifierDescription\", \"Insufficient Energy for this device to operate at full efficiency\")",
             "GrantedStats": {
-                "(Value=\"BaseTurretCoolDownPeriod_+\")": -4,
-                "(Value=\"BaseTurretMoveSpeed_+\")": -3
+                "(Value=\"BaseTurretCoolDownPeriod_+\")": 300,
+                "(Value=\"BaseTurretMoveSpeed_+\")": -300
             },
             "MergeType": "Replace",
             "bEffectsObjects": true,
@@ -9879,7 +9959,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Animal_Feed_Pumpkin",
@@ -9901,7 +9982,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Animal_Feed_Potato",
@@ -9923,7 +10005,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Animal_Feed_Corn",
@@ -9932,7 +10015,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Animal_Feed_Corn-ModifierDescription\", \"Greatly reduces animal stamina consumption while slightly reducing animal sprint speed.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
-                "(Value=\"BaseStaminaConsumed_+%\")": -75,
+                "(Value=\"BaseStaminaActionCost_+%\")": -75,
                 "(Value=\"BaseSprintSpeed_+%\")": -25
             },
             "ModifierEffectivenessAffectors": [
@@ -9945,7 +10028,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Animal_Feed_Carrot",
@@ -9954,7 +10038,7 @@
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Animal_Feed_Carrot-ModifierDescription\", \"Increases animal sprint speed at the cost of greatly increased stamina consumption.\")",
             "GrantedStats": {
                 "(Value=\"BaseFoodStomachSlots_+\")": 1,
-                "(Value=\"BaseStaminaConsumed_+%\")": 75,
+                "(Value=\"BaseStaminaActionCost_+%\")": 75,
                 "(Value=\"BaseSprintSpeed_+%\")": 20
             },
             "ModifierEffectivenessAffectors": [
@@ -9967,7 +10051,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Animal_Feed_Mushroom",
@@ -9989,7 +10074,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Animal_Feed_Bean",
@@ -10011,7 +10097,8 @@
                     "Value": "FoodModifierDuration_+%"
                 }
             ],
-            "MergeType": "LongestDuration"
+            "MergeType": "LongestDuration",
+            "bEffectsPlayers": false
         },
         {
             "Name": "Tame_Hunger_1_Sheep",
@@ -10321,6 +10408,53 @@
                     }
                 ]
             }
+        },
+        {
+            "Name": "FarmingCartActive",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Saddle_Cart_Harvest.T_ITEM_Saddle_Cart_Harvest'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"FarmingCartActive-ModifierName\", \"Farming Cart\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"FarmingCartActive-ModifierDescription\", \"Your Cart is Active\")",
+            "GrantedStats": {
+                "(Value=\"IsHarvestCartActive_?\")": 1
+            },
+            "MergeType": "Stack"
+        },
+        {
+            "Name": "Turret_Idle",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_LowPower.Icon_LowPower'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Turret_Idle-ModifierName\", \"Idle\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Turret_Idle-ModifierDescription\", \"No target detected. Energy consumption reduced.\")",
+            "GrantedStats": {
+                "(Value=\"BaseEnergyNetworkModifier_+%\")": -50
+            },
+            "MergeType": "Replace",
+            "bEffectsObjects": true,
+            "bEffectsNPCs": false,
+            "bEffectsPlayers": false,
+            "SaveToDatabase": false
+        },
+        {
+            "Name": "Kiwi_Fruit",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Kiwi_Fruit.ITEM_Kiwi_Fruit'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Kiwi_Fruit-ModifierName\", \"Kiwi Fruit\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Kiwi_Fruit-ModifierDescription\", \"Boosts stamina for a short time.\")",
+            "GrantedStats": {
+                "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                "(Value=\"BaseMaximumStamina_+\")": 50,
+                "(Value=\"BaseWaterConsumption_+%\")": -10
+            },
+            "ModifierEffectivenessAffectors": [
+                {
+                    "Value": "FruitAndVegeModifierEffectiveness_+%"
+                }
+            ],
+            "ModifierLifetimeAffectors": [
+                {
+                    "Value": "FoodModifierDuration_+%"
+                }
+            ],
+            "MergeType": "LongestDuration",
+            "bEffectsNPCs": false
         }
     ]
 }
