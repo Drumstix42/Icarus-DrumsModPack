@@ -1740,7 +1740,10 @@
                 "(Value=\"BaseHealthRecovery_+\")": 100
             },
             "Modifier": {
-                "ModifierLifetime": 240
+                "Modifier": {
+                    "RowName": "Health_Regen"
+                },
+                "ModifierLifetime": 120
             }
         },
         {
@@ -1749,7 +1752,10 @@
                 "(Value=\"BaseHealthRecovery_+\")": 250
             },
             "Modifier": {
-                "ModifierLifetime": 480
+                "Modifier": {
+                    "RowName": "Health_Regen"
+                },
+                "ModifierLifetime": 240
             }
         },
         {
@@ -1758,7 +1764,10 @@
                 "(Value=\"BaseHealthRecovery_+\")": 500
             },
             "Modifier": {
-                "ModifierLifetime": 480
+                "Modifier": {
+                    "RowName": "Health_Enhancement_Tonic"
+                },
+                "ModifierLifetime": 240
             }
         },
         {
@@ -1791,13 +1800,13 @@
             "Name": "Strength_Enhancement_Tonic",
             "Stats": {
                 "(Value=\"BaseHealthRecovery_+\")": 100,
-                "(Value=\"BaseStaminaRecovery_+\")": 25
+                "(Value=\"BaseStaminaRecovery_+\")": 50
             },
             "Modifier": {
                 "Modifier": {
                     "RowName": "Strength_Enhancement_Tonic"
                 },
-                "ModifierLifetime": 480
+                "ModifierLifetime": 240
             }
         },
         {
