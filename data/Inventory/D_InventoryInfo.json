@@ -1789,7 +1789,7 @@
                 "Value": "General"
             },
             "SlotTemplate": {
-                "RowName": "Any_Seed"
+                "RowName": "Any_Seed_Or_Fertalizer"
             },
             "StartingSlots": 18
         }
