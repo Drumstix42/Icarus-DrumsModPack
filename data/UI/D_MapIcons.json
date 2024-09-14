@@ -122,7 +122,8 @@
             "RequiredPlayerStatToShow": {
                 "Value": "MapCanSeeDropship_?"
             },
-            "RequireOwnershipToShow": true
+            "RequireOwnershipToShow": true,
+            "MaxCompassDisplayDistance": 10000
         },
         {
             "Name": "Creature",
@@ -357,7 +358,7 @@
         },
         {
             "Name": "Mount",
-            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon_Mount.UMG_RadarIcon_Mount_C",
             "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_PlayerParty.Icon_PlayerParty'",
             "Color": {
                 "B": 255,
@@ -367,7 +368,8 @@
             },
             "ZOrder": -1,
             "ScaleFactor": 0.75,
-            "GetsRotation": true
+            "GetsRotation": true,
+            "MaxCompassDisplayDistance": 5000
         },
         {
             "Name": "Poison_Creature",
@@ -725,6 +727,53 @@
                 "Value": "MapCanSeeWorldBosses_?"
             },
             "bDisplayOnCompass": false
+        },
+        {
+            "Name": "Spawn_Blocker",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/HUD/TransparentTexture.TransparentTexture'",
+            "bDisplayOnCompass": false,
+            "CompassWidgetClass": "WidgetBlueprintGeneratedClass'/Game/UI/Compass/UMG_IcarusCompassIcon_SearchArea.UMG_IcarusCompassIcon_SearchArea_C'"
+        },
+        {
+            "Name": "Truck",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/T_ICON_MAP_truck.T_ICON_MAP_truck'",
+            "Color": {
+                "G": 255,
+                "R": 255,
+                "A": 255
+            }
+        },
+        {
+            "Name": "Prospector",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector'",
+            "Color": {
+                "G": 255,
+                "R": 255,
+                "A": 255
+            }
+        },
+        {
+            "Name": "Medevac",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_Health.Icon_Health'",
+            "Color": {
+                "B": 102,
+                "G": 255,
+                "A": 255
+            }
+        },
+        {
+            "Name": "NullSector",
+            "WidgetClass": "/Game/BP/Objects/World/Items/Deployables/Radar/UMG_RadarIcon.UMG_RadarIcon_C",
+            "MapIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Cave.Icon_Map_Cave'",
+            "Color": {
+                "G": 255,
+                "R": 255,
+                "A": 255
+            }
         }
     ]
 }

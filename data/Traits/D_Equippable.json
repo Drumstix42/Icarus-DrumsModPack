@@ -231,7 +231,8 @@
             "GrantedStats": {
                 "(Value=\"BaseShotgunAmmoCapacity_+%\")": 25,
                 "(Value=\"BaseShotgunReloadSpeed_+%\")": 25,
-                "(Value=\"BaseShotgunProjectileDamage_+%\")": 25
+                "(Value=\"BaseShotgunProjectileDamage_+%\")": 25,
+                "(Value=\"BaseBackpackSlots_+\")": 6
             },
             "bBindToAllInventoryUpdates": false
         },
@@ -424,9 +425,7 @@
             "Name": "Medic_Backpack",
             "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier.BP_EquippableModifier_C",
             "GrantedStats": {
-                "(Value=\"GrantedAuraHealingAfflictions_?\")": 1,
-                "(Value=\"GrantedAuraPhysicalDamageResistance_?\")": 1,
-                "(Value=\"GrantedAuraHealthRegen_?\")": 1,
+                "(Value=\"GrantedAuraMedicBackpack_?\")": 1,
                 "(Value=\"BaseBackpackSlots_+\")": 10,
                 "(Value=\"BaseStaminaActionCost_+%\")": -10,
                 "(Value=\"BaseMovementSpeed_+%\")": 5,
@@ -790,6 +789,59 @@
                 "(Value=\"BaseMovementSpeed_+%\")": 10
             },
             "bBindToAllInventoryUpdates": false
+        },
+        {
+            "Name": "Saddle_Basic_Arctic",
+            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
+            "GrantedStats": {
+                "(Value=\"BaseMountCargoSlots_+\")": 2,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 1,
+                "(Value=\"BaseColdResistance_%\")": 10
+            }
+        },
+        {
+            "Name": "Saddle_Basic_Desert",
+            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
+            "GrantedStats": {
+                "(Value=\"BaseMountCargoSlots_+\")": 2,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 1,
+                "(Value=\"BaseHeatResistance_%\")": 10
+            }
+        },
+        {
+            "Name": "Saddle_Racing",
+            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
+            "GrantedStats": {
+                "(Value=\"BaseMountCargoSlots_+\")": 2,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 1,
+                "(Value=\"BaseMovementSpeed_+%\")": 5
+            }
+        },
+        {
+            "Name": "Saddle_Armored",
+            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
+            "GrantedStats": {
+                "(Value=\"BaseMountCargoSlots_+\")": 2,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 1,
+                "(Value=\"BasePhysicalDamageResistance_%\")": 5
+            }
+        },
+        {
+            "Name": "Saddle_Deluxe_Leather",
+            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
+            "GrantedStats": {
+                "(Value=\"BaseMountCargoSlots_+\")": 3,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 1
+            }
+        },
+        {
+            "Name": "Saddle_Croc",
+            "EquippableModifier": "/Game/BP/Behaviours/Equippable/BP_EquippableModifier_Saddle.BP_EquippableModifier_Saddle_C",
+            "GrantedStats": {
+                "(Value=\"BaseMountCargoSlots_+\")": 2,
+                "(Value=\"BaseMountHeavyCargoSlots_+\")": 1,
+                "(Value=\"BasePoisonResistance_%\")": 10
+            }
         }
     ]
 }

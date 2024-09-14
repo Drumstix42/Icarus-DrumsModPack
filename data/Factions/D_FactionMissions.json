@@ -5299,12 +5299,6 @@
             "InitialQuest": {
                 "RowName": "PRO_D_Transport"
             },
-            "TalentsRewarded": [
-                {
-                    "RowName": "Prospect_Pro_D_Transport",
-                    "DataTableName": "D_Talents"
-                }
-            ],
             "CurrencyRewarded": [
                 {
                     "Meta": {
@@ -5466,6 +5460,177 @@
                     "RowName": "NewFrontiers"
                 }
             }
+        },
+        {
+            "Name": "PRO_D_Recovery",
+            "Icon": "/Game/Assets/2DArt/UI/ProspectSelect/Images/T_Prospect_Arctic_HeavyFog01_Small.T_Prospect_Arctic_HeavyFog01_Small",
+            "MissionObjectives": [
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Recovery_Search",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 0
+                },
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Recovery_Assist",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 0
+                }
+            ],
+            "Faction": {
+                "RowName": "The_Assembly"
+            },
+            "InitialQuest": {
+                "RowName": "PRO_D_Recovery"
+            },
+            "TalentsRewarded": [
+                {
+                    "RowName": "Prospect_Pro_D_Recovery",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "CurrencyRewarded": [
+                {
+                    "Meta": {
+                        "RowName": "Credits",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 500
+                },
+                {
+                    "Meta": {
+                        "RowName": "Exotic_Red",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 200
+                }
+            ],
+            "AccountExperience": 50,
+            "FactionExperience": 10
+        },
+        {
+            "Name": "PRO_D_Resupply",
+            "Icon": "/Game/Assets/2DArt/UI/ProspectSelect/Images/T_Prospect_Arctic_HeavyFog01_Small.T_Prospect_Arctic_HeavyFog01_Small",
+            "MissionObjectives": [
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Recovery_Aid",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 0
+                },
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Recovery_Aid_Refill",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 1
+                },
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Recovery_Aid_Repair",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 1
+                },
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Recovery_Aid_Resupply",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 1
+                }
+            ],
+            "Faction": {
+                "RowName": "The_Assembly"
+            },
+            "InitialQuest": {
+                "RowName": "PRO_D_Resupply"
+            },
+            "TalentsRewarded": [
+                {
+                    "RowName": "Prospect_Pro_D_Resupply",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "CurrencyRewarded": [
+                {
+                    "Meta": {
+                        "RowName": "Credits",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 500
+                },
+                {
+                    "Meta": {
+                        "RowName": "Exotic_Red",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 200
+                }
+            ],
+            "AccountExperience": 50,
+            "FactionExperience": 10
+        },
+        {
+            "Name": "PRO_D_Rescue",
+            "Icon": "/Game/Assets/2DArt/UI/ProspectSelect/Images/T_Prospect_Arctic_HeavyFog01_Small.T_Prospect_Arctic_HeavyFog01_Small",
+            "MissionObjectives": [
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Rescue_Speak",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 0
+                },
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Rescue_Locate_NPC1",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 0
+                },
+                {
+                    "QuestRow": {
+                        "RowName": "PRO_D_Rescue_Locate_NPC2",
+                        "DataTableName": "D_Quests"
+                    },
+                    "Depth": 0
+                }
+            ],
+            "Faction": {
+                "RowName": "The_Assembly"
+            },
+            "InitialQuest": {
+                "RowName": "PRO_D_Rescue"
+            },
+            "TalentsRewarded": [
+                {
+                    "RowName": "Prospect_Pro_D_Rescue",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "CurrencyRewarded": [
+                {
+                    "Meta": {
+                        "RowName": "Credits",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 500
+                },
+                {
+                    "Meta": {
+                        "RowName": "Exotic_Red",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 200
+                }
+            ],
+            "AccountExperience": 50,
+            "FactionExperience": 10
         }
     ]
 }

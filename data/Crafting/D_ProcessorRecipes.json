@@ -8755,6 +8755,43 @@
             }
         },
         {
+            "Name": "Biofuel_9",
+            "RecipeSets": [
+                {
+                    "RowName": "Composter",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Guano",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Tree_Sap",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [],
+            "ResourceOutputs": [
+                {
+                    "Type": "Fuel",
+                    "RequiredUnits": 500
+                }
+            ],
+            "Audio": {
+                "RowName": "Composter"
+            }
+        },
+        {
             "Name": "Concrete_Mix",
             "RequiredMillijoules": 10000,
             "RecipeSets": [
@@ -11138,7 +11175,7 @@
             "Inputs": [
                 {
                     "Element": {
-                        "RowName": "Ammo_Casing",
+                        "RowName": "Shotgun_Casing",
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 10,
@@ -22467,7 +22504,7 @@
             "Inputs": [
                 {
                     "Element": {
-                        "RowName": "Ammo_Casing",
+                        "RowName": "Shotgun_Casing",
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 100,
@@ -23522,6 +23559,20 @@
                     },
                     "Count": 1,
                     "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Salt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
                 }
             ],
             "Outputs": [
@@ -25755,6 +25806,47 @@
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Dirt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Basic_Fertilizer",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "WoodComposter"
+            }
+        },
+        {
+            "Name": "Basic_Fertilizer_2",
+            "RecipeSets": [
+                {
+                    "RowName": "Composter_Wood",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Guano",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
                     "DynamicProperties": []
                 },
                 {
@@ -38891,6 +38983,20 @@
                     },
                     "Count": 1,
                     "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Salt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
                 }
             ],
             "Outputs": [
@@ -42843,6 +42949,20 @@
                     },
                     "Count": 1,
                     "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Salt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
                 }
             ],
             "Outputs": [
@@ -46162,6 +46282,20 @@
                     },
                     "Count": 1,
                     "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Salt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
                 }
             ],
             "Outputs": [
@@ -46391,6 +46525,62 @@
                 {
                     "Element": {
                         "RowName": "Spoiled_Plants",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Volatile_Substance",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "HerbalismBench"
+            }
+        },
+        {
+            "Name": "Volatile_Substance_2",
+            "Requirement": {
+                "RowName": "Volatile_Substance"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Mortar_And_Pestle",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Chemistry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Herbalism_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Medicine_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Guano",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Oxite",
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 2,
@@ -51196,7 +51386,7 @@
         {
             "Name": "Shotgun_Shell_Armor_Piercing",
             "Requirement": {
-                "RowName": "Armor_Piercing_Ammo"
+                "RowName": "Shotgun_Shell_Slug"
             },
             "RequiredMillijoules": 1000,
             "RecipeSets": [
@@ -51217,7 +51407,15 @@
             "Inputs": [
                 {
                     "Element": {
-                        "RowName": "Ammo_Shell_Buckshot",
+                        "RowName": "Shotgun_Casing",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Gunpowder",
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 1,
@@ -65851,6 +66049,47 @@
             }
         },
         {
+            "Name": "Sugar",
+            "Requirement": {
+                "RowName": "Sugar"
+            },
+            "RequiredMillijoules": 20000,
+            "RecipeSets": [
+                {
+                    "RowName": "Mortar_And_Pestle",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Material_Processor",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Sugar_Cane",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MortarPestle"
+            }
+        },
+        {
             "Name": "Smoked_Bacon",
             "RequiredMillijoules": 25000,
             "RecipeSets": [
@@ -72101,6 +72340,20 @@
                     },
                     "Count": 1,
                     "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Salt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
                 }
             ],
             "Outputs": [
@@ -74932,43 +75185,6 @@
             }
         },
         {
-            "Name": "Dirt_Mound",
-            "Requirement": {
-                "RowName": "Dirt_Mound"
-            },
-            "RequiredMillijoules": 5000,
-            "RecipeSets": [
-                {
-                    "RowName": "Character",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Dirt",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5,
-                    "DynamicProperties": []
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Dirt_Mound_With_Tier",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "Default"
-            }
-        },
-        {
             "Name": "Health_Remedy",
             "Requirement": {
                 "RowName": "Health_Remedy"
@@ -76223,6 +76439,54 @@
                     },
                     "Count": 2,
                     "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Organic_Resin",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Charcoal",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Honey",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Reed_Flower",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Lily",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
                 }
             ],
             "Outputs": [
@@ -76798,6 +77062,324 @@
             ],
             "Audio": {
                 "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Thatch_Railing_Gate",
+            "Requirement": {
+                "RowName": "Thatch_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Character",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Fiber",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Stick",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Thatch_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Default"
+            }
+        },
+        {
+            "Name": "Interior_Wood_Railing_Gate",
+            "Requirement": {
+                "RowName": "Interior_Wood_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseWoodBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Nail",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Railing_Gate_Refined_V2",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CarpentryBench"
+            }
+        },
+        {
+            "Name": "Reinforced_Railing_Gate",
+            "Requirement": {
+                "RowName": "Stone_Trim"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Refined_Metal",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Iron_Nail",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Reinforced_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CarpentryBench"
+            }
+        },
+        {
+            "Name": "Iron_Railing_Gate",
+            "Requirement": {
+                "RowName": "Iron_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Bauxite",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Iron_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Concrete_Railing_Gate",
+            "Requirement": {
+                "RowName": "Concrete_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Cement_Mixer",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Bauxite",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Concrete_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Clay_Brick_Railing_Gate",
+            "Requirement": {
+                "RowName": "Clay_Brick_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Rebar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Clay_Brick_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
             }
         },
         {
@@ -78342,6 +78924,47 @@
             }
         },
         {
+            "Name": "Arctic_Bat_Trophy",
+            "RecipeSets": [
+                {
+                    "RowName": "Trophy_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 30,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Arctic_Bat_Head",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Arctic_Bat_Trophy",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
             "Name": "Icebox_Backpack",
             "Requirement": {
                 "RowName": "Icebox_Backpack"
@@ -78725,6 +79348,1853 @@
             ],
             "Audio": {
                 "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Glass_Wall_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Basic"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Wall_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Glass_Wall_Angled_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Basic"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 50
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Wall_Angle_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Glass_Ramp_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Basic"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Ramp_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Glass_Beam_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Basic"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 50
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Beam_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Glass_Floor_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Basic"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 100
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Floor_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Glass_Halfpiece_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Advanced"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 50
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Halfpiece_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Glass_Half_Pitch_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Advanced"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 50
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Half_Pitch_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Glass_Roof_Corner_Tempered",
+            "Requirement": {
+                "RowName": "Reinforced_Glass_Advanced"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Glassworking_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseGlassBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Glass",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 50
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Roof_Corner_Tempered",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Glassbench"
+            }
+        },
+        {
+            "Name": "Jerry_Can_Water",
+            "Requirement": {
+                "RowName": "Water_Can_T3"
+            },
+            "RequiredMillijoules": 7500,
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 50,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Jerry_Can_Water",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "AnvilBench"
+            }
+        },
+        {
+            "Name": "Portable_Tank_Water",
+            "Requirement": {
+                "RowName": "Water_Barrel_T4"
+            },
+            "RequiredMillijoules": 15000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Composites",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 30,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Portable_Tank_Water",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "AnvilBench"
+            }
+        },
+        {
+            "Name": "Iron_Railing_Gate_Ingot",
+            "Requirement": {
+                "RowName": "Iron_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Aluminium",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Iron_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Concrete_Railing_Ingot",
+            "Requirement": {
+                "RowName": "Concrete_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Cement_Mixer",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Aluminium",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Concrete_Railing",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Concrete_Railing_Gate_Ingot",
+            "Requirement": {
+                "RowName": "Concrete_Trim"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Cement_Mixer",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Aluminium",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Screw",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Concrete_Railing_Gate",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Medical_Device",
+            "SessionRequirement": {
+                "DataTableName": "D_SessionFlags",
+                "RowName": "Mission_Recipe_Medical_Scanner"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 25,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 25,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Mission_Medical_Device",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Mission_Alternator",
+            "SessionRequirement": {
+                "DataTableName": "D_SessionFlags",
+                "RowName": "Mission_Recipe_Truck_Supplies"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 50,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Platinum_Shealth",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Refined_Gold",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Mission_Alternator",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Mission_Radiator",
+            "SessionRequirement": {
+                "DataTableName": "D_SessionFlags",
+                "RowName": "Mission_Recipe_Truck_Supplies"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Rebar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Titanium_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 25,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Mission_Radiator",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Portable_Tank_Biofuel",
+            "Requirement": {
+                "RowName": "BioFuel_Barrel_T4"
+            },
+            "RequiredMillijoules": 15000,
+            "RecipeSets": [
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Composites",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 30,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Portable_Tank_Biofuel",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "AnvilBench"
+            }
+        },
+        {
+            "Name": "Shotgun_Casing",
+            "Requirement": {
+                "RowName": "Shotgun_Casing"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Refined_Copper",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Shotgun_Casing",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Stasis_Bag",
+            "SessionRequirement": {
+                "DataTableName": "D_SessionFlags",
+                "RowName": "Mission_Recipe_Stasis_Bag"
+            },
+            "RequiredMillijoules": 5000,
+            "RecipeSets": [
+                {
+                    "RowName": "Electric_Armor_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Platinum_Weave",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Electronics",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Stasis_Bag",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "Default"
+            }
+        },
+        {
+            "Name": "Choc_Chip_Cookie",
+            "RequiredMillijoules": 25000,
+            "RecipeSets": [
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Flour",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Egg",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Seed_Oil",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Cocoa",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 2000
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Choc_Chip_Cookie",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            }
+        },
+        {
+            "Name": "Coconut_Cookie",
+            "RequiredMillijoules": 25000,
+            "RecipeSets": [
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Flour",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Coconut_mid",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Seed_Oil",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 2000
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Coconut_Cookie",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            }
+        },
+        {
+            "Name": "Strawberry_Candy",
+            "RequiredMillijoules": 25000,
+            "RecipeSets": [
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Strawberry",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 2000
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Strawberry_Candy",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            }
+        },
+        {
+            "Name": "Watermelon_Lollypop",
+            "RequiredMillijoules": 25000,
+            "RecipeSets": [
+                {
+                    "RowName": "PotBellyStove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Watermelon",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": "Water",
+                    "RequiredUnits": 2000
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Watermelon_Lollypop",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            }
+        },
+        {
+            "Name": "Energy_Bar",
+            "RecipeSets": [
+                {
+                    "RowName": "Character",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Seed",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Cocoa",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Honey",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wheat",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Energy_Bar",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            }
+        },
+        {
+            "Name": "Caramel_Fruit_Tart",
+            "RequiredMillijoules": 25000,
+            "RecipeSets": [
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Pastry",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Kiwi_Fruit",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Berry",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Egg",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Caramel_Fruit_Tart",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            }
+        },
+        {
+            "Name": "Salted_Caramel_Pastry",
+            "RequiredMillijoules": 25000,
+            "RecipeSets": [
+                {
+                    "RowName": "Kitchen_Stove",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Electric_Stove",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Pastry",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Sugar",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Salt",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Salted_Caramel_Pastry",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            }
+        },
+        {
+            "Name": "Saddle_Basic_Arctic",
+            "Requirement": {
+                "RowName": "Saddle_Arctic"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "SaddleCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 25,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Saddle_Basic_Arctic",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
+            }
+        },
+        {
+            "Name": "Saddle_Basic_Desert",
+            "Requirement": {
+                "RowName": "Saddle_Desert"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "SaddleCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 25,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Saddle_Basic_Desert",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "ArmorBench"
+            }
+        },
+        {
+            "Name": "Plough_Steel",
+            "Requirement": {
+                "RowName": "Farming_Cart_Attachments"
+            },
+            "RequiredMillijoules": 40000,
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "SaddleCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Plough_Steel",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CarpentryBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Plough_Platinum",
+            "Requirement": {
+                "RowName": "Farming_Cart_Attachments"
+            },
+            "RequiredMillijoules": 40000,
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "SaddleCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Platinum_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Plough_Platinum",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CarpentryBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Plough_Titanium",
+            "Requirement": {
+                "RowName": "Farming_Cart_Attachments"
+            },
+            "RequiredMillijoules": 40000,
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "SaddleCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Titanium_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": []
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Plough_Titanium",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CarpentryBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
             }
         }
     ]

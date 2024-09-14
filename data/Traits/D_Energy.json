@@ -115,7 +115,7 @@
             "Name": "SolarPanel",
             "FlowType": "Produce",
             "AutoActivate": true,
-            "ResourceFlowRate": 5000
+            "ResourceFlowRate": 6000
         },
         {
             "Name": "Heater_Large_Receiver",
@@ -411,6 +411,14 @@
             "AutoActivate": true,
             "ResourceFlowRate": 500,
             "AutoShutoffFlowPercent": 99
+        },
+        {
+            "Name": "Aerosol_Emitter",
+            "AlwaysActive": true,
+            "AutoActivate": true,
+            "ResourceFlowRate": 1500,
+            "AutoShutoffFlowPercent": 99,
+            "bAllowAutoRestart": true
         }
     ]
 }

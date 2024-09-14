@@ -161,9 +161,6 @@
             "InventoryID": {
                 "Value": "General"
             },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
-            },
             "StartingSlots": 10
         },
         {
@@ -246,9 +243,6 @@
             "Name": "Campfire",
             "InventoryID": {
                 "Value": "Processor"
-            },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
             },
             "StartingSlots": 6
         },
@@ -372,18 +366,12 @@
             "InventoryID": {
                 "Value": "Processor"
             },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
-            },
             "StartingSlots": 16
         },
         {
             "Name": "Cleaner_T3",
             "InventoryID": {
                 "Value": "Processor"
-            },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
             },
             "StartingSlots": 18
         },
@@ -479,9 +467,6 @@
             "InventoryID": {
                 "Value": "Processor"
             },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
-            },
             "StartingSlots": 18
         },
         {
@@ -499,18 +484,12 @@
             "InventoryID": {
                 "Value": "Processor"
             },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
-            },
             "StartingSlots": 2
         },
         {
             "Name": "Processor_Slot_6",
             "InventoryID": {
                 "Value": "Processor"
-            },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
             },
             "StartingSlots": 6
         },
@@ -519,18 +498,12 @@
             "InventoryID": {
                 "Value": "Processor"
             },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
-            },
             "StartingSlots": 24
         },
         {
             "Name": "Kitchen_Stove",
             "InventoryID": {
                 "Value": "Processor"
-            },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
             },
             "StartingSlots": 24
         },
@@ -761,9 +734,6 @@
             "Name": "Drying_Rack",
             "InventoryID": {
                 "Value": "Processor"
-            },
-            "SlotTemplate": {
-                "RowName": "General_Inventory_Slot"
             },
             "StartingSlots": 12
         },
@@ -1817,6 +1787,23 @@
             },
             "SlotTemplate": {
                 "RowName": "Fuel_Hydrazine"
+            },
+            "StartingSlots": 1
+        },
+        {
+            "Name": "Mission_NPC",
+            "InventoryID": {
+                "Value": "General"
+            },
+            "StartingSlots": 5
+        },
+        {
+            "Name": "Plough_Attachment",
+            "InventoryID": {
+                "Value": "General"
+            },
+            "SlotTemplate": {
+                "RowName": "Any_Plough"
             },
             "StartingSlots": 1
         }

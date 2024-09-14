@@ -477,7 +477,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17650,
+                "X": 17900,
                 "Y": 300
             },
             "Size": {
@@ -745,7 +745,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 450,
+                "X": 850,
                 "Y": 100
             },
             "Size": {
@@ -769,7 +769,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 850,
+                "X": 450,
                 "Y": 100
             },
             "Size": {
@@ -1085,7 +1085,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 6850,
+                "X": 7600,
                 "Y": 300
             },
             "Size": {
@@ -1182,7 +1182,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12700,
+                "X": 12950,
                 "Y": 450
             },
             "Size": {
@@ -1206,7 +1206,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12200,
+                "X": 12600,
                 "Y": 1200
             },
             "Size": {
@@ -1231,7 +1231,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12350,
+                "X": 12750,
                 "Y": 850
             },
             "Size": {
@@ -1256,7 +1256,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12500,
+                "X": 12900,
                 "Y": 1200
             },
             "Size": {
@@ -1281,7 +1281,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12650,
+                "X": 13050,
                 "Y": 850
             },
             "Size": {
@@ -1306,7 +1306,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12800,
+                "X": 13200,
                 "Y": 1200
             },
             "Size": {
@@ -1331,7 +1331,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13200,
+                "X": 13600,
                 "Y": 1200
             },
             "Size": {
@@ -1356,7 +1356,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13350,
+                "X": 13750,
                 "Y": 850
             },
             "Size": {
@@ -1381,7 +1381,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13500,
+                "X": 13900,
                 "Y": 1200
             },
             "Size": {
@@ -1406,7 +1406,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13650,
+                "X": 14050,
                 "Y": 850
             },
             "Size": {
@@ -1431,7 +1431,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13800,
+                "X": 14200,
                 "Y": 1200
             },
             "Size": {
@@ -1456,7 +1456,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7450,
+                "X": 7200,
                 "Y": 100
             },
             "Size": {
@@ -1480,8 +1480,8 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7750,
-                "Y": 450
+                "X": 8050,
+                "Y": 100
             },
             "Size": {
                 "X": 184,
@@ -1505,7 +1505,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7750,
+                "X": 8350,
                 "Y": 100
             },
             "Size": {
@@ -1796,7 +1796,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13200,
+                "X": 13150,
                 "Y": 300
             },
             "Size": {
@@ -1822,7 +1822,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15800,
+                "X": 16050,
                 "Y": 100
             },
             "Size": {
@@ -1870,8 +1870,8 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7150,
-                "Y": 100
+                "X": 7000,
+                "Y": 450
             },
             "Size": {
                 "X": 184,
@@ -2014,7 +2014,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13100,
+                "X": 13350,
                 "Y": 450
             },
             "Size": {
@@ -2082,7 +2082,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15200,
+                "X": 15450,
                 "Y": 100
             },
             "Size": {
@@ -2131,7 +2131,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9550,
+                "X": 9700,
                 "Y": 1200
             },
             "Size": {
@@ -2155,7 +2155,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9550,
+                "X": 9700,
                 "Y": 850
             },
             "Size": {
@@ -2179,7 +2179,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8700,
+                "X": 8900,
                 "Y": 1200
             },
             "Size": {
@@ -2188,7 +2188,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Shotgun_Casing",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -2205,7 +2205,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8700,
+                "X": 8750,
                 "Y": 850
             },
             "Size": {
@@ -2214,7 +2214,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Shotgun_Casing",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -2382,7 +2382,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9000,
+                "X": 6950,
                 "Y": 850
             },
             "Size": {
@@ -2556,7 +2556,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16350,
+                "X": 16600,
                 "Y": 100
             },
             "Size": {
@@ -2605,7 +2605,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14200,
+                "X": 14600,
                 "Y": 1200
             },
             "Size": {
@@ -2636,7 +2636,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14350,
+                "X": 14750,
                 "Y": 850
             },
             "Size": {
@@ -2667,7 +2667,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14500,
+                "X": 14900,
                 "Y": 1200
             },
             "Size": {
@@ -2698,7 +2698,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14650,
+                "X": 15050,
                 "Y": 850
             },
             "Size": {
@@ -2729,7 +2729,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14800,
+                "X": 15200,
                 "Y": 1200
             },
             "Size": {
@@ -2808,7 +2808,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13850,
+                "X": 13650,
                 "Y": 450
             },
             "Size": {
@@ -2881,7 +2881,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13450,
+                "X": 13700,
                 "Y": 450
             },
             "Size": {
@@ -2956,7 +2956,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11600,
+                "X": 11850,
                 "Y": 450
             },
             "Size": {
@@ -3098,7 +3098,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12900,
+                "X": 13150,
                 "Y": 300
             },
             "Size": {
@@ -3151,7 +3151,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14500,
+                "X": 14900,
                 "Y": 1050
             },
             "Size": {
@@ -3249,7 +3249,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11900,
+                "X": 12300,
                 "Y": 1050
             },
             "Size": {
@@ -3293,7 +3293,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12500,
+                "X": 12900,
                 "Y": 1050
             },
             "Size": {
@@ -3316,7 +3316,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13500,
+                "X": 13900,
                 "Y": 1050
             },
             "Size": {
@@ -3342,7 +3342,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17650,
+                "X": 18050,
                 "Y": 1050
             },
             "Size": {
@@ -6546,7 +6546,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12850,
+                "X": 12800,
                 "Y": 300
             },
             "Size": {
@@ -6570,7 +6570,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12500,
+                "X": 12450,
                 "Y": 300
             },
             "Size": {
@@ -6594,7 +6594,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16650,
+                "X": 16900,
                 "Y": 450
             },
             "Size": {
@@ -6618,7 +6618,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16350,
+                "X": 16600,
                 "Y": 450
             },
             "Size": {
@@ -6642,7 +6642,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16050,
+                "X": 16300,
                 "Y": 450
             },
             "Size": {
@@ -12045,7 +12045,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7400,
+                "X": 7450,
                 "Y": 400
             },
             "Size": {
@@ -12093,7 +12093,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7450,
+                "X": 7900,
                 "Y": 450
             },
             "Size": {
@@ -12197,8 +12197,8 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8050,
-                "Y": 100
+                "X": 8200,
+                "Y": 450
             },
             "Size": {
                 "X": 184,
@@ -12538,7 +12538,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15500,
+                "X": 15750,
                 "Y": 100
             },
             "Size": {
@@ -12666,7 +12666,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7750,
+                "X": 7900,
                 "Y": 400
             },
             "Size": {
@@ -12735,8 +12735,8 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 7150,
-                "Y": 450
+                "X": 6900,
+                "Y": 100
             },
             "Size": {
                 "X": 184,
@@ -12759,7 +12759,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14200,
+                "X": 14000,
                 "Y": 300
             },
             "Size": {
@@ -12879,7 +12879,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 13850,
+                "X": 13650,
                 "Y": 100
             },
             "Size": {
@@ -12927,7 +12927,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13450,
+                "X": 13700,
                 "Y": 100
             },
             "Size": {
@@ -13279,8 +13279,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7800,
-                "Y": 850
+                "X": 7550,
+                "Y": 1200
             },
             "Size": {
                 "X": 184,
@@ -13288,7 +13288,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Ammo_ReRoute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -13821,7 +13821,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13100,
+                "X": 13350,
                 "Y": 100
             },
             "Size": {
@@ -13845,7 +13845,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 9000,
+                "X": 6950,
                 "Y": 1200
             },
             "Size": {
@@ -13946,7 +13946,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12700,
+                "X": 12950,
                 "Y": 100
             },
             "Size": {
@@ -17195,7 +17195,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8400,
+                "X": 6650,
                 "Y": 850
             },
             "Size": {
@@ -18381,31 +18381,6 @@
             "DrawMethodOverride": "XThenY"
         },
         {
-            "Name": "Workshop_Module_PlayerTracker",
-            "ExtraData": {
-                "RowName": "Meta_Module_Tracker",
-                "DataTableName": "D_WorkshopItems"
-            },
-            "TalentTree": {
-                "RowName": "Workshop_Modules"
-            },
-            "Position": {
-                "X": 3400,
-                "Y": 1100
-            },
-            "Size": {
-                "X": 250,
-                "Y": 250
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Workshop_Module_New_2",
-                    "DataTableName": "D_Talents"
-                }
-            ],
-            "DrawMethodOverride": "YThenX"
-        },
-        {
             "Name": "Workshop_Module_Fall_Damage",
             "ExtraData": {
                 "RowName": "Meta_Module_Fall_Damage",
@@ -18583,7 +18558,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11600,
+                "X": 12000,
                 "Y": 1200
             },
             "Size": {
@@ -21160,7 +21135,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 10000,
+                "X": 10150,
                 "Y": 850
             },
             "Size": {
@@ -21184,7 +21159,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 1000,
+                "X": 850,
                 "Y": 100
             },
             "Size": {
@@ -22154,7 +22129,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14200,
+                "X": 14450,
                 "Y": 450
             },
             "Size": {
@@ -23908,7 +23883,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8100,
+                "X": 8300,
                 "Y": 400
             },
             "Size": {
@@ -23966,7 +23941,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9050,
+                "X": 9400,
                 "Y": 1200
             },
             "Size": {
@@ -23990,7 +23965,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10050,
+                "X": 10450,
                 "Y": 850
             },
             "Size": {
@@ -24014,7 +23989,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8450,
+                "X": 8950,
                 "Y": 850
             },
             "Size": {
@@ -24038,7 +24013,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10050,
+                "X": 10450,
                 "Y": 1200
             },
             "Size": {
@@ -24086,7 +24061,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9350,
+                "X": 9550,
                 "Y": 850
             },
             "Size": {
@@ -24596,7 +24571,7 @@
         {
             "Name": "Husbandry_TameColdTolerance",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Husbandry_TameColdTolerance-DisplayName\", \"Arctic Training\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Husbandry_TameColdTolerance-Description\", \"Allows taming in colder environments\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Husbandry_TameColdTolerance-Description\", \"Juivenile and tamed creatures better tolerate colder environments\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Exploration/Talent_Exploration_ArcticMaster.Talent_Exploration_ArcticMaster",
             "TalentTree": {
                 "RowName": "Construction_Husbandry"
@@ -24636,7 +24611,7 @@
         {
             "Name": "Husbandry_TameHeatTolerance",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Husbandry_TameHeatTolerance-DisplayName\", \"Desert Training\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Husbandry_TameHeatTolerance-Description\", \"Allows taming in hotter environments\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Husbandry_TameHeatTolerance-Description\", \"Juivenile and tamed creatures better tolerate warmer environments\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Exploration/Talent_Exploration_DesertMaster.Talent_Exploration_DesertMaster",
             "TalentTree": {
                 "RowName": "Construction_Husbandry"
@@ -24914,7 +24889,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11900,
+                "X": 12150,
                 "Y": 100
             },
             "Size": {
@@ -24938,7 +24913,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11900,
+                "X": 12150,
                 "Y": 450
             },
             "Size": {
@@ -24962,7 +24937,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11600,
+                "X": 11850,
                 "Y": 100
             },
             "Size": {
@@ -24986,7 +24961,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 12200,
+                "X": 12450,
                 "Y": 100
             },
             "Size": {
@@ -25132,7 +25107,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 1700,
+                "X": 1750,
                 "Y": 100
             },
             "Size": {
@@ -25186,7 +25161,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9050,
+                "X": 8650,
                 "Y": 850
             },
             "Size": {
@@ -25195,7 +25170,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Saddle_Standard",
+                    "RowName": "Saddle_Standard_Bag",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -25300,7 +25275,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9400,
+                "X": 9650,
                 "Y": 300
             },
             "Size": {
@@ -25329,7 +25304,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9700,
+                "X": 9950,
                 "Y": 450
             },
             "Size": {
@@ -25358,7 +25333,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9100,
+                "X": 9350,
                 "Y": 100
             },
             "Size": {
@@ -25386,7 +25361,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9700,
+                "X": 9950,
                 "Y": 100
             },
             "Size": {
@@ -25416,7 +25391,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10000,
+                "X": 10250,
                 "Y": 450
             },
             "Size": {
@@ -25446,7 +25421,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17100,
+                "X": 17350,
                 "Y": 450
             },
             "Size": {
@@ -25609,7 +25584,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10000,
+                "X": 10250,
                 "Y": 100
             },
             "Size": {
@@ -25640,7 +25615,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8800,
+                "X": 9050,
                 "Y": 100
             },
             "Size": {
@@ -25748,7 +25723,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17300,
+                "X": 17700,
                 "Y": 850
             },
             "Size": {
@@ -25770,7 +25745,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15500,
+                "X": 15750,
                 "Y": 450
             },
             "Size": {
@@ -25795,7 +25770,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17300,
+                "X": 17700,
                 "Y": 1200
             },
             "Size": {
@@ -25862,7 +25837,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7800,
+                "X": 8150,
                 "Y": 1200
             },
             "Size": {
@@ -25871,7 +25846,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Ammo_ReRoute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -25888,7 +25863,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8100,
+                "X": 7250,
                 "Y": 1050
             },
             "Size": {
@@ -25914,7 +25889,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7500,
+                "X": 7850,
                 "Y": 1200
             },
             "Size": {
@@ -25923,7 +25898,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Ammo_ReRoute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -25940,7 +25915,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8050,
+                "X": 8500,
                 "Y": 450
             },
             "Size": {
@@ -26160,7 +26135,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11300,
+                "X": 11700,
                 "Y": 850
             },
             "Size": {
@@ -27229,7 +27204,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9100,
+                "X": 9350,
                 "Y": 450
             },
             "Size": {
@@ -27259,7 +27234,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17250,
+                "X": 17500,
                 "Y": 100
             },
             "Size": {
@@ -27849,8 +27824,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7200,
-                "Y": 1200
+                "X": 8150,
+                "Y": 850
             },
             "Size": {
                 "X": 184,
@@ -27858,7 +27833,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Ammo_ReRoute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -27882,7 +27857,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7200,
+                "X": 7550,
                 "Y": 850
             },
             "Size": {
@@ -27891,7 +27866,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Ammo_ReRoute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -27915,7 +27890,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 7500,
+                "X": 7850,
                 "Y": 850
             },
             "Size": {
@@ -27924,7 +27899,7 @@
             },
             "RequiredTalents": [
                 {
-                    "RowName": "Ammo_Casing",
+                    "RowName": "Ammo_ReRoute",
                     "DataTableName": "D_Talents"
                 }
             ],
@@ -28613,7 +28588,7 @@
                 "RowName": "Blueprint_T4_Fabricator"
             },
             "Position": {
-                "X": 1350,
+                "X": 1300,
                 "Y": 550
             },
             "Size": {
@@ -28709,7 +28684,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15150,
+                "X": 15550,
                 "Y": 1200
             },
             "Size": {
@@ -28740,7 +28715,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15300,
+                "X": 15700,
                 "Y": 850
             },
             "Size": {
@@ -28771,7 +28746,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15600,
+                "X": 16000,
                 "Y": 850
             },
             "Size": {
@@ -28802,7 +28777,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15450,
+                "X": 15850,
                 "Y": 1200
             },
             "Size": {
@@ -28833,7 +28808,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15750,
+                "X": 16150,
                 "Y": 1200
             },
             "Size": {
@@ -28861,7 +28836,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 15450,
+                "X": 15850,
                 "Y": 1050
             },
             "Size": {
@@ -30639,7 +30614,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11600,
+                "X": 12000,
                 "Y": 850
             },
             "Size": {
@@ -31210,7 +31185,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18250,
+                "X": 18500,
                 "Y": 450
             },
             "Size": {
@@ -31235,7 +31210,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18550,
+                "X": 18800,
                 "Y": 450
             },
             "Size": {
@@ -31260,7 +31235,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17950,
+                "X": 18200,
                 "Y": 450
             },
             "Size": {
@@ -31285,7 +31260,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18250,
+                "X": 18650,
                 "Y": 850
             },
             "Size": {
@@ -31310,7 +31285,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18550,
+                "X": 18950,
                 "Y": 850
             },
             "Size": {
@@ -31335,7 +31310,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 17950,
+                "X": 18200,
                 "Y": 100
             },
             "Size": {
@@ -31362,7 +31337,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18250,
+                "X": 18650,
                 "Y": 1200
             },
             "Size": {
@@ -31392,7 +31367,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18550,
+                "X": 18950,
                 "Y": 1200
             },
             "Size": {
@@ -31422,8 +31397,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14850,
-                "Y": 450
+                "X": 14350,
+                "Y": 300
             },
             "Size": {
                 "X": 184,
@@ -31447,8 +31422,8 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 15150,
-                "Y": 450
+                "X": 14700,
+                "Y": 100
             },
             "Size": {
                 "X": 184,
@@ -31459,7 +31434,8 @@
                     "RowName": "Glass_Basic",
                     "DataTableName": "D_Talents"
                 }
-            ]
+            ],
+            "DrawMethodOverride": "XThenY"
         },
         {
             "Name": "Glass_Trim",
@@ -31472,7 +31448,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 14550,
+                "X": 14700,
                 "Y": 450
             },
             "Size": {
@@ -31484,7 +31460,8 @@
                     "RowName": "Glass_Basic",
                     "DataTableName": "D_Talents"
                 }
-            ]
+            ],
+            "DrawMethodOverride": "XThenY"
         },
         {
             "Name": "Concrete_Basic",
@@ -31868,7 +31845,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18250,
+                "X": 18500,
                 "Y": 300
             },
             "Size": {
@@ -32245,7 +32222,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16250,
+                "X": 16650,
                 "Y": 850
             },
             "Size": {
@@ -32270,7 +32247,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16550,
+                "X": 16950,
                 "Y": 850
             },
             "Size": {
@@ -32295,7 +32272,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16700,
+                "X": 17100,
                 "Y": 1200
             },
             "Size": {
@@ -32320,7 +32297,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16100,
+                "X": 16500,
                 "Y": 1200
             },
             "Size": {
@@ -32345,7 +32322,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16400,
+                "X": 16800,
                 "Y": 1200
             },
             "Size": {
@@ -32367,7 +32344,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 16400,
+                "X": 16800,
                 "Y": 1050
             },
             "Size": {
@@ -32443,7 +32420,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 12100,
+                "X": 11950,
                 "Y": 300
             },
             "Size": {
@@ -32502,7 +32479,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14500,
+                "X": 14750,
                 "Y": 100
             },
             "Size": {
@@ -32588,7 +32565,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14200,
+                "X": 14450,
                 "Y": 100
             },
             "Size": {
@@ -32719,7 +32696,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 13900,
+                "X": 14150,
                 "Y": 100
             },
             "Size": {
@@ -32911,7 +32888,7 @@
         {
             "Name": "Creature_Tusker_ArcticMovementspeed",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_Tusker_ArcticMovementspeed-DisplayName\", \"Frosted Feet\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Tusker_ArcticMovementspeed-Description\", \"Increased Arctic Movement Speed\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Tusker_ArcticMovementspeed-Description\", \"Increased Arctic Movement Speed and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Tusker_ArctivMovementSpeed.T_Talent_Tusker_ArctivMovementSpeed",
             "TalentTree": {
                 "RowName": "Creature_Tusker"
@@ -32927,19 +32904,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseArcticMovementSpeed_+%\")": 3
+                        "(Value=\"BaseArcticMovementSpeed_+%\")": 3,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseArcticMovementSpeed_+%\")": 7
+                        "(Value=\"BaseArcticMovementSpeed_+%\")": 7,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseArcticMovementSpeed_+%\")": 15
+                        "(Value=\"BaseArcticMovementSpeed_+%\")": 15,
+                        "(Value=\"BaseColdResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -33059,19 +33039,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+%\")": 2
+                        "(Value=\"BaseMaximumStamina_+%\")": 2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+%\")": 5
+                        "(Value=\"BaseMaximumStamina_+%\")": 5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+%\")": 10
+                        "(Value=\"BaseMaximumStamina_+%\")": 10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 }
@@ -33087,7 +33070,7 @@
         {
             "Name": "Creature_Horse_FoodBuffDuration",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_Horse_FoodBuffDuration-DisplayName\", \"Enduring Digestion\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Horse_FoodBuffDuration-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Horse_FoodBuffDuration-Description\", \"Increased Food Effects Duration, and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Horse_FoodBuffDuration.T_Talent_Horse_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Terrenus"
@@ -33103,19 +33086,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 }
@@ -33580,6 +33566,24 @@
             "DrawMethodOverride": "XThenY"
         },
         {
+            "Name": "Workshop_Seed_SugarCane",
+            "ExtraData": {
+                "RowName": "Meta_SugarCane_Seed",
+                "DataTableName": "D_WorkshopItems"
+            },
+            "TalentTree": {
+                "RowName": "Workshop_Farming"
+            },
+            "Position": {
+                "X": 4050,
+                "Y": 800
+            },
+            "Size": {
+                "X": 250,
+                "Y": 250
+            }
+        },
+        {
             "Name": "Prospect_OLY_Desert_Recovery_2",
             "ExtraData": {
                 "RowName": "Tier4_Desert_Recovery_2",
@@ -33647,7 +33651,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10450,
+                "X": 10700,
                 "Y": 450
             },
             "Size": {
@@ -33671,7 +33675,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10800,
+                "X": 11050,
                 "Y": 450
             },
             "Size": {
@@ -33696,7 +33700,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10800,
+                "X": 11050,
                 "Y": 100
             },
             "Size": {
@@ -33721,7 +33725,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11150,
+                "X": 11400,
                 "Y": 100
             },
             "Size": {
@@ -33746,7 +33750,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11150,
+                "X": 11400,
                 "Y": 450
             },
             "Size": {
@@ -33773,7 +33777,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8350,
+                "X": 7300,
                 "Y": 450
             },
             "Size": {
@@ -33846,7 +33850,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18250,
+                "X": 18500,
                 "Y": 100
             },
             "Size": {
@@ -33873,7 +33877,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 18550,
+                "X": 18800,
                 "Y": 100
             },
             "Size": {
@@ -33900,8 +33904,8 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8150,
-                "Y": 850
+                "X": 8200,
+                "Y": 1200
             },
             "Size": {
                 "X": 184,
@@ -33933,7 +33937,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 14200,
+                "X": 14450,
                 "Y": 300
             },
             "Size": {
@@ -34515,7 +34519,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -34814,7 +34819,7 @@
         {
             "Name": "Creature_Buffalo_FireResist",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_Buffalo_FireResist-DisplayName\", \"Flaming Defiance\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Buffalo_FireResist-Description\", \"Increased Fire Resistance\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Buffalo_FireResist-Description\", \"Increased Fire and Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Buffalo_FireResist.T_Talent_Buffalo_FireResist",
             "TalentTree": {
                 "RowName": "Creature_Buffalo"
@@ -34830,19 +34835,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFireDamageResistance_+%\")": 10
+                        "(Value=\"BaseFireDamageResistance_+%\")": 10,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFireDamageResistance_+%\")": 20
+                        "(Value=\"BaseFireDamageResistance_+%\")": 20,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFireDamageResistance_+%\")": 40
+                        "(Value=\"BaseFireDamageResistance_+%\")": 40,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -35604,7 +35612,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -35994,7 +36003,7 @@
         {
             "Name": "Creature_Moa_DesertMovement",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_Moa_DesertMovement-DisplayName\", \"Plainswalker\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Moa_DesertMovement-Description\", \"Increased Movement Speed in Deserts\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Moa_DesertMovement-Description\", \"Increased Movement Speed in Deserts, and Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Moa_DesertMovementSpeed.T_Talent_Moa_DesertMovementSpeed",
             "TalentTree": {
                 "RowName": "Creature_Moa"
@@ -36010,19 +36019,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseDesertMovementSpeed_+%\")": 3
+                        "(Value=\"BaseDesertMovementSpeed_+%\")": 3,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseDesertMovementSpeed_+%\")": 8
+                        "(Value=\"BaseDesertMovementSpeed_+%\")": 8,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseDesertMovementSpeed_+%\")": 15
+                        "(Value=\"BaseDesertMovementSpeed_+%\")": 15,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -36748,7 +36760,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -37571,7 +37584,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -38065,7 +38079,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Mount_Base"
@@ -38081,25 +38095,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -38119,7 +38137,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Mount_Base"
@@ -38135,25 +38153,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -38506,7 +38529,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_Wolf",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Wolf-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Wolf-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Wolf-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Wolf"
@@ -38522,25 +38545,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -38560,7 +38587,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_Wolf",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Wolf-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Wolf-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Wolf-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Wolf"
@@ -38576,25 +38603,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -39281,7 +39313,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -40104,7 +40137,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -40977,7 +41011,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10350,
+                "X": 10750,
                 "Y": 1200
             },
             "Size": {
@@ -41007,7 +41041,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10350,
+                "X": 10750,
                 "Y": 850
             },
             "Size": {
@@ -41037,7 +41071,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10650,
+                "X": 11050,
                 "Y": 1200
             },
             "Size": {
@@ -41067,7 +41101,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 10650,
+                "X": 11050,
                 "Y": 850
             },
             "Size": {
@@ -41293,7 +41327,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8150,
+                "X": 8500,
                 "Y": 1200
             },
             "Size": {
@@ -41973,7 +42007,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -42847,7 +42882,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9700,
+                "X": 10100,
                 "Y": 1050
             },
             "Size": {
@@ -42876,7 +42911,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8450,
+                "X": 8800,
                 "Y": 1200
             },
             "Size": {
@@ -42903,7 +42938,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8750,
+                "X": 9100,
                 "Y": 1200
             },
             "Size": {
@@ -42925,7 +42960,7 @@
         {
             "Name": "Creature_Horse_StaminaStandard",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_Horse_StaminaStandard-DisplayName\", \"Equine Endurance\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Horse_StaminaStandard-Description\", \"Increased Maximum Stamina\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Horse_StaminaStandard-Description\", \"Increased Maximum Stamina and Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Horse_Stamina.T_Talent_Horse_Stamina",
             "TalentTree": {
                 "RowName": "Creature_Horse"
@@ -42941,19 +42976,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+%\")": 2
+                        "(Value=\"BaseMaximumStamina_+%\")": 2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+%\")": 5
+                        "(Value=\"BaseMaximumStamina_+%\")": 5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseMaximumStamina_+%\")": 10
+                        "(Value=\"BaseMaximumStamina_+%\")": 10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 }
@@ -42985,19 +43023,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 }
@@ -43810,7 +43851,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -44633,7 +44675,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -45153,7 +45196,7 @@
         {
             "Name": "Creature_SnowWolf_Freeze",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_SnowWolf_Freeze-DisplayName\", \"Arctic Mutation\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_SnowWolf_Freeze-Description\", \"Chance to apply Freeze on hit\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_SnowWolf_Freeze-Description\", \"Chance to apply Freeze on hit, and gains Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Tusker_ArctivMovementSpeed.T_Talent_Tusker_ArctivMovementSpeed",
             "TalentTree": {
                 "RowName": "Creature_Snow_Wolf"
@@ -45169,19 +45212,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseAttacksCauseFreeze_%\")": 5
+                        "(Value=\"BaseAttacksCauseFreeze_%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseAttacksCauseFreeze_%\")": 15
+                        "(Value=\"BaseAttacksCauseFreeze_%\")": 15,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseAttacksCauseFreeze_%\")": 25
+                        "(Value=\"BaseAttacksCauseFreeze_%\")": 25,
+                        "(Value=\"BaseColdResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -45614,7 +45660,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_SnowWolf",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_SnowWolf-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_SnowWolf-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_SnowWolf-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Snow_Wolf"
@@ -45630,25 +45676,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -45668,7 +45718,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_SnowWolf",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_SnowWolf-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_SnowWolf-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_SnowWolf-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Snow_Wolf"
@@ -45684,25 +45734,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -46277,7 +46332,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_Dog",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Dog-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Dog-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Dog-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Dog"
@@ -46293,25 +46348,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -46331,7 +46390,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_Dog",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Dog-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Dog-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Dog-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Dog"
@@ -46347,25 +46406,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -46905,7 +46969,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_Cat",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Cat-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Cat-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Cat-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Cat"
@@ -46921,25 +46985,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -46959,7 +47027,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_Cat",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Cat-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Cat-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Cat-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Cat"
@@ -46975,25 +47043,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -47617,7 +47690,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_Boar",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Boar-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Boar-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Boar-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Boar"
@@ -47633,25 +47706,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -47671,7 +47748,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_Boar",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Boar-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Boar-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Boar-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Boar"
@@ -47687,25 +47764,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -48152,7 +48234,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_DesertWolf",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_DesertWolf-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_DesertWolf-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_DesertWolf-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Desert_Wolf"
@@ -48168,25 +48250,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -48206,7 +48292,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_DesertWolf",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_DesertWolf-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_DesertWolf-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_DesertWolf-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Desert_Wolf"
@@ -48222,25 +48308,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -48820,7 +48911,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_Chicken",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Chicken-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Chicken-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Chicken-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Chicken"
@@ -48836,25 +48927,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -48874,7 +48969,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_Chicken",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Chicken-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Chicken-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Chicken-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Chicken"
@@ -48890,25 +48985,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -49487,7 +49587,7 @@
         {
             "Name": "CombatPet_ReducedWaterUsage_Sheep",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Sheep-DisplayName\", \"Hydration Elasticity \")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Sheep-Description\", \"Reduced Water Consumption\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_ReducedWaterUsage_Sheep-Description\", \"Reduced Water Consumption and Increased Heat Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
             "TalentTree": {
                 "RowName": "Creature_Sheep"
@@ -49503,25 +49603,29 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -2
+                        "(Value=\"BaseWaterConsumption_+%\")": -2,
+                        "(Value=\"BaseHeatResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -5
+                        "(Value=\"BaseWaterConsumption_+%\")": -5,
+                        "(Value=\"BaseHeatResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -10
+                        "(Value=\"BaseWaterConsumption_+%\")": -10,
+                        "(Value=\"BaseHeatResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseWaterConsumption_+%\")": -20
+                        "(Value=\"BaseWaterConsumption_+%\")": -20,
+                        "(Value=\"BaseHeatResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -49541,7 +49645,7 @@
         {
             "Name": "CombatPet_FoodBuffDuration_Sheep",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Sheep-DisplayName\", \"Perfect Pasturage\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Sheep-Description\", \"Increased Food Effects Duration\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_FoodBuffDuration_Sheep-Description\", \"Increased Food Effects Duration and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
             "TalentTree": {
                 "RowName": "Creature_Sheep"
@@ -49557,25 +49661,30 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 2,
+                        "(Value=\"BaseColdResistance_%\")": 1
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 5,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 10,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"BaseColdResistance_%\")": 10,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -49785,7 +49894,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9700,
+                "X": 9900,
                 "Y": 1050
             },
             "Size": {
@@ -49838,7 +49947,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 8750,
+                "X": 8350,
                 "Y": 850
             },
             "Size": {
@@ -49871,7 +49980,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 9350,
+                "X": 9700,
                 "Y": 1200
             },
             "Size": {
@@ -50301,36 +50410,6 @@
                 {
                     "RowName": "Medicine_Bench",
                     "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Dirt_Mound",
-            "ExtraData": {
-                "RowName": "Item_Dirt_Mound",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_T1_Player"
-            },
-            "Position": {
-                "X": 7050,
-                "Y": 100
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "T1_Dirt_Reroute",
-                    "DataTableName": "D_Talents"
-                }
-            ],
-            "ForbiddenFlags": [
-                {
-                    "DataTableName": "D_SessionFlags",
-                    "RowName": "Tutorial_Locked"
                 }
             ]
         },
@@ -50950,7 +51029,8 @@
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+                        "(Value=\"BaseFoodModifierDuration_+%\")": 20,
+                        "(Value=\"IsMountGrazingEnabled_?\")": 1
                     },
                     "GrantedFlags": []
                 }
@@ -51296,7 +51376,7 @@
         {
             "Name": "Creature_ArcticMoa_ArcticMovement",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_ArcticMoa_ArcticMovement-DisplayName\", \"Snow Walker\")",
-            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_ArcticMoa_ArcticMovement-Description\", \"Increased Movement Speed in Arctic\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_ArcticMoa_ArcticMovement-Description\", \"Increased Movement Speed in Arctic, and Cold Resistance\")",
             "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Moa_DesertMovementSpeed.T_Talent_Moa_DesertMovementSpeed",
             "TalentTree": {
                 "RowName": "Creature_ArcticMoa"
@@ -51312,19 +51392,22 @@
             "Rewards": [
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseArcticMovementSpeed_+%\")": 3
+                        "(Value=\"BaseArcticMovementSpeed_+%\")": 3,
+                        "(Value=\"BaseColdResistance_%\")": 2
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseArcticMovementSpeed_+%\")": 8
+                        "(Value=\"BaseArcticMovementSpeed_+%\")": 8,
+                        "(Value=\"BaseColdResistance_%\")": 5
                     },
                     "GrantedFlags": []
                 },
                 {
                     "GrantedStats": {
-                        "(Value=\"BaseArcticMovementSpeed_+%\")": 15
+                        "(Value=\"BaseArcticMovementSpeed_+%\")": 15,
+                        "(Value=\"BaseColdResistance_%\")": 10
                     },
                     "GrantedFlags": []
                 }
@@ -51704,7 +51787,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11300,
+                "X": 11700,
                 "Y": 1200
             },
             "Size": {
@@ -52053,7 +52136,7 @@
                 "RowName": "Blueprint_T2_Crafting"
             },
             "Position": {
-                "X": 11000,
+                "X": 11400,
                 "Y": 1200
             },
             "Size": {
@@ -53281,7 +53364,7 @@
                 "RowName": "Blueprint_T3_Machine"
             },
             "Position": {
-                "X": 8400,
+                "X": 6650,
                 "Y": 1200
             },
             "Size": {
@@ -53570,8 +53653,8 @@
                 "RowName": "Blueprint_Bosses"
             },
             "Position": {
-                "X": 9700,
-                "Y": 150
+                "X": 8950,
+                "Y": 500
             },
             "Size": {
                 "X": 184,
@@ -53594,7 +53677,7 @@
                 "RowName": "Blueprint_Bosses"
             },
             "Position": {
-                "X": 10000,
+                "X": 10300,
                 "Y": 150
             },
             "Size": {
@@ -53707,6 +53790,7 @@
         {
             "Name": "Ice_Mammoth_Armor",
             "DisplayName": "INVTEXT(\"[DNT] Ice Mammoth Armor\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_IceMammoth_Armor_Chest.T_ITEM_IceMammoth_Armor_Chest",
             "ExtraData": {
                 "DataTableName": "D_Itemable"
             },
@@ -53906,7 +53990,7 @@
                 "RowName": "Blueprint_Bosses"
             },
             "Position": {
-                "X": 12250,
+                "X": 12500,
                 "Y": 150
             },
             "Size": {
@@ -54001,7 +54085,7 @@
                 "RowName": "Blueprint_Bosses"
             },
             "Position": {
-                "X": 12550,
+                "X": 12800,
                 "Y": 150
             },
             "Size": {
@@ -54138,7 +54222,7 @@
         {
             "Name": "Hornet_Knife",
             "ExtraData": {
-                "RowName": "Item_Hornet_Knife",
+                "RowName": "Item_Hornet_Throwing_Knife",
                 "DataTableName": "D_Itemable"
             },
             "TalentTree": {
@@ -54896,6 +54980,379 @@
                     "DataTableName": "D_Talents"
                 }
             ]
+        },
+        {
+            "Name": "Water_Can_T3",
+            "ExtraData": {
+                "RowName": "Item_Jerry_Can_Water",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 7000,
+                "Y": 450
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "SplineTool_Water",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Water_Barrel_T4",
+            "ExtraData": {
+                "RowName": "Item_Portable_Tank_Water",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 1150,
+                "Y": 100
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "T4_Tool_Utility_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Reinforced_Glass_Basic",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Reinforced_Glass_Basic-DisplayName\", \"Reinforced Glass Building Base Set\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Glass_Wall_Tempered_0.T_ITEM_Glass_Wall_Tempered_0",
+            "ExtraData": {
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 15050,
+                "Y": 300
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Glass_Basic",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Reinforced_Glass_Advanced",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Reinforced_Glass_Advanced-DisplayName\", \"Reinforced Glass Building Advanced Set\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Glass_Halfpiece_Tempered_2.T_ITEM_Glass_Halfpiece_Tempered_2",
+            "ExtraData": {
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 15300,
+                "Y": 100
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Reinforced_Glass_Basic",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Scyther_Aquarium",
+            "ExtraData": {
+                "RowName": "Item_Scyther_Aquarium",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_Bosses"
+            },
+            "Position": {
+                "X": 12200,
+                "Y": 150
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Sycther_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "BioFuel_Barrel_T4",
+            "ExtraData": {
+                "RowName": "Item_Portable_Tank_Biofuel",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T4_Fabricator"
+            },
+            "Position": {
+                "X": 1450,
+                "Y": 100
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "T4_Tool_Utility_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Ape_Rug",
+            "ExtraData": {
+                "RowName": "Item_Ape_Rug",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_Bosses"
+            },
+            "Position": {
+                "X": 10000,
+                "Y": 150
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Ape_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Ape_Fishing_Trap",
+            "ExtraData": {
+                "RowName": "Item_Ape_Fishing_Trap",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_Bosses"
+            },
+            "Position": {
+                "X": 9700,
+                "Y": 150
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Ape_Reroute",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Shotgun_Casing",
+            "ExtraData": {
+                "RowName": "Item_Shotgun_Casing",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 8450,
+                "Y": 1050
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Cement_Mixer",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Ammo_ReRoute",
+            "bIsReroute": true,
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 7850,
+                "Y": 1050
+            },
+            "Size": {
+                "X": 0,
+                "Y": 0
+            },
+            "Rewards": [],
+            "RequiredTalents": [
+                {
+                    "RowName": "Ammo_Casing",
+                    "DataTableName": "D_Talents"
+                },
+                {
+                    "RowName": "Shotgun_Casing",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "bDefaultUnlocked": true
+        },
+        {
+            "Name": "Shotgun_Shell_Slug",
+            "ExtraData": {
+                "RowName": "Item_Shell_Slug",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 9050,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Shotgun_Casing",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
+            "Name": "Sugar",
+            "ExtraData": {
+                "RowName": "Item_Sugar",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 6700,
+                "Y": 450
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Mortar_And_Pestle",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Saddle_Desert",
+            "ExtraData": {
+                "RowName": "Item_Saddle_Basic_Desert",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 9850,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Saddle_Standard",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Saddle_Arctic",
+            "ExtraData": {
+                "RowName": "Item_Saddle_Basic_Arctic",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 9250,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Saddle_Standard",
+                    "DataTableName": "D_Talents"
+                }
+            ]
+        },
+        {
+            "Name": "Farming_Cart_Attachments",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Farming_Cart_Attachments-DisplayName\", \"Farming Cart Attachments\")",
+            "Description": "NSLOCTEXT(\"D_Talents\", \"Farming_Cart_Attachments-Description\", \"A selection of attachments to improve the efficiency of Farming with Carts.\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_Basic_Plow.T_ITEM_Basic_Plow",
+            "ExtraData": {
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T2_Crafting"
+            },
+            "Position": {
+                "X": 8050,
+                "Y": 850
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Wood_Cart",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "RequiredLevel": 20,
+            "DrawMethodOverride": "XThenY"
         }
     ]
 }

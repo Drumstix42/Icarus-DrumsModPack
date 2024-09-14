@@ -1298,7 +1298,7 @@
         {
             "Name": "Treated_Water",
             "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Treated_Water-DisplayName\", \"Contains Treated Water\")",
-            "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_WaterBuff.Icon_WaterBuff",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_Water.Icon_Water",
             "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1"
         },
         {
@@ -1437,6 +1437,44 @@
             "Stats": {
                 "(Value=\"BaseChanceToCatchRareFish_+%\")": 200,
                 "(Value=\"BaseCaughtFishLength_+%\")": 100
+            }
+        },
+        {
+            "Name": "Dirty_Water_Swamp",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Dirty_Water_Swamp-DisplayName\", \"Contains Swamp Water\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_Water.Icon_Water",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1"
+        },
+        {
+            "Name": "Dirty_Water_Lava",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Dirty_Water_Lava-DisplayName\", \"Contains Sulfur Water\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_Water.Icon_Water",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1"
+        },
+        {
+            "Name": "Plough_Steel",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Plough_Steel-DisplayName\", \"Dug with a Steel Plow\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1",
+            "Stats": {
+                "(Value=\"BaseCreatesCropPlotTier_+\")": 2
+            }
+        },
+        {
+            "Name": "Plough_Platinum",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Plough_Platinum-DisplayName\", \"Dug with an Platinum Plow\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_2.Icon_Alteration_2",
+            "Stats": {
+                "(Value=\"BasePlantedCropYield_+%\")": 10,
+                "(Value=\"BaseCreatesCropPlotTier_+\")": 3
+            }
+        },
+        {
+            "Name": "Plough_Titanium",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Plough_Titanium-DisplayName\", \"Dug with a Titanium Plow\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_3.Icon_Alteration_3",
+            "Stats": {
+                "(Value=\"BasePlantedCropYield_+%\")": 20,
+                "(Value=\"BaseCreatesCropPlotTier_+\")": 4
             }
         }
     ]
