@@ -10822,7 +10822,7 @@
                         "AISetup": {
                             "Value": "BlueBack_Lava"
                         },
-                        "SpawnWeight": 5,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "None"
                         }
@@ -10830,6 +10830,15 @@
                     {
                         "AISetup": {
                             "Value": "Bat_Dog"
+                        },
+                        "SpawnWeight": 1,
+                        "EpicCreature": {
+                            "Value": "None"
+                        }
+                    },
+                    {
+                        "AISetup": {
+                            "Value": "Roat_Lava"
                         },
                         "SpawnWeight": 1,
                         "EpicCreature": {
@@ -10869,7 +10878,7 @@
                         "AISetup": {
                             "Value": "BlueBack_Lava"
                         },
-                        "SpawnWeight": 5,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "None"
                         }
@@ -10916,7 +10925,7 @@
                         "AISetup": {
                             "Value": "BlueBack_Lava"
                         },
-                        "SpawnWeight": 5,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "None"
                         }
@@ -10991,7 +11000,7 @@
                         "AISetup": {
                             "Value": "BlueBack_Lava"
                         },
-                        "SpawnWeight": 5,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "None"
                         }
@@ -11075,7 +11084,7 @@
                         "AISetup": {
                             "Value": "BlueBack_Lava"
                         },
-                        "SpawnWeight": 5,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "None"
                         }
@@ -11150,7 +11159,7 @@
                         "AISetup": {
                             "Value": "Rock_Dog"
                         },
-                        "SpawnWeight": 1,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "Exotic_Infused"
                         }
@@ -11172,6 +11181,15 @@
                         "EpicCreature": {
                             "Value": "None"
                         }
+                    },
+                    {
+                        "AISetup": {
+                            "Value": "Roat_Lava"
+                        },
+                        "SpawnWeight": 2,
+                        "EpicCreature": {
+                            "Value": "None"
+                        }
                     }
                 ],
                 "BiomeSpawnDensity": 7,
@@ -11188,7 +11206,7 @@
             },
             "MinLevel": 100,
             "MedianLevel": 110,
-            "MaxLevel": 160
+            "MaxLevel": 120
         },
         {
             "Name": "PRO_Ashlands_Purple_0",
@@ -11207,7 +11225,7 @@
                         "AISetup": {
                             "Value": "Rock_Dog"
                         },
-                        "SpawnWeight": 1,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "Exotic_Infused"
                         }
@@ -11264,7 +11282,7 @@
                         "AISetup": {
                             "Value": "BlueBack_Lava"
                         },
-                        "SpawnWeight": 4,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "None"
                         }
@@ -11304,6 +11322,15 @@
                         "EpicCreature": {
                             "Value": "Exotic_Infused"
                         }
+                    },
+                    {
+                        "AISetup": {
+                            "Value": "Roat_Lava"
+                        },
+                        "SpawnWeight": 2,
+                        "EpicCreature": {
+                            "Value": "None"
+                        }
                     }
                 ],
                 "BiomeSpawnDensity": 5
@@ -11329,7 +11356,7 @@
                         "AISetup": {
                             "Value": "BlueBack_Lava"
                         },
-                        "SpawnWeight": 4,
+                        "SpawnWeight": 2,
                         "EpicCreature": {
                             "Value": "None"
                         }

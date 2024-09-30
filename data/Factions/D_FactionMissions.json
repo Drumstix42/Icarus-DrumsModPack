@@ -5481,7 +5481,7 @@
                 }
             ],
             "Faction": {
-                "RowName": "The_Assembly"
+                "RowName": "Recovery_Crew"
             },
             "InitialQuest": {
                 "RowName": "PRO_D_Recovery"
@@ -5545,7 +5545,7 @@
                 }
             ],
             "Faction": {
-                "RowName": "The_Assembly"
+                "RowName": "Recovery_Crew"
             },
             "InitialQuest": {
                 "RowName": "PRO_D_Resupply"
@@ -5581,13 +5581,6 @@
             "MissionObjectives": [
                 {
                     "QuestRow": {
-                        "RowName": "PRO_D_Rescue_Speak",
-                        "DataTableName": "D_Quests"
-                    },
-                    "Depth": 0
-                },
-                {
-                    "QuestRow": {
                         "RowName": "PRO_D_Rescue_Locate_NPC1",
                         "DataTableName": "D_Quests"
                     },
@@ -5602,7 +5595,7 @@
                 }
             ],
             "Faction": {
-                "RowName": "The_Assembly"
+                "RowName": "Recovery_Crew"
             },
             "InitialQuest": {
                 "RowName": "PRO_D_Rescue"
