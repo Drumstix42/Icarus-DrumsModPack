@@ -1345,7 +1345,7 @@
         },
         {
             "Name": "Honey_Tea",
-            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Honey_Tea-DisplayName\", \"Honey Tea\")",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"Honey_Tea-DisplayName\", \"Contains Honey Tea\")",
             "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_Water.Icon_Water",
             "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1"
         },
@@ -1475,6 +1475,54 @@
             "Stats": {
                 "(Value=\"BasePlantedCropYield_+%\")": 20,
                 "(Value=\"BaseCreatesCropPlotTier_+\")": 4
+            }
+        },
+        {
+            "Name": "ClayYield_1",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"ClayYield_1-DisplayName\", \"Claysmith 1\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1",
+            "Stats": {
+                "(Value=\"BaseShatteringClayRewards_+%\")": 25
+            }
+        },
+        {
+            "Name": "ClayYield_2",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"ClayYield_2-DisplayName\", \"Claysmith 2\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_2.Icon_Alteration_2",
+            "Stats": {
+                "(Value=\"BaseShatteringClayRewards_+%\")": 40
+            }
+        },
+        {
+            "Name": "ScoriaYield_1",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"ScoriaYield_1-DisplayName\", \"Scoriasmith 1\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1",
+            "Stats": {
+                "(Value=\"BaseShatteringScoriaRewards_+%\")": 25
+            }
+        },
+        {
+            "Name": "ScoriaYield_2",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"ScoriaYield_2-DisplayName\", \"Scoriasmith 2\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_2.Icon_Alteration_2",
+            "Stats": {
+                "(Value=\"BaseShatteringScoriaRewards_+%\")": 40
+            }
+        },
+        {
+            "Name": "ObsidianYield_1",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"ObsidianYield_1-DisplayName\", \"Obsidiansmith 1\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_1.Icon_Alteration_1",
+            "Stats": {
+                "(Value=\"BaseShatteringObsidianRewards_+%\")": 25
+            }
+        },
+        {
+            "Name": "ObsidianYield_2",
+            "DisplayName": "NSLOCTEXT(\"D_Alterations\", \"ObsidianYield_2-DisplayName\", \"Obsidiansmith 2\")",
+            "RankIcon": "/Game/Assets/2DArt/UI/Alterations/Icon_Alteration_2.Icon_Alteration_2",
+            "Stats": {
+                "(Value=\"BaseShatteringObsidianRewards_+%\")": 40
             }
         }
     ]

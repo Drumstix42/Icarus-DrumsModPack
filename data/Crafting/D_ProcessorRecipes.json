@@ -13163,13 +13163,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -24876,13 +24876,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -24940,13 +24940,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -25004,13 +25004,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -25068,13 +25068,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -25116,13 +25116,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -66965,7 +66965,7 @@
                         "RowName": "Beeswax",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": []
                 }
             ],
@@ -67081,7 +67081,7 @@
                         "RowName": "Fiber",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 12,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -67089,7 +67089,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 8,
                     "DynamicProperties": []
                 },
                 {
@@ -67097,7 +67097,7 @@
                         "RowName": "Beeswax",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": []
                 }
             ],
@@ -67147,7 +67147,7 @@
                         "RowName": "Fiber",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 12,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -67155,7 +67155,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 8,
                     "DynamicProperties": []
                 },
                 {
@@ -67163,7 +67163,7 @@
                         "RowName": "Beeswax",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": []
                 }
             ],
@@ -67213,7 +67213,7 @@
                         "RowName": "Fiber",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -67221,7 +67221,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 8,
                     "DynamicProperties": []
                 },
                 {
@@ -67229,7 +67229,7 @@
                         "RowName": "Beeswax",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10,
+                    "Count": 5,
                     "DynamicProperties": []
                 }
             ],
@@ -67399,13 +67399,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -69374,7 +69374,7 @@
                         "RowName": "Ice",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
@@ -69411,7 +69411,7 @@
                         "RowName": "Ice",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
@@ -69448,7 +69448,7 @@
                         "RowName": "Ice",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 10,
                     "DynamicProperties": []
                 }
             ],
@@ -72030,13 +72030,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -72082,13 +72082,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -74770,11 +74770,6 @@
                     "DynamicProperties": []
                 }
             ],
-            "ItemIconOverride": {
-                "ItemStaticData": {
-                    "RowName": "Dirt_Frame"
-                }
-            },
             "Outputs": [
                 {
                     "Element": {
@@ -75756,7 +75751,7 @@
                         "RowName": "Aluminium",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -75764,7 +75759,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -76158,7 +76153,7 @@
                         "RowName": "Aluminium",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -76166,7 +76161,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -76174,7 +76169,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 2,
                     "DynamicProperties": []
                 }
             ],
@@ -76219,7 +76214,7 @@
                         "RowName": "Aluminium",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 2,
                     "DynamicProperties": []
                 },
                 {
@@ -76227,7 +76222,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -76235,7 +76230,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 2,
                     "DynamicProperties": []
                 }
             ],
@@ -76288,7 +76283,7 @@
                         "RowName": "Wood",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -76296,7 +76291,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 2,
                     "DynamicProperties": []
                 }
             ],
@@ -76698,11 +76693,6 @@
                     "DynamicProperties": []
                 }
             ],
-            "ItemIconOverride": {
-                "ItemStaticData": {
-                    "RowName": "Dirt_Frame"
-                }
-            },
             "Outputs": [
                 {
                     "Element": {
@@ -77787,7 +77777,7 @@
                         "RowName": "Wood_Refined",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -77803,7 +77793,7 @@
                         "RowName": "Tree_Sap",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 2,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -77811,7 +77801,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 }
             ],
@@ -77856,7 +77846,7 @@
                         "RowName": "Wood_Refined",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -77864,7 +77854,7 @@
                         "RowName": "Stone_Brick",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 15,
                     "DynamicProperties": []
                 },
                 {
@@ -77872,7 +77862,7 @@
                         "RowName": "Tree_Sap",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -77880,7 +77870,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 }
             ],
@@ -77933,7 +77923,7 @@
                         "RowName": "Stone_Brick",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 15,
                     "DynamicProperties": []
                 },
                 {
@@ -77941,7 +77931,7 @@
                         "RowName": "Tree_Sap",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -77949,7 +77939,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 }
             ],
@@ -78063,7 +78053,7 @@
                         "RowName": "Wood_Refined",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -78071,7 +78061,7 @@
                         "RowName": "Stone_Brick",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20,
+                    "Count": 15,
                     "DynamicProperties": []
                 },
                 {
@@ -78079,7 +78069,7 @@
                         "RowName": "Tree_Sap",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 4,
+                    "Count": 3,
                     "DynamicProperties": []
                 },
                 {
@@ -78087,7 +78077,7 @@
                         "RowName": "Steel_Screw",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 6,
+                    "Count": 3,
                     "DynamicProperties": []
                 }
             ],
@@ -78481,13 +78471,13 @@
             "bContainsContainer": true,
             "ItemIconOverride": {
                 "ItemStaticData": {
-                    "RowName": "Any_Water_Container"
+                    "DataTableName": "D_ItemTemplate"
                 }
             },
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Thermos",
+                        "RowName": "Any_Water_Container",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,

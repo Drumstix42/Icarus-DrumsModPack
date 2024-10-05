@@ -5624,6 +5624,45 @@
             ],
             "AccountExperience": 50,
             "FactionExperience": 10
+        },
+        {
+            "Name": "PRO_Nullsector_Story",
+            "Icon": "/Game/Assets/2DArt/UI/ProspectSelect/Images/T_Prospect_Cave_Lantern01_Small.T_Prospect_Cave_Lantern01_Small",
+            "Faction": {
+                "RowName": "UDA"
+            },
+            "InitialQuest": {
+                "RowName": "PRO_Nullsector_Story"
+            },
+            "TalentsRewarded": [
+                {
+                    "RowName": "Prospect_Pro_Nullsector_Story",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "CurrencyRewarded": [
+                {
+                    "Meta": {
+                        "RowName": "Credits",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 100
+                },
+                {
+                    "Meta": {
+                        "RowName": "Exotic_Red",
+                        "DataTableName": "D_MetaCurrency"
+                    },
+                    "Amount": 800
+                }
+            ],
+            "AccountExperience": 50,
+            "FactionExperience": 10,
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "NewFrontiers"
+                }
+            }
         }
     ]
 }

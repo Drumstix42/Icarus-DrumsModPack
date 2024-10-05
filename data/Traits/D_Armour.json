@@ -2996,6 +2996,14 @@
             "ArmourMesh": "/Game/ASS/ITM/SK_ITM_Backpack_LavaHunter.SK_ITM_Backpack_LavaHunter",
             "AnimBlueprintClass": "/Game/ASS/ITM/SK_ITM_Backpack_CopyPose_AnimBP.SK_ITM_Backpack_CopyPose_AnimBP_C",
             "ArmourType": "Backpack"
+        },
+        {
+            "Name": "Cat_Boss_Gauntlets",
+            "ArmourMesh": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Arm_Carbon_V1.SK_CHA_MAL_ARM_Arm_Carbon_V1",
+            "FirstPersonMeshVariant": "/Game/ASS/CHA/ARM/SK_1ST_CHA_MAL_ARM_Arm_CarbonFiber_V1.SK_1ST_CHA_MAL_ARM_Arm_CarbonFiber_V1",
+            "AnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_CHA_MAL_ARM_Arm_base_CopyPose_AnimBP.SK_CHA_MAL_ARM_Arm_base_CopyPose_AnimBP_C",
+            "FirstPersonAnimBlueprintClass": "/Game/ASS/CHA/ARM/SK_1ST_CHA_MAL_ARM_Arm_AnimBP.SK_1ST_CHA_MAL_ARM_Arm_AnimBP_C",
+            "ArmourType": "Gauntlet"
         }
     ]
 }

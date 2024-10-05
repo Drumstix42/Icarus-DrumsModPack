@@ -9335,7 +9335,7 @@
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_OxygenBuff.Icon_OxygenBuff'",
             "Type": "Debuff",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"ExoticDebuff_T1_Oxygen-ModifierName\", \"Exotic Respiratory Disturbance\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"ExoticDebuff_T1_Oxygen-ModifierDescription\", \"The Exotic Affliction has caused you to consume more food. Can escalate to a concussion, bacteria or poison.\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"ExoticDebuff_T1_Oxygen-ModifierDescription\", \"The Exotic Affliction has caused you to consume more oxygen. Can escalate to a concussion, bacteria or poison.\")",
             "GrantedStats": {
                 "(Value=\"BaseOxygenConsumption_+%\")": 50
             },
@@ -11592,6 +11592,17 @@
             "MergeType": "Stack",
             "bEffectsObjects": true,
             "SaveToDatabase": false
+        },
+        {
+            "Name": "Quest_Creature_Health",
+            "ModifierName": "INVTEXT(\"[DNT] Scaled Health\")",
+            "ModifierDescription": "INVTEXT(\"[DNT] Additional +% max health scaling based on prospect difficulty\")",
+            "VisibleToPlayer": false,
+            "GrantedStats": {
+                "(Value=\"BaseMaximumHealth_+%\")": 100
+            },
+            "MergeType": "Stack",
+            "bEffectsPlayers": false
         }
     ]
 }
