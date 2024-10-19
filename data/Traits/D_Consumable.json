@@ -1907,7 +1907,8 @@
         {
             "Name": "Rhubarb_Stew",
             "Stats": {
-                "(Value=\"BaseFoodRecovery_+\")": 100
+                "(Value=\"BaseFoodRecovery_+\")": 100,
+                "(Value=\"BaseWaterRecovery_+\")": 25
             },
             "Modifier": {
                 "Modifier": {
@@ -2018,7 +2019,8 @@
         {
             "Name": "Fish_Chunk_Stew",
             "Stats": {
-                "(Value=\"BaseFoodRecovery_+\")": 100
+                "(Value=\"BaseFoodRecovery_+\")": 100,
+                "(Value=\"BaseWaterRecovery_+\")": 25
             },
             "Modifier": {
                 "Modifier": {

@@ -1891,7 +1891,8 @@
             "Name": "Item_Rifle_Assault",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-DisplayName\", \"Assault Rifle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Guns/ITEM_Rifle_Assault.ITEM_Rifle_Assault",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-Description\", \"Quantity over quality.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-Description\", \"An automatic weapon which fires small caliber pistol bullets.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-FlavorText\", \"Quantity over quality.\")",
             "Weight": 1000
         },
         {
@@ -14684,7 +14685,7 @@
         {
             "Name": "Item_Attachment_IceMammoth_Melee",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_IceMammoth_Melee-DisplayName\", \"Rimetusk Frost Attachment\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_Item_MeleeAttachmentIceMammoth.T_Item_MeleeAttachmentIceMammoth",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttTool_IceMammoth.T_ITEM_AttTool_IceMammoth",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_IceMammoth_Melee-Description\", \"An attachment that has a chance to inflict Freeze on hit creatures.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_IceMammoth_Melee-FlavorText\", \"Can be equipped to a valid melee weapon at an Alteration Bench.\")",
             "Weight": 1000
@@ -14692,7 +14693,7 @@
         {
             "Name": "Item_Attachment_Sandworm_Armor",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sandworm_Armor-DisplayName\", \"Sandworm Plating Attachment\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_Item_ArmorAttachmentSandworm.T_Item_ArmorAttachmentSandworm",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttArmor_Sandworm.T_ITEM_AttArmor_Sandworm",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sandworm_Armor-Description\", \"An attachment that improves physical resistance but lowers fire resistance.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sandworm_Armor-FlavorText\", \"Can be equipped to body armor at an Alteration Bench.\")",
             "Weight": 1000
@@ -14700,7 +14701,7 @@
         {
             "Name": "Item_Attachment_AlphaWolf_Melee",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_AlphaWolf_Melee-DisplayName\", \"Alpha Wolf Wounding Attachment\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_Item_MeleeAttachmentBlackWolf.T_Item_MeleeAttachmentBlackWolf",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttTool_Wolf.T_ITEM_AttTool_Wolf",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_AlphaWolf_Melee-Description\", \"An attachment that has a chance to inflict Wound and Deep Wound on hit creatures.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_AlphaWolf_Melee-FlavorText\", \"Can be equipped to a valid melee weapon at an Alteration Bench.\")",
             "Weight": 1000
@@ -14708,7 +14709,7 @@
         {
             "Name": "Item_Attachment_Scorpion_Armor",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Scorpion_Armor-DisplayName\", \"Giant Scorpion Thorns Attachment\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_Item_ArmorAttachmentScorpion.T_Item_ArmorAttachmentScorpion",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttArmor_Scorpion.T_ITEM_AttArmor_Scorpion",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Scorpion_Armor-Description\", \"An attachment that grants a chance to return damage to the attacker.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Scorpion_Armor-FlavorText\", \"Can be equipped to body, arms or legs armor at an Alteration Bench.\")",
             "Weight": 1000
@@ -17769,6 +17770,7 @@
         {
             "Name": "Item_Lava_Hunter_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Lava Hunter Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttTool_LavaHunter.T_ITEM_AttTool_LavaHunter",
             "Description": "INVTEXT(\"[DNT]\")",
             "Weight": 500
         },
@@ -17813,6 +17815,7 @@
         {
             "Name": "Item_Slug_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Slug Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttArmor_Hammerhead.T_ITEM_AttArmor_Hammerhead",
             "Description": "INVTEXT(\"[DNT]\")",
             "Weight": 500
         },
@@ -17966,6 +17969,7 @@
         {
             "Name": "Item_Rock_Golem_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Rock Golem Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttArmor_RockGolem.T_ITEM_AttArmor_RockGolem",
             "Description": "INVTEXT(\"[DNT]\")",
             "Weight": 500
         },
@@ -18164,6 +18168,7 @@
         {
             "Name": "Item_Ape_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Ape Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttArmor_SwampApe.T_ITEM_AttArmor_SwampApe",
             "Description": "INVTEXT(\"[DNT]\")",
             "Weight": 500
         },
@@ -18322,6 +18327,7 @@
         {
             "Name": "Item_Scyther_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Scyther Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttArmor_WaterCreature.T_ITEM_AttArmor_WaterCreature",
             "Description": "INVTEXT(\"[DNT]\")",
             "Weight": 500
         },
@@ -18405,6 +18411,7 @@
         {
             "Name": "Item_Hornet_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Hornet Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttTool_Hornet.T_ITEM_AttTool_Hornet",
             "Description": "INVTEXT(\"[DNT]\")",
             "Weight": 500
         },
@@ -18493,6 +18500,7 @@
         {
             "Name": "Item_Plant_Boss_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Plant Boss Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttTool_PlantBoss.T_ITEM_AttTool_PlantBoss",
             "Weight": 500
         },
         {
@@ -18548,6 +18556,7 @@
         {
             "Name": "Item_Cat_Boss_Attachment",
             "DisplayName": "INVTEXT(\"[DNT] Cat Boss Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttArmor_CatBoss.T_ITEM_AttArmor_CatBoss",
             "Weight": 500
         },
         {
@@ -19612,6 +19621,7 @@
         {
             "Name": "Item_Attachment_Sledgehammer_ClayYield_1",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ClayYield_1-DisplayName\", \"Clay Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttachClayYield.T_ITEM_AttachClayYield",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ClayYield_1-Description\", \"An attachment that increases the yield of Clay from ore nodes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ClayYield_1-FlavorText\", \"Can be attached to a valid sledgehammer.\")",
             "Weight": 1000
@@ -19619,6 +19629,7 @@
         {
             "Name": "Item_Attachment_Sledgehammer_ClayYield_2",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ClayYield_2-DisplayName\", \"Advanced Clay Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttachClayYield.T_ITEM_AttachClayYield",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ClayYield_2-Description\", \"An attachment that increases the yield of Clay from ore nodes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ClayYield_2-FlavorText\", \"Can be attached to a valid sledgehammer.\")",
             "Weight": 1000
@@ -19626,6 +19637,7 @@
         {
             "Name": "Item_Attachment_Sledgehammer_ScoriaYield_1",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ScoriaYield_1-DisplayName\", \"Scoria Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttachScoriaYield.T_ITEM_AttachScoriaYield",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ScoriaYield_1-Description\", \"An attachment that increases the yield of Scoria from ore nodes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ScoriaYield_1-FlavorText\", \"Can be attached to a valid sledgehammer.\")",
             "Weight": 1000
@@ -19633,6 +19645,7 @@
         {
             "Name": "Item_Attachment_Sledgehammer_ScoriaYield_2",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ScoriaYield_2-DisplayName\", \"Advanced Scoria Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttachScoriaYield.T_ITEM_AttachScoriaYield",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ScoriaYield_2-Description\", \"An attachment that increases the yield of Scoria from ore nodes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ScoriaYield_2-FlavorText\", \"Can be attached to a valid sledgehammer.\")",
             "Weight": 1000
@@ -19640,6 +19653,7 @@
         {
             "Name": "Item_Attachment_Sledgehammer_ObsidianYield_1",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ObsidianYield_1-DisplayName\", \"Obsidian Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttachObsidianYield.T_ITEM_AttachObsidianYield",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ObsidianYield_1-Description\", \"An attachment that increases the yield of Obsidian from ore nodes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ObsidianYield_1-FlavorText\", \"Can be attached to a valid sledgehammer.\")",
             "Weight": 1000
@@ -19647,9 +19661,152 @@
         {
             "Name": "Item_Attachment_Sledgehammer_ObsidianYield_2",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ObsidianYield_2-DisplayName\", \"Advanced Obsidian Attachment\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Attachments/T_ITEM_AttachObsidianYield.T_ITEM_AttachObsidianYield",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ObsidianYield_2-Description\", \"An attachment that increases the yield of Obsidian from ore nodes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Attachment_Sledgehammer_ObsidianYield_2-FlavorText\", \"Can be attached to a valid sledgehammer.\")",
             "Weight": 1000
+        },
+        {
+            "Name": "Ashlands_Blocker",
+            "DisplayName": "INVTEXT(\"[DNT] Man-made Barricade\")",
+            "Description": "INVTEXT(\"[DNT] A large wooden barricade. Break it down if you dare venture into the Ashlands. Expect varied temperatures and a harsh dry atmosphere.\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Rock_Golem_Grenade",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Grenade-DisplayName\", \"Quarrite Grenade\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Grenade-Description\", \"Explodes into many sharp objects that damage and slow.\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_Rock_Golem_Grenade_Caltrops",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Grenade_Caltrops-DisplayName\", \"Quarrite Caltrops\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Grenade_Caltrops-Description\", \"The sharp remains of a Quarrite Grenade. Will slow and cause damage when stepped on.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Grenade_Caltrops-FlavorText\", \"Like those little colored toy building blocks, but much much older.\")",
+            "Weight": 50
+        },
+        {
+            "Name": "Item_Carcass_Cow",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Cow-DisplayName\", \"Cow Carcass\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Cow-Description\", \"Killed for Beef? or Accidental?\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Cow-FlavorText\", \"Poor Cow.\")",
+            "Weight": 10000
+        },
+        {
+            "Name": "Item_Carcass_Calf",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-DisplayName\", \"Buffalo Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/ITEM_AnimalCarcass_Buffalo.ITEM_AnimalCarcass_Buffalo",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-Description\", \"No longer roaming.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-FlavorText\", \"Often confused with bison.\")",
+            "Weight": 10000
+        },
+        {
+            "Name": "Item_Windmill",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Windmill-DisplayName\", \"Windmill\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Windmill-Description\", \"A mill using mechanical power from wind to grind various items found on Icarus.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Windmill-FlavorText\", \"A tride and true method used for 100s of years.\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Carcass_Rooster",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Rooster-DisplayName\", \"Rooster Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Chicken.T_ITEM_AnimalCarcass_Chicken",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Rooster-Description\", \"A feathered friend lies at your feet, now dead.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Rooster-FlavorText\", \"Frozen on Earth, Defrosted on Icarus, What a Life...\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Carcass_Chick",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Chick-DisplayName\", \"Chick Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Chicken.T_ITEM_AnimalCarcass_Chicken",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Chick-Description\", \"A feathered friend lies at your feet, now dead.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Chick-FlavorText\", \"Frozen on Earth, Defrosted on Icarus, What a Life...\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Milk_Bottle_Glass",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bottle_Glass-DisplayName\", \"Glass Milk Bottle\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bottle_Glass-Description\", \"A glass bottle made for storing milk.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bottle_Glass-FlavorText\", \"Milk was considered \\'food of the gods\\' in ancient cultures.\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_Milk_Bucket",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bucket-DisplayName\", \"Milk Pail\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bucket-Description\", \"A steel pail made for storing milk.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bucket-FlavorText\", \"A farmers friend.\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_Carcass_Ram",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Ram-DisplayName\", \"Ram Carcass\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Ram-Description\", \"A woolly friend lies at your feet, now dead.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Ram-FlavorText\", \"Frozen on Earth, Defrosted on Icarus, What a Life...\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Carcass_Lamb",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Lamb-DisplayName\", \"Lamb Carcass\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Lamb-Description\", \"A woolly friend lies at your feet, now dead.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Lamb-FlavorText\", \"Frozen on Earth, Defrosted on Icarus, What a Life...\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Workshop_Calf",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf-DisplayName\", \"Cryogenically Frozen Calf\")",
+            "Weight": 10
+        },
+        {
+            "Name": "Item_Workshop_Chick",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Chick-DisplayName\", \"Cryogenically Frozen Chick\")",
+            "Weight": 10
+        },
+        {
+            "Name": "Item_Workshop_Lamb",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Lamb-DisplayName\", \"Cryogenically Frozen Lamb\")",
+            "Weight": 10
+        },
+        {
+            "Name": "Item_LegendaryWeapin_SlugLauncher",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapin_SlugLauncher-DisplayName\", \"[DNT} SlugLauncher\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapin_SlugLauncher-Description\", \"[DNT} SlugLauncher\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapin_SlugLauncher-FlavorText\", \"[DNT} SlugLauncher\")",
+            "Weight": 2500
+        },
+        {
+            "Name": "Item_LegendaryWeapin_GolemGauntlet",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapin_GolemGauntlet-DisplayName\", \"[DNT} GolemGauntlet\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapin_GolemGauntlet-Description\", \"[DNT} GolemGauntlet\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapin_GolemGauntlet-FlavorText\", \"[DNT} GolemGauntlet\")",
+            "Weight": 2500
+        },
+        {
+            "Name": "Item_Cow_Head",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cow_Head-DisplayName\", \"Cow Vestige\")",
+            "Weight": 1500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Cow_Trophy",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cow_Trophy-DisplayName\", \"Cow Trophy\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cow_Trophy-Description\", \"A mounted Cow head.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cow_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
+            "Weight": 2000
+        },
+        {
+            "Name": "Item_Bull_Head",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Bull_Head-DisplayName\", \"Bull Vestige\")",
+            "Weight": 1500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Bull_Trophy",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Bull_Trophy-DisplayName\", \"Bull Trophy\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Bull_Trophy-Description\", \"A mounted Bull head.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Bull_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
+            "Weight": 2000
         }
     ]
 }

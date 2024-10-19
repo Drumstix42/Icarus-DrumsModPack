@@ -11122,6 +11122,7 @@
         {
             "Name": "Dry_Atmosphere",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_HeatRES.Icon_HeatRES'",
+            "Type": "Biome",
             "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Dry_Atmosphere-ModifierName\", \"Extremely Arid\")",
             "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Dry_Atmosphere-ModifierDescription\", \"The extreme aridity of the atmosphere results in massively increased water consumption due to a lack of moisture. Deep Freeze will not produce Ice. Temperature will fluctuate throughout the day.\")",
             "GrantedStats": {
@@ -11581,13 +11582,29 @@
             "SaveToDatabase": false
         },
         {
-            "Name": "Cold_Atmosphere",
+            "Name": "Very_Cold_Atmosphere",
             "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_ColdRES.Icon_ColdRES'",
-            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cold_Atmosphere-ModifierName\", \"Intensely Frigid\")",
-            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cold_Atmosphere-ModifierDescription\", \"The extreme chill of the atmosphere results in reduced food spoil time and slower movement.\")",
+            "Type": "Biome",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Very_Cold_Atmosphere-ModifierName\", \"Intensely Frigid\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Very_Cold_Atmosphere-ModifierDescription\", \"The extreme chill of the atmosphere results in reduced food spoil time and slower movement.\")",
             "GrantedStats": {
                 "(Value=\"BaseInventorySpoilRate_+%\")": -50,
-                "(Value=\"BaseMovementSpeed_+%\")": -20
+                "(Value=\"BaseMovementSpeed_+%\")": -20,
+                "(Value=\"BaseFoodConsumption_+%\")": 50
+            },
+            "MergeType": "Stack",
+            "bEffectsObjects": true,
+            "SaveToDatabase": false
+        },
+        {
+            "Name": "Cold_Atmosphere",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/MountTameIcons/ICON_TemperatureCold.ICON_TemperatureCold'",
+            "Type": "Biome",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Cold_Atmosphere-ModifierName\", \"Extreme Chill\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Cold_Atmosphere-ModifierDescription\", \"The extreme chill of the atmosphere results in reduced food spoil time.\")",
+            "GrantedStats": {
+                "(Value=\"BaseInventorySpoilRate_+%\")": -50,
+                "(Value=\"BaseFoodConsumption_+%\")": 50
             },
             "MergeType": "Stack",
             "bEffectsObjects": true,
@@ -11603,6 +11620,61 @@
             },
             "MergeType": "Stack",
             "bEffectsPlayers": false
+        },
+        {
+            "Name": "Filtered_Trough_Water",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/T_ICON_Water_Purified.T_ICON_Water_Purified'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Filtered_Trough_Water-ModifierName\", \"Filtered Trough Water\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Filtered_Trough_Water-ModifierDescription\", \"Water that has undergone a filtration process.\")",
+            "GrantedStats": {
+                "(Value=\"BaseWaterConsumption_+%\")": -15,
+                "(Value=\"BaseFoodConsumption_+%\")": -15,
+                "(Value=\"BaseStaminaRegen_+%\")": 100
+            },
+            "MergeType": "Stack",
+            "bEffectsPlayers": false
+        },
+        {
+            "Name": "Creature_Male",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/T_ICON_Male.T_ICON_Male'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Creature_Male-ModifierName\", \"Male Creature\")",
+            "ModifierDescription": "",
+            "GrantedStats": {
+                "(Value=\"CreatureIsMale_?\")": 1
+            },
+            "MergeType": "Stack",
+            "bEffectsPlayers": false
+        },
+        {
+            "Name": "Creature_Female",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/T_Icon_Female.T_Icon_Female'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Creature_Female-ModifierName\", \"Female Creature\")",
+            "ModifierDescription": "",
+            "GrantedStats": {
+                "(Value=\"CreatureIsFemale_?\")": 1
+            },
+            "MergeType": "Stack",
+            "bEffectsPlayers": false
+        },
+        {
+            "Name": "ReadyToMilk",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/T_ICON_Resource_Milk.T_ICON_Resource_Milk'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"ReadyToMilk-ModifierName\", \"Ready To Milk\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"ReadyToMilk-ModifierDescription\", \"This animal is ready to Milk.\")",
+            "GrantedStats": {
+                "(Value=\"ReadyToMilk_?\")": 1
+            },
+            "MergeType": "Stack",
+            "bEffectsPlayers": false
+        },
+        {
+            "Name": "Animal_Fertilize",
+            "ModifierIcon": "Texture2D'/Game/Assets/2DArt/UI/Icons/Icon_ContextPlant.Icon_ContextPlant'",
+            "ModifierName": "NSLOCTEXT(\"D_ModifierStates\", \"Animal_Fertilize-ModifierName\", \"Fertilize\")",
+            "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Animal_Fertilize-ModifierDescription\", \"This animal is attempting to fertilize other animals of the same species in range.\")",
+            "MergeType": "Stack",
+            "bEffectsPlayers": false,
+            "SaveToDatabase": false
         }
     ]
 }
