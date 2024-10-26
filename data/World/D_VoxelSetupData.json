@@ -276,7 +276,7 @@
             "SecondaryResourceType": {
                 "RowName": "Stone"
             },
-            "DensityMultiplier": 1.100000023841858,
+            "DensityMultiplier": 1.4,
             "PyriticCrustResourceType": {
                 "RowName": "Pyritic_Crust_Copper"
             },
