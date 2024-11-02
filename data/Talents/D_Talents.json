@@ -31967,7 +31967,7 @@
             },
             "Position": {
                 "X": 1500,
-                "Y": 500
+                "Y": 650
             },
             "Size": {
                 "X": 250,
@@ -31986,7 +31986,7 @@
             },
             "Position": {
                 "X": 1500,
-                "Y": 800
+                "Y": 950
             },
             "Size": {
                 "X": 250,
@@ -32004,8 +32004,8 @@
                 "RowName": "Workshop_Resources"
             },
             "Position": {
-                "X": 1500,
-                "Y": 1100
+                "X": 2000,
+                "Y": 500
             },
             "Size": {
                 "X": 250,
@@ -32024,7 +32024,7 @@
             },
             "Position": {
                 "X": 2000,
-                "Y": 650
+                "Y": 800
             },
             "Size": {
                 "X": 250,
@@ -32043,7 +32043,7 @@
             },
             "Position": {
                 "X": 2000,
-                "Y": 950
+                "Y": 1100
             },
             "Size": {
                 "X": 250,
@@ -33866,7 +33866,7 @@
         },
         {
             "Name": "Reinforced_Wood_Basic",
-            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Reinforced_Wood_Basic-DisplayName\", \"Reinforced Wood Building Base Set\")",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Reinforced_Wood_Basic-DisplayName\", \"Beeswax Wood Building Base Set\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_ReinforcedWood_Wall_0.T_ITEM_ReinforcedWood_Wall_0",
             "ExtraData": {
                 "DataTableName": "D_Itemable"
@@ -33893,7 +33893,7 @@
         },
         {
             "Name": "Reinforced_Wood_Advanced",
-            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Reinforced_Wood_Advanced-DisplayName\", \"Reinforced Wood Building Base Set\")",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Reinforced_Wood_Advanced-DisplayName\", \"Beeswax Wood Building Base Set\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_ReinforcedWood_Half_Pitch_2.T_ITEM_ReinforcedWood_Half_Pitch_2",
             "ExtraData": {
                 "DataTableName": "D_Itemable"
@@ -43641,10 +43641,6 @@
                 {
                     "RowName": "Creature_Base_ReducedFoodConsumption_HorseStandard",
                     "DataTableName": "D_Talents"
-                },
-                {
-                    "RowName": "Creature_Horse_ExtraCarry",
-                    "DataTableName": "D_Talents"
                 }
             ],
             "DrawMethodOverride": "ShortestDistance"
@@ -52553,7 +52549,7 @@
             "Name": "Sandworm_Buildings",
             "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Sandworm_Buildings-DisplayName\", \"Sandworm Building Tier\")",
             "Description": "NSLOCTEXT(\"D_Talents\", \"Sandworm_Buildings-Description\", \"Unlock the Sandworm building tier.\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Wall_0.ITEM_Wood_Wall_0",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Sandworm_Wall_0.T_ITEM_Sandworm_Wall_0",
             "ExtraData": {
                 "DataTableName": "D_Itemable"
             },
@@ -53515,55 +53511,6 @@
             "DrawMethodOverride": "XThenY"
         },
         {
-            "Name": "Rock_Golem_Trap",
-            "ExtraData": {
-                "RowName": "Item_Rock_Golem_Trap",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_Bosses"
-            },
-            "Position": {
-                "X": 8500,
-                "Y": 850
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Rock_Golem_Reroute",
-                    "DataTableName": "D_Talents"
-                }
-            ],
-            "DrawMethodOverride": "XThenY"
-        },
-        {
-            "Name": "Rock_Golem_Trophy",
-            "ExtraData": {
-                "RowName": "Item_Rock_Golem_Trophy",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_Bosses"
-            },
-            "Position": {
-                "X": 8050,
-                "Y": 1200
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Rock_Golem_Reroute",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
             "Name": "Rock_Golem_Reroute",
             "bIsReroute": true,
             "TalentTree": {
@@ -53585,102 +53532,6 @@
                 }
             ],
             "bDefaultUnlocked": true
-        },
-        {
-            "Name": "Rock_Golem_Sledgehammer",
-            "ExtraData": {
-                "RowName": "Item_Rock_Golem_Sledgehammer",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_Bosses"
-            },
-            "Position": {
-                "X": 7600,
-                "Y": 850
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Rock_Golem_Reroute",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Rock_Golem_Gun",
-            "ExtraData": {
-                "RowName": "Item_Rock_Golem_Gun",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_Bosses"
-            },
-            "Position": {
-                "X": 7900,
-                "Y": 850
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Rock_Golem_Reroute",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Rock_Golem_Attachment",
-            "ExtraData": {
-                "RowName": "Item_Rock_Golem_Attachment",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_Bosses"
-            },
-            "Position": {
-                "X": 8350,
-                "Y": 1200
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Rock_Golem_Reroute",
-                    "DataTableName": "D_Talents"
-                }
-            ]
-        },
-        {
-            "Name": "Rock_Golem_Module",
-            "ExtraData": {
-                "RowName": "Item_Rock_Golem_Module",
-                "DataTableName": "D_Itemable"
-            },
-            "TalentTree": {
-                "RowName": "Blueprint_Bosses"
-            },
-            "Position": {
-                "X": 7750,
-                "Y": 1200
-            },
-            "Size": {
-                "X": 184,
-                "Y": 184
-            },
-            "RequiredTalents": [
-                {
-                    "RowName": "Rock_Golem_Reroute",
-                    "DataTableName": "D_Talents"
-                }
-            ]
         },
         {
             "Name": "Ape_Attractor",
@@ -53708,7 +53559,8 @@
         },
         {
             "Name": "Ape_Armor",
-            "DisplayName": "INVTEXT(\"[DNT] Ape Armor Set\")",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Ape_Armor-DisplayName\", \"Garganutan Armor Set\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_Ape_Armor_Chest.T_ITEM_Ape_Armor_Chest",
             "ExtraData": {
                 "DataTableName": "D_Itemable"
             },
@@ -53923,7 +53775,7 @@
         },
         {
             "Name": "Ice_Mammoth_Armor",
-            "DisplayName": "INVTEXT(\"[DNT] Ice Mammoth Armor\")",
+            "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Ice_Mammoth_Armor-DisplayName\", \"Rimetusk Armor\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_IceMammoth_Armor_Chest.T_ITEM_IceMammoth_Armor_Chest",
             "ExtraData": {
                 "DataTableName": "D_Itemable"
@@ -54979,6 +54831,12 @@
                     "GrantedFlags": []
                 }
             ],
+            "RequiredTalents": [
+                {
+                    "RowName": "Creature_Base_FallDamageReduction_HorseStandard",
+                    "DataTableName": "D_Talents"
+                }
+            ],
             "DrawMethodOverride": "ShortestDistance"
         },
         {
@@ -55052,6 +54910,31 @@
             ]
         },
         {
+            "Name": "T3_Windmill",
+            "ExtraData": {
+                "RowName": "Item_Windmill",
+                "DataTableName": "D_Itemable"
+            },
+            "TalentTree": {
+                "RowName": "Blueprint_T3_Machine"
+            },
+            "Position": {
+                "X": 7350,
+                "Y": 300
+            },
+            "Size": {
+                "X": 184,
+                "Y": 184
+            },
+            "RequiredTalents": [
+                {
+                    "RowName": "Cement_Mixer",
+                    "DataTableName": "D_Talents"
+                }
+            ],
+            "DrawMethodOverride": "XThenY"
+        },
+        {
             "Name": "Medical_Scanner",
             "ExtraData": {
                 "RowName": "Item_Medical_Scanner",
@@ -55085,6 +54968,25 @@
                     "RowName": "NewFrontiers"
                 }
             }
+        },
+        {
+            "Name": "Workshop_Resource_Pack_Dirt",
+            "ExtraData": {
+                "RowName": "Meta_Resource_Pack_Dirt",
+                "DataTableName": "D_WorkshopItems"
+            },
+            "TalentTree": {
+                "RowName": "Workshop_Resources"
+            },
+            "Position": {
+                "X": 500,
+                "Y": 1250
+            },
+            "Size": {
+                "X": 250,
+                "Y": 250
+            },
+            "DrawMethodOverride": "XThenY"
         }
     ]
 }
