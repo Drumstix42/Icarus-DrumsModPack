@@ -1889,10 +1889,10 @@
         },
         {
             "Name": "Item_Rifle_Assault",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-DisplayName\", \"Assault Rifle\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-DisplayName\", \"Light Automatic Carbine\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Guns/T_ITEM_Rifle_Assault.T_ITEM_Rifle_Assault",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-Description\", \"An automatic weapon which fires small caliber pistol bullets.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-FlavorText\", \"Quantity over quality.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-Description\", \"An automatic firearm that fires low caliber pistol rounds.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rifle_Assault-FlavorText\", \"Quantity over Quality\")",
             "Weight": 3000
         },
         {
@@ -6308,7 +6308,7 @@
         },
         {
             "Name": "Item_Giant_Steak",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak-DisplayName\", \"Giant Steak\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak-DisplayName\", \"Raw Giant Steak\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Raw_Prime_Meat.ITEM_Raw_Prime_Meat",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak-Description\", \"A giant steak from the belly of only the largest creatures.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Giant_Steak-FlavorText\", \"This should keep you going for a while\")",
@@ -6335,7 +6335,7 @@
         },
         {
             "Name": "Item_Fatty_Tbone",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone-DisplayName\", \"Fatty T-Bone\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone-DisplayName\", \"Raw Fatty T-Bone\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Meat_TboneRaw.ITEM_Meat_TboneRaw",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone-Description\", \"The largest of steaks can typically only be found in the largest of creatures\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fatty_Tbone-FlavorText\", \"Calories don\\'t count on Icarus\")",
@@ -6362,7 +6362,7 @@
         },
         {
             "Name": "Item_Gamey_Meat",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat-DisplayName\", \"Gamey Meat\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat-DisplayName\", \"Raw Gamey Meat\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Meat_GameyRaw.ITEM_Meat_GameyRaw",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat-Description\", \"Raw gamey meat, typically found amongst the more passive wildlife\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Gamey_Meat-FlavorText\", \"Slimy, yet satisfying\")",
@@ -6389,7 +6389,7 @@
         },
         {
             "Name": "Item_Stringy_Meat",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat-DisplayName\", \"Stringy Meat\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat-DisplayName\", \"Raw Stringy Meat\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Meat_StringyRaw.ITEM_Meat_StringyRaw",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat-Description\", \"Stringy meat, typically found in fast, predatory creatures\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Stringy_Meat-FlavorText\", \"An adequate meal\")",
@@ -6416,7 +6416,7 @@
         },
         {
             "Name": "Item_Soft_Meat",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat-DisplayName\", \"Soft Meat\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat-DisplayName\", \"Raw Soft Meat\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Meat_SoftRaw.ITEM_Meat_SoftRaw",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat-Description\", \"A soft, supple meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Soft_Meat-FlavorText\", \"Tastes like guilt, doesn\\'t it?\")",
@@ -6443,7 +6443,7 @@
         },
         {
             "Name": "Item_White_Meat",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat-DisplayName\", \"White Meat\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat-DisplayName\", \"Raw White Meat\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/ITEM_Meat_WhiteRaw.ITEM_Meat_WhiteRaw",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat-Description\", \"A small cut of white meat\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_White_Meat-FlavorText\", \"Be careful of the bones\")",
@@ -9540,7 +9540,7 @@
             "Name": "Item_Thumper",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Thumper-DisplayName\", \"Prototype Thumper\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Thumper.ITEM_Thumper",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Thumper-Description\", \"Deploy and activate to unearth mineable ores. Replenishes mineable rocks in the surrounding area. \")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Thumper-Description\", \"Deploy and activate to unearth mineable ore. Replenishes mineable ore in the surrounding area. \")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Thumper-FlavorText\", \"Sure hope this doesn\\'t attract anything big...\")",
             "Weight": 90000
         },
@@ -11194,7 +11194,7 @@
         },
         {
             "Name": "Item_Meta_Fishfinder",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Fishfinder-DisplayName\", \"F.I.S.H.\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Fishfinder-DisplayName\", \"FISH\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/ITEM_Meta_Fishfinder.ITEM_Meta_Fishfinder",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Fishfinder-Description\", \"Fish Identification and Scanning Hardware. A handheld device that scans the waterbodies at the present location for fish like creatures.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Fishfinder-FlavorText\", \"A glorified fish finder.\")",
@@ -12532,7 +12532,7 @@
         },
         {
             "Name": "Item_Meta_Creature_Scanner",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Creature_Scanner-DisplayName\", \"B.E.A.S.T.\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Creature_Scanner-DisplayName\", \"BEAST\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/T_ITEM_Meta_Creature_Scanner.T_ITEM_Meta_Creature_Scanner",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Creature_Scanner-Description\", \"Bio-Entity Analysis and Scanning Technology. A handheld device that scans nearby creatures for analysis and locates weaknesses.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Creature_Scanner-FlavorText\", \"A beauty of a device that will make surviving Icarus that much easier.\")",
@@ -13643,7 +13643,7 @@
             "Name": "Item_Mission_Device",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Device-DisplayName\", \"C0NT4CT Device\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Mission_Communication_Device_T2.T_ITEM_Mission_Communication_Device_T2",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Device-Description\", \"Certified Online Network Transmitter for Contractor Tasking. Grants access to SMPL3 Missions and Operations.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Device-Description\", \"Certified Online Network Transmitter for Contractor Tasking. Allows contact to Orbital station SMPL3 Missions and Operations.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Device-FlavorText\", \"Replacing UDA agents one mission at a time.\")",
             "Weight": 10000
         },
@@ -14597,6 +14597,14 @@
             "Weight": 1000
         },
         {
+            "Name": "Item_Brutalist_Lamp_Square",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Brutalist_Lamp_Square-DisplayName\", \"Brutalist Square Lamp\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Brutalist_Lamp.T_ITEM_Brutalist_Lamp",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Brutalist_Lamp_Square-Description\", \"A robust lamp crafted from a base of coarse concrete embodying the raw, minimalist essence of brutalist design.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Brutalist_Lamp_Square-FlavorText\", \"Brutalist furniture design originated in the mid-20th century on Earth and is characterized by its use of raw materials, geometric forms, and a focus on function over ornamentation.\")",
+            "Weight": 1000
+        },
+        {
             "Name": "Item_Brutalist_CoffeeTable",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Brutalist_CoffeeTable-DisplayName\", \"Brutalist Coffee Table\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Brutalist_CoffeeTable.T_ITEM_Brutalist_CoffeeTable",
@@ -15125,23 +15133,26 @@
         },
         {
             "Name": "Item_Animal_Trap_Small",
-            "DisplayName": "INVTEXT(\"[DNT] Small Animal Trap\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Small-DisplayName\", \"Small Animal Trap\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Animal_Trap_Small.T_ITEM_Animal_Trap_Small",
-            "Description": "INVTEXT(\"[DNT] Can trap small creatures like rabbits and roats\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Small-Description\", \"Can trap small creatures such as rabbits and roats\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Small-FlavorText\", \"Gotcha!\")",
             "Weight": 5000
         },
         {
             "Name": "Item_Animal_Trap_Small_T4",
-            "DisplayName": "INVTEXT(\"[DNT] Small Animal Trap T4\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Small_T4-DisplayName\", \"Advanced Animal Trap\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Animal_Trap_Medium.T_ITEM_Animal_Trap_Medium",
-            "Description": "INVTEXT(\"[DNT] Can trap small creatures like rabbits and roats\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Small_T4-Description\", \"Can trap small creatures such as rabbits and roats\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Small_T4-FlavorText\", \"Gotcha!\")",
             "Weight": 5000
         },
         {
             "Name": "Item_Animal_Trap_Medium",
-            "DisplayName": "INVTEXT(\"[DNT] Medium Animal Trap\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Medium-DisplayName\", \"Advanced Medium Animal Trap\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Animal_Trap_Small_T4.T_ITEM_Animal_Trap_Small_T4",
-            "Description": "INVTEXT(\"[DNT] Can trap medium creatures like wolves\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Medium-Description\", \"Can trap medium sized creatures such as wolves\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Trap_Medium-FlavorText\", \"Gotcha!\")",
             "Weight": 10000
         },
         {
@@ -16261,7 +16272,7 @@
         {
             "Name": "Item_Water_Container",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Water_Container-DisplayName\", \"Water Container\")",
-            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_WaterStorage.T_ICON_WaterStorage",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_QuestionMark.T_ITEM_DRINK_QuestionMark",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Water_Container-Description\", \"Water containers come in a variety of shapes and sizes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Water_Container-FlavorText\", \"Can be used to fill with various drinks.\")",
             "Weight": 1
@@ -17048,7 +17059,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Burner-DisplayName\", \"Wood Burner\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Wood_Burner.T_ITEM_Wood_Burner",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Burner-Description\", \"For keeping you warm in cold environments and basic cooking.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Burner-FlavorText\", \"Your a true survivor now.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Burner-FlavorText\", \"You\\'re a true survivor now.\")",
             "Weight": 10000
         },
         {
@@ -17112,7 +17123,7 @@
             "Name": "Item_Stone_Cairn",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Stone_Cairn-DisplayName\", \"Stone Cairn\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Stone_Cairn.T_ITEM_Stone_Cairn",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stone_Cairn-Description\", \"A pile of stones, which can mark a significent location for a prospector.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stone_Cairn-Description\", \"A pile of stones, which can mark a significant location for a prospector.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Stone_Cairn-FlavorText\", \"What significance does this place hold?\")",
             "Weight": 30000
         },
@@ -17773,7 +17784,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Lava_Hunter_Mine-DisplayName\", \"Lava Hunter Bomber Mine\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Lava_Hunter_Mine.T_ITEM_Lava_Hunter_Mine",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Lava_Hunter_Mine-Description\", \"When placed will break open Lava Hunter Eggs and Release Bombers.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Lava_Hunter_Mine-FlavorText\", \"Lets see how they like it.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Lava_Hunter_Mine-FlavorText\", \"Let\\'s see how they like it.\")",
             "Weight": 1000
         },
         {
@@ -17870,7 +17881,8 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Slug_Grenade.T_ITEM_Slug_Grenade",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Slug_Grenade-Description\", \"A grenade crafted from the spoils of victory against a Hammerhead.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Slug_Grenade-FlavorText\", \"An item that was truly hard-won.\")",
-            "Weight": 500
+            "Weight": 500,
+            "MaxStack": 5
         },
         {
             "Name": "Item_Slug_Axe",
@@ -17966,8 +17978,15 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Rock_Golem_Trophy.T_ITEM_Rock_Golem_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Trophy-Description\", \"A preserved specimen from a Quarrite that once lived on Icarus.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
-            "Weight": 1000,
-            "MaxStack": 5
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Rock_Golem_Trophy_Lamp",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Trophy_Lamp-DisplayName\", \"Quarrite Lamp\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Rock_Golem_Trophy_Lamp_2.T_ITEM_Rock_Golem_Trophy_Lamp_2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Trophy_Lamp-Description\", \"A monument to a great creature, which emits a small red light. Has 3 variations.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rock_Golem_Trophy_Lamp-FlavorText\", \"What a great use for the core of a ferocious beast.\")",
+            "Weight": 1000
         },
         {
             "Name": "Item_Rock_Golem_Sledgehammer",
@@ -18177,7 +18196,7 @@
         },
         {
             "Name": "Item_Ape_Attractor",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Attractor-DisplayName\", \"Garganutan Sonic Attactor\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Attractor-DisplayName\", \"Garganutan Sonic Attractor\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Ape_Attachment.T_ITEM_Ape_Attachment",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Attractor-Description\", \"A device which when powered will draw creatures to its location.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Attractor-FlavorText\", \"The opposite of a Creature Deterrent. \")",
@@ -18212,6 +18231,8 @@
             "Name": "Item_LegendaryWeapon_Ape_Club",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapon_Ape_Club-DisplayName\", \"Behemoth - Legendary Weapon\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapon_Ape_Club-Description\", \"A Prototype Upgradeable Launcher created via studying of the Garganutan.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapon_Ape_Club-FlavorText\", \"An Ape Club? Real Original Norex\")",
             "Weight": 2000
         },
         {
@@ -18302,6 +18323,8 @@
             "Name": "Item_IceMammoth_Trap",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_IceMammoth_Trap-DisplayName\", \"Rimetusk Snap Trap\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_IceMammoth_Trap.T_ITEM_IceMammoth_Trap",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_IceMammoth_Trap-Description\", \"Snaps shut and pins anything that is ensnared for a few seconds.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_IceMammoth_Trap-FlavorText\", \"Almost like a Venus Fly Trap - but with Icicles\")",
             "Weight": 100
         },
         {
@@ -18651,16 +18674,18 @@
         },
         {
             "Name": "Item_Great_Hunt_Device",
-            "DisplayName": "INVTEXT(\"[DNT] Great Hunt Device\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Great_Hunt_Device-DisplayName\", \"NOVA Station\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Great_Hunt_Device.T_ITEM_Great_Hunt_Device",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Great_Hunt_Device-Description\", \"A Communications Device Provided by Norex to Engage in Hunt Contracts. Also provides advanced facilities for crafting Creature Related Items.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Great_Hunt_Device-FlavorText\", \"The Norex Operations Verification Assembly - Your one stop shop for everything black market.\")",
             "Weight": 10000
         },
         {
             "Name": "Item_Ape_Grenade",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Grenade-DisplayName\", \"Garganutan Grenade\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Ape_Grenade.T_ITEM_Ape_Grenade",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Grenade-Description\", \"A grenade crafted from the spoils of victory against a Garganutan.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Grenade-FlavorText\", \"An item that was truly hard-won.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Grenade-Description\", \"A high-tech sonic grenade which causes creatures to become frenzied and attack each other.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Ape_Grenade-FlavorText\", \"A grenade crafted from the spoils of victory against a Garganutan.\")",
             "Weight": 50,
             "MaxStack": 5
         },
@@ -19227,7 +19252,7 @@
         },
         {
             "Name": "Item_Medical_Scanner",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Medical_Scanner-DisplayName\", \"H.E.A.L. Device\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Medical_Scanner-DisplayName\", \"HEAL Device\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Mission_Medical_Device.T_ITEM_Mission_Medical_Device",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Medical_Scanner-Description\", \"Health Examination & Analysis Lens. Hold to scan prospectors and see their ailments.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Medical_Scanner-FlavorText\", \"XIGO\\'s latest innovation for the furtherment of medical technolgies.\")",
@@ -19253,7 +19278,7 @@
             "Name": "Item_Flagpole",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Flagpole-DisplayName\", \"Flag Pole\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Flagpole.T_ITEM_Flagpole",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Flagpole-Description\", \"A Flag Pole with flag, made with withstand harsh conditions.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Flagpole-Description\", \"A Flag Pole with flag, made to withstand harsh conditions.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Flagpole-FlavorText\", \"Sporting the New Zealand Flag\")",
             "Weight": 5000
         },
@@ -19741,24 +19766,24 @@
         {
             "Name": "Item_Carcass_Cow",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Cow-DisplayName\", \"Cow Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Cow.T_ITEM_AnimalCarcass_Cow",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Cow-Description\", \"Killed for Beef? or Accidental?\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Cow-FlavorText\", \"Poor Cow.\")",
             "Weight": 10000
         },
         {
             "Name": "Item_Carcass_Calf",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-DisplayName\", \"Buffalo Carcass\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/ITEM_AnimalCarcass_Buffalo.ITEM_AnimalCarcass_Buffalo",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-Description\", \"No longer roaming.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-FlavorText\", \"Often confused with bison.\")",
-            "Weight": 10000
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-DisplayName\", \"Calf Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Calf.T_ITEM_AnimalCarcass_Calf",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Calf-Description\", \"Killed for Beef? or Accidental?\")",
+            "Weight": 7500
         },
         {
             "Name": "Item_Windmill",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Windmill-DisplayName\", \"Windmill\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Windmill.T_ITEM_Windmill",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Windmill-Description\", \"A mill using mechanical power from wind to grind various items found on Icarus.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Windmill-FlavorText\", \"A tride and true method used for 100s of years.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Windmill-FlavorText\", \"A tried and true method, used for 100s of years.\")",
             "Weight": 5000
         },
         {
@@ -19781,7 +19806,7 @@
             "Name": "Item_Milk_Bottle_Glass",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bottle_Glass-DisplayName\", \"Glass Milk Bottle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Milk_Bottle_Glass.T_ITEM_Milk_Bottle_Glass",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bottle_Glass-Description\", \"A glass bottle made for storing milk.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bottle_Glass-Description\", \"A glass bottle made for storing milk. Milk will not spoil.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bottle_Glass-FlavorText\", \"Milk was considered \\'food of the gods\\' in ancient cultures.\")",
             "Weight": 500
         },
@@ -19789,7 +19814,7 @@
             "Name": "Item_Milk_Bucket",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bucket-DisplayName\", \"Milk Pail\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Milk_Bucket.T_ITEM_Milk_Bucket",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bucket-Description\", \"A steel pail made for storing milk.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bucket-Description\", \"A steel pail made for storing milk. Milk will spoil and the Pail will empty when this occurs.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Milk_Bucket-FlavorText\", \"A farmers friend.\")",
             "Weight": 500
         },
@@ -19842,6 +19867,7 @@
         {
             "Name": "Item_Cow_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cow_Trophy-DisplayName\", \"Cow Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Cow_Trophy.T_ITEM_Cow_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cow_Trophy-Description\", \"A mounted Cow head.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cow_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 2000
@@ -19997,6 +20023,7 @@
         {
             "Name": "Item_Chocolate_Cake",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Chocolate_Cake-DisplayName\", \"Chocolate Cake\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Chocolate_Cake.T_ITEM_Chocolate_Cake",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Chocolate_Cake-Description\", \"A big chocolate cake of 8 pieces. Deploy this to enjoy with friends.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Chocolate_Cake-FlavorText\", \"Just like Grandma used to make.\")",
             "Weight": 2000
@@ -20004,7 +20031,8 @@
         {
             "Name": "Item_Chocolate_Cake_Piece",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Chocolate_Cake_Piece-DisplayName\", \"Chocolate Cake Piece\")",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Chocolate_Cake_Piece-Description\", \"A piece of chocolate cake, made from scatch on Icarus.\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Chocolate_Cake_Piece.T_ITEM_Chocolate_Cake_Piece",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Chocolate_Cake_Piece-Description\", \"A piece of chocolate cake, made from scratch on Icarus.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Chocolate_Cake_Piece-FlavorText\", \"Just like Grandma used to make.\")",
             "Weight": 500,
             "MaxStack": 8
@@ -20012,21 +20040,24 @@
         {
             "Name": "Item_Carrot_Cake",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake-DisplayName\", \"Carrot Cake\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Carrot_Cake.T_ITEM_Carrot_Cake",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake-Description\", \"A big carrot cake of 8 pieces. Deploy this to enjoy with friends.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake-FlavorText\", \"Who new vegetables could taste this great.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake-FlavorText\", \"Who knew vegetables could taste this great.\")",
             "Weight": 2000
         },
         {
             "Name": "Item_Carrot_Cake_Piece",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake_Piece-DisplayName\", \"Carrot Cake Piece\")",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake_Piece-Description\", \"A piece of carrot cake, made from scatch on Icarus.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake_Piece-FlavorText\", \"Who new vegetables could taste this great.\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Carrot_Cake_Piece.T_ITEM_Carrot_Cake_Piece",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake_Piece-Description\", \"A piece of carrot cake, made from scratch on Icarus.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carrot_Cake_Piece-FlavorText\", \"Who knew vegetables could taste this great.\")",
             "Weight": 500,
             "MaxStack": 8
         },
         {
             "Name": "Item_Coconut_Cake",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Coconut_Cake-DisplayName\", \"Coconut Cake\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Coconut_Cake.T_ITEM_Coconut_Cake",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Coconut_Cake-Description\", \"A big coconut cake of 8 pieces. Deploy this to enjoy with friends.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Coconut_Cake-FlavorText\", \"A taste of home.\")",
             "Weight": 2000
@@ -20034,7 +20065,8 @@
         {
             "Name": "Item_Coconut_Cake_Piece",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Coconut_Cake_Piece-DisplayName\", \"Coconut Cake Piece\")",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Coconut_Cake_Piece-Description\", \"A piece of coconut cake, made from scatch on Icarus.\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Coconut_Cake_Piece.T_ITEM_Coconut_Cake_Piece",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Coconut_Cake_Piece-Description\", \"A piece of coconut cake, made from scratch on Icarus.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Coconut_Cake_Piece-FlavorText\", \"A taste of home.\")",
             "Weight": 500,
             "MaxStack": 8
@@ -20075,16 +20107,10 @@
             "Name": "Item_Cheese",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese-DisplayName\", \"Cheese\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Cheese.T_ITEM_Cheese",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese-Description\", \"A chunk of cheese, made on Icarus.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese-Description\", \"A chunk of cheese, made on Icarus with Soybean as a rennet.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese-FlavorText\", \"One of the best human inventions.\")",
             "Weight": 250,
             "MaxStack": 50
-        },
-        {
-            "Name": "Item_LegendaryWeapon_IceMammoth_Sledgehammer",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_LegendaryWeapon_IceMammoth_Sledgehammer-DisplayName\", \"Frostbreaker - Legendary Weapon\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/ITEM_Missing.ITEM_Missing",
-            "Weight": 2000
         },
         {
             "Name": "Item_Carcass_RockGolem_Juvie",
@@ -20247,6 +20273,394 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Condensed_Exotic-Description\", \"Exotic matter, an impossibility in your hands. Requires Lasers to be Cut into smaller useable pieces.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Condensed_Exotic-FlavorText\", \"Previously believed to exist only in the heart of stars, the most common form of exotics, elanthium, has permitted extraordinary leaps in low temperature super conductors and high-density power storage.\")",
             "Weight": 40000
+        },
+        {
+            "Name": "Item_Drill_Arrow",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Drill_Arrow-DisplayName\", \"Prototype Drill Arrow\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Projectiles/T_ITEM_Scyther_Arrow.T_ITEM_Scyther_Arrow",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Drill_Arrow-Description\", \"An experimental arrow which deals extra damage against Quarrites.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Drill_Arrow-FlavorText\", \"Its shape allows it to burrow into objects when fired.\")",
+            "Weight": 10,
+            "MaxStack": 100
+        },
+        {
+            "Name": "Item_Mission_Radio",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Radio-DisplayName\", \"C0NT4CT Radio\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Mission_Radio.T_ITEM_Mission_Radio",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Radio-Description\", \"Contacts a nearby C0NT4CT Device to kick off Operations on the go. Will not work if there is no C0NT4CT device placed on the map. \")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Radio-FlavorText\", \"A truly remarkable piece of equipment.\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_GH_Ape_LaboratoryNote_1",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_1-DisplayName\", \"Garganutan Research Log 1.2.5\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Collectable_Note.T_ITEM_Collectable_Note",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_1-Description\", \"A note written by someone. Right click to read.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_1-FlavorText\", \"What were they doing here?\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_GH_Ape_LaboratoryNote_2",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_2-DisplayName\", \"Garganutan Research Log 1.3.4\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Collectable_Note.T_ITEM_Collectable_Note",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_2-Description\", \"A note written by someone. Right click to read.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_2-FlavorText\", \"What were they doing here?\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_GH_Ape_LaboratoryNote_3",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_3-DisplayName\", \"Garganutan Research Log 1.5.6\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Collectable_Note.T_ITEM_Collectable_Note",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_3-Description\", \"A note written by someone. Right click to read.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_3-FlavorText\", \"What were they doing here?\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_GH_Ape_LaboratoryNote_4",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_4-DisplayName\", \"Garganutan Research Log 1.6.4\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Collectable_Note.T_ITEM_Collectable_Note",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_4-Description\", \"A note written by someone. Right click to read.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_4-FlavorText\", \"What were they doing here?\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_GH_Ape_LaboratoryNote_5",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_5-DisplayName\", \"Garganutan Research Log 1.6.5\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Collectable_Note.T_ITEM_Collectable_Note",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_5-Description\", \"A note written by someone. Right click to read.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Ape_LaboratoryNote_5-FlavorText\", \"What were they doing here?\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_ExperimentalGoop",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_ExperimentalGoop-DisplayName\", \"Experimental Goop\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_Exotic_Red_Raw.ITEM_Exotic_Red_Raw",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_ExperimentalGoop-Description\", \"The result of a simple experiment.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_ExperimentalGoop-FlavorText\", \"Warning: Biohazard.\")",
+            "Weight": 2500,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_MakeshiftRadio",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_MakeshiftRadio-DisplayName\", \"Makeshift Radio\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Mission_Communication_Device_T2.ITEM_Mission_Communication_Device_T2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_MakeshiftRadio-Description\", \"A makeshift radio for basic offworld communication.\")",
+            "Weight": 10000
+        },
+        {
+            "Name": "Item_SonicDevice",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_SonicDevice-DisplayName\", \"Experimental Sonic Device\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Bunker_Prop_2.T_ITEM_Bunker_Prop_2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_SonicDevice-Description\", \"A sonic device made based on the findings from the Research station.\")",
+            "Weight": 10000
+        },
+        {
+            "Name": "Item_Cream",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cream-DisplayName\", \"Cream\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Cream.T_ITEM_Cream",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cream-Description\", \"Fresh cream, cannot be eaten on its own.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cream-FlavorText\", \"Nothing tastes better.\")",
+            "Weight": 50,
+            "MaxStack": 50
+        },
+        {
+            "Name": "Item_Butter",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Butter-DisplayName\", \"Butter\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Butter.T_ITEM_Butter",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Butter-Description\", \"A block of butter.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Butter-FlavorText\", \"A core ingrediant for baking.\")",
+            "Weight": 50,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_Cheese_Roll",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese_Roll-DisplayName\", \"Cheese Roll\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Cheese_Roll.T_ITEM_Cheese_Roll",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese_Roll-Description\", \"Cheese, wrapped in bread, toasted.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese_Roll-FlavorText\", \"A classic orginating from the South Island of New Zealand.\")",
+            "Weight": 250,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_Cheese_Pizza",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese_Pizza-DisplayName\", \"Cheese Pizza Slice\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Cheese_Pizza.T_ITEM_Cheese_Pizza",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese_Pizza-Description\", \"The most basic form of pizza that exists.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cheese_Pizza-FlavorText\", \"One of the best culinary inventions.\")",
+            "Weight": 250,
+            "MaxStack": 8
+        },
+        {
+            "Name": "Item_Pavlova",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pavlova-DisplayName\", \"Pavlova\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Pavlova.T_ITEM_Pavlova",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pavlova-Description\", \"A light, fluffy and tasty dessert.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pavlova-FlavorText\", \"A New Zealand Classic Dessert\")",
+            "Weight": 250,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Strawberries_And_Cream",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Strawberries_And_Cream-DisplayName\", \"Strawberries & Cream\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_BerriesAndCream.T_ITEM_BerriesAndCream",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Strawberries_And_Cream-Description\", \"Fresh Cream and Strawberries existing in perfect harmony.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Strawberries_And_Cream-FlavorText\", \"Simple, but it tastes good.\")",
+            "Weight": 250,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_Bacon_Sandwich",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Bacon_Sandwich-DisplayName\", \"Bacon Butty\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Bacon_Sandwich.T_ITEM_Bacon_Sandwich",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Bacon_Sandwich-Description\", \"A simple yet delicious dish.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Bacon_Sandwich-FlavorText\", \"Bacon in Bread, whats not to love.\")",
+            "Weight": 250,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_DecalDeployable",
+            "DisplayName": "INVTEXT(\"[DNT] Dev Deployable Decal\")",
+            "Description": "INVTEXT(\"[DNT] Deployable Decals For Dev Bases\")",
+            "Weight": 1,
+            "MaxStack": 100
+        },
+        {
+            "Name": "Item_Carcass_Ape_Juvenile",
+            "DisplayName": "INVTEXT(\"[DNT] Ape\")",
+            "Description": "INVTEXT(\"[DNT] Ape\")",
+            "FlavorText": "INVTEXT(\"[DNT] Ape\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Calf_Head",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Calf_Head-DisplayName\", \"Calf Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Calf_Head.T_ITEM_Calf_Head",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Calf_Head-Description\", \"What is left of a small friend.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Calf_Head-FlavorText\", \"Never had the chance to grow up.\")",
+            "Weight": 1500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Calf_Trophy",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Calf_Trophy-DisplayName\", \"Calf Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Calf_Trophy.T_ITEM_Calf_Trophy",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Calf_Trophy-Description\", \"A mounted Calf head.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Calf_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
+            "Weight": 2000
+        },
+        {
+            "Name": "Item_FieldGuide_Milk",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_FieldGuide_Milk-DisplayName\", \"Milk\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/T_ICON_Recipe_Milk.T_ICON_Recipe_Milk",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_FieldGuide_Milk-Description\", \"Milk is gathered from cattle.\")",
+            "Weight": 100
+        },
+        {
+            "Name": "Item_Food_Silo",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Food_Silo-DisplayName\", \"Silo\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Food_Silo.T_ITEM_Food_Silo",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Food_Silo-Description\", \"Great storage place for large quantities of plants and food.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Food_Silo-FlavorText\", \"Every Farm needs one of these.\")",
+            "Weight": 50000
+        },
+        {
+            "Name": "Item_Quilted_Bed",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Quilted_Bed-DisplayName\", \"Quilted Bed\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Quilted_Bed.T_ITEM_Quilted_Bed",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Quilted_Bed-Description\", \"A comfy quilted bed, made of perfectly stained wood.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Quilted_Bed-FlavorText\", \"Looks Cozy\")",
+            "Weight": 1500
+        },
+        {
+            "Name": "Item_Pitchfork",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pitchfork-DisplayName\", \"Pitchfork\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Spears/T_ITEM_Pitchfork.T_ITEM_Pitchfork",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pitchfork-Description\", \"Pitchfork\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_Chick_Head",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Chick_Head-DisplayName\", \"Chick Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Chick_Head.T_ITEM_Chick_Head",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Chick_Head-Description\", \"Once a little fuzz ball.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Chick_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Chick_Trophy",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Chick_Trophy-DisplayName\", \"Chick Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Chick_Trophy.T_ITEM_Chick_Trophy",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Chick_Trophy-Description\", \"A mounted Chick.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Chick_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
+            "Weight": 2000
+        },
+        {
+            "Name": "Item_ResearchEquipment_Centrifuge",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_Centrifuge-DisplayName\", \"Battered Centrifuge\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_ResearchEquipment_Centrifuge.T_ITEM_ResearchEquipment_Centrifuge",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_Centrifuge-Description\", \"A Centrifuge from the Garganutan Research Station.\")",
+            "Weight": 4000,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_ResearchEquipment_Flasks",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_Flasks-DisplayName\", \"Battered Shaker\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_ResearchEquipment_Flasks.T_ITEM_ResearchEquipment_Flasks",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_Flasks-Description\", \"A Shaker from the Garganutan Research Station.\")",
+            "Weight": 2500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_ResearchEquipment_Microscope",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_Microscope-DisplayName\", \"Battered Microscope\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_ResearchEquipment_Microscope.T_ITEM_ResearchEquipment_Microscope",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_Microscope-Description\", \"A Microscope from the Garganutan Research Station.\")",
+            "Weight": 3000,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_ResearchEquipment_TestTubes",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_TestTubes-DisplayName\", \"Battered Test Tubes\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_ResearchEquipment_TestTubes.T_ITEM_ResearchEquipment_TestTubes",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_TestTubes-Description\", \"Test Tubes from the Garganutan Research Station.\")",
+            "Weight": 1000,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_ResearchEquipment_LabDesk",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_LabDesk-DisplayName\", \"Battered Lab Desk\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_ResearchEquipment_LabDesk.T_ITEM_ResearchEquipment_LabDesk",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_ResearchEquipment_LabDesk-Description\", \"A simple Laboratory Desk from the Garganutan Research Station.\")",
+            "Weight": 12000
+        },
+        {
+            "Name": "Item_Farm_Railing_Gate",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Farm_Railing_Gate-DisplayName\", \"Farm Railing Gate\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Farm_Railing_Gate.T_ITEM_Farm_Railing_Gate",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Farm_Railing_Gate-Description\", \"A rustic gate perfect for your farm.\")",
+            "Weight": 1000,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_Farm_Railing",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Farm_Railing-DisplayName\", \"Farm Railing\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Farm_Railing.T_ITEM_Farm_Railing",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Farm_Railing-Description\", \"A rustic railing perfect for your farm.\")",
+            "Weight": 1000,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_BarnDoor",
+            "DisplayName": "INVTEXT(\"[DNT] Barn Door\")",
+            "Weight": 500,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_Mission_Organic_Analyzer",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Organic_Analyzer-DisplayName\", \"Organic Analyzer\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/QuestItems/ITEM_Mission_Analyzer_Egg.ITEM_Mission_Analyzer_Egg",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Organic_Analyzer-Description\", \"A device which will Analyze Organic Samples.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mission_Organic_Analyzer-FlavorText\", \"Bleeding Edge\")",
+            "Weight": 10000
+        },
+        {
+            "Name": "Item_LabStool",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_LabStool-DisplayName\", \"Battered Stool\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_ResearchEquipment_LabStool.T_ITEM_ResearchEquipment_LabStool",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_LabStool-Description\", \"A basic metal stool, a little worse for wear.\")",
+            "Weight": 1500
+        },
+        {
+            "Name": "Item_Seismic_Probe",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Seismic_Probe-DisplayName\", \"Resonance Surveyor\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Seismic_Probe.T_ITEM_Seismic_Probe",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Seismic_Probe-Description\", \"After a brief scan this will point towards the source of unnatural vibrations.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Seismic_Probe-FlavorText\", \"This looks cobbled together, someone is cutting some corners.\")",
+            "Weight": 2000
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_Cocoa",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Cocoa.T_ITEM_DRINK_Cocoa",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_Coffee",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Coffee.T_ITEM_DRINK_Coffee",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_Gorse",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Gorse.T_ITEM_DRINK_Gorse",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_GreenTea",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_GreenTea.T_ITEM_DRINK_GreenTea",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_Honey",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Honey.T_ITEM_DRINK_Honey",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_Ice",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Ice.T_ITEM_DRINK_Ice",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_PurificationPill",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_PurificationPill.T_ITEM_DRINK_PurificationPill",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_Smoothie",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Smoothie.T_ITEM_DRINK_Smoothie",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_XigoPuri",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_XigoPuri.T_ITEM_DRINK_XigoPuri",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_Water",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Water.T_ITEM_DRINK_Water",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_FlavoredDrinkIcon_CoffeeCream",
+            "DisplayName": "INVTEXT(\"[DNT] Icon Only\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_DRINK_Coffeeand_Cream.T_ITEM_DRINK_Coffeeand_Cream",
+            "Weight": 1
+        },
+        {
+            "Name": "Item_GH_Radio",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Radio-DisplayName\", \"NOVA Radio\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Mission_Radio.T_ITEM_Mission_Radio",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Radio-Description\", \"Contacts a nearby NOVA Station for accessing Great Hunts.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_GH_Radio-FlavorText\", \"A truly remarkable piece of equipment.\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Light_Test",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Light_Test-DisplayName\", \"Light Test\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Kit_Floor_Torch.ITEM_Kit_Floor_Torch",
+            "Description": "INVTEXT(\"[DNT] Cams Light test item\")",
+            "FlavorText": "INVTEXT(\"[DNT] Lights are cool\")",
+            "Weight": 1,
+            "MaxStack": 100
         }
     ]
 }

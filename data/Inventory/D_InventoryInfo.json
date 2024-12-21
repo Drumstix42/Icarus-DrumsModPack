@@ -356,7 +356,7 @@
                 "Value": "General"
             },
             "SlotTemplate": {
-                "RowName": "Any_Food_Or_Ice"
+                "RowName": "Spoilable_ColdSlowsSpoilRate"
             },
             "StartingSlots": 32
         },
@@ -465,7 +465,7 @@
                 "Value": "General"
             },
             "SlotTemplate": {
-                "RowName": "Icebox_Contents"
+                "RowName": "Spoilable_ColdSlowsSpoilRate"
             },
             "StartingSlots": 24
         },
@@ -1257,7 +1257,7 @@
                 "Value": "General"
             },
             "SlotTemplate": {
-                "RowName": "Any_Food_Or_Ice"
+                "RowName": "Spoilable_ColdSlowsSpoilRate"
             },
             "StartingSlots": 50
         },
@@ -1870,6 +1870,23 @@
         },
         {
             "Name": "Bunker_ExtinguisherWallMount",
+            "InventoryID": {
+                "Value": "General"
+            },
+            "StartingSlots": 1
+        },
+        {
+            "Name": "Food_Silo",
+            "InventoryID": {
+                "Value": "General"
+            },
+            "SlotTemplate": {
+                "RowName": "Any_Food_Or_Plant"
+            },
+            "StartingSlots": 48
+        },
+        {
+            "Name": "Mission_Analyzer",
             "InventoryID": {
                 "Value": "General"
             },

@@ -11026,7 +11026,7 @@
                     "MaxSwimSpeed": 1
                 },
                 "Jog": {
-                    "MaxWalkSpeed": 3.200000047683716,
+                    "MaxWalkSpeed": 3.75,
                     "GroundFriction": 8,
                     "BrakingFriction": 2,
                     "MaxAcceleration": 300,
@@ -11122,6 +11122,141 @@
                 "RequiredFeatureLevel": {
                     "RowName": "NewFrontiers"
                 }
+            }
+        },
+        {
+            "Name": "Mount_WoolyZebra",
+            "ActorClass": "/Game/BP/Mounts/BP_Mount_Wooly_Zebra.BP_Mount_Wooly_Zebra_C",
+            "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+            "CreatureType": {
+                "RowName": "Wooly_Zebra"
+            },
+            "DeadItem": {
+                "RowName": "AnimalCarcass_Wooly_Zebra"
+            },
+            "GOAPSetup": {
+                "RowName": "NoGOAP"
+            },
+            "Relationships": {
+                "RowName": "Player"
+            },
+            "AIGrowth": {
+                "RowName": "Mount_WoolyZebra"
+            },
+            "MovementMapping": {
+                "Stationary": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Sneak": {
+                    "MaxWalkSpeed": 0.6499999761581421,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Walk": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 90,
+                    "MaxSwimSpeed": 1
+                },
+                "Jog": {
+                    "MaxWalkSpeed": 3.75,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 90,
+                    "MaxSwimSpeed": 1
+                },
+                "Run": {
+                    "MaxWalkSpeed": 7,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 500,
+                    "BrakingDeceleration": 450,
+                    "RotationRate": 80,
+                    "MaxSwimSpeed": 1.25
+                },
+                "Sprint": {
+                    "MaxWalkSpeed": 7,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 1800,
+                    "BrakingDeceleration": 500,
+                    "RotationRate": 300,
+                    "MaxSwimSpeed": 1.25
+                },
+                "Attacking": {
+                    "MaxWalkSpeed": 7,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 64,
+                    "MaxAcceleration": 450,
+                    "BrakingDeceleration": 50000,
+                    "RotationRate": 300,
+                    "MaxSwimSpeed": 1
+                },
+                "Undefined": {
+                    "MaxWalkSpeed": 3.2300000190734863,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                }
+            },
+            "Audio": {
+                "RowName": "WoolyZebraMount"
+            },
+            "CollisionHitEventBones": [
+                "RigNeck1",
+                "RigNeck2",
+                "RigChest",
+                "RigSpine2",
+                "RigSpine1",
+                "RigPelvis",
+                "RigHead"
+            ],
+            "ValidBaitTagQuery": {
+                "TagDictionary": [
+                    {
+                        "TagName": "GOAP.Food.Herbivore.Bait"
+                    }
+                ],
+                "QueryTokenStream": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "AutoDescription": " ANY( GOAP.Food.Herbivore.Bait )"
+            },
+            "Trophy": {
+                "RowName": "Wooly_Zebra_Head"
+            },
+            "Loot": {
+                "RowName": "Wooly_Zebra_Carcass_Loot"
+            },
+            "Hitable": {
+                "RowName": "AnimalBones_Medium"
+            },
+            "bUseSurvivalCharacterState": true,
+            "bStartWithSurvivalTickDisabled": false,
+            "BestiaryGroup": {
+                "RowName": "Wooly_Zebra"
             }
         },
         {
@@ -13973,7 +14108,7 @@
                     "MaxAcceleration": 500,
                     "BrakingDeceleration": 450,
                     "RotationRate": 80,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Sprint": {
                     "MaxWalkSpeed": 8.5,
@@ -13982,7 +14117,7 @@
                     "MaxAcceleration": 1800,
                     "BrakingDeceleration": 500,
                     "RotationRate": 300,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Attacking": {
                     "MaxWalkSpeed": 7.690000057220459,
@@ -15579,7 +15714,7 @@
                     "MaxAcceleration": 600,
                     "BrakingDeceleration": 1350,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Sprint": {
                     "MaxWalkSpeed": 6.5,
@@ -15588,7 +15723,7 @@
                     "MaxAcceleration": 800,
                     "BrakingDeceleration": 1800,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Attacking": {
                     "MaxWalkSpeed": 6,
@@ -15957,6 +16092,150 @@
                 "RequiredFeatureLevel": {
                     "RowName": "Laika"
                 }
+            }
+        },
+        {
+            "Name": "Juvenile_Wooly_Zebra",
+            "ActorClass": "/Game/BP/AI/GOAP/AI/BP_NPC_Wooly_Zebra_Juvenile_Character.BP_NPC_Wooly_Zebra_Juvenile_Character_C",
+            "ControllerClass": "/Game/BP/AI/GOAP/AI/BP_NPC_Juvenile_Controller.BP_NPC_Juvenile_Controller_C",
+            "CreatureType": {
+                "RowName": "Juvenile_Wooly_Zebra"
+            },
+            "Descriptors": [
+                {
+                    "RowName": "Passive",
+                    "DataTableName": "D_AIDescriptors"
+                },
+                {
+                    "RowName": "Herbivore",
+                    "DataTableName": "D_AIDescriptors"
+                }
+            ],
+            "DeadItem": {
+                "RowName": "AnimalCarcass_Wooly_Zebra_Juvenile"
+            },
+            "GOAPSetup": {
+                "RowName": "Juvenile_Default"
+            },
+            "DefaultNavigationFilter": "BlueprintGeneratedClass'/Game/BP/AI/GOAP/Misc/NavFilter_JuvenileAI.NavFilter_JuvenileAI_C'",
+            "Relationships": {
+                "RowName": "DefaultSmallHerbivore"
+            },
+            "NotifiedNPCTypes": [
+                {
+                    "RowName": "NPC_Passive",
+                    "DataTableName": "D_TagQueries"
+                }
+            ],
+            "AIGrowth": {
+                "RowName": "Juvenile_WoolyZebra"
+            },
+            "MovementMapping": {
+                "Stationary": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Sneak": {
+                    "MaxWalkSpeed": 0.6499999761581421,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Walk": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Jog": {
+                    "MaxWalkSpeed": 3.2300000190734863,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Run": {
+                    "MaxWalkSpeed": 7.690000057220459,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 500,
+                    "BrakingDeceleration": 450,
+                    "RotationRate": 125,
+                    "MaxSwimSpeed": 1
+                },
+                "Sprint": {
+                    "MaxWalkSpeed": 7.690000057220459,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 1800,
+                    "BrakingDeceleration": 500,
+                    "RotationRate": 150,
+                    "MaxSwimSpeed": 1
+                },
+                "Attacking": {
+                    "MaxWalkSpeed": 7.690000057220459,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 64,
+                    "MaxAcceleration": 450,
+                    "BrakingDeceleration": 50000,
+                    "RotationRate": 150,
+                    "MaxSwimSpeed": 1
+                },
+                "Undefined": {
+                    "MaxWalkSpeed": 3.2300000190734863,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                }
+            },
+            "Audio": {
+                "RowName": "WoolyZebraJuvi"
+            },
+            "CollisionHitEventBones": [
+                "RigNeck1",
+                "RigChest",
+                "RigSpine1"
+            ],
+            "ValidBaitTagQuery": {
+                "TagDictionary": [
+                    {
+                        "TagName": "GOAP.Food.Herbivore.Bait"
+                    }
+                ],
+                "QueryTokenStream": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "AutoDescription": " ANY( GOAP.Food.Herbivore.Bait )"
+            },
+            "Loot": {
+                "RowName": "Wooly_Zebra_Carcass_Loot"
+            },
+            "Hitable": {
+                "RowName": "AnimalBones_Medium"
+            },
+            "bUseSurvivalCharacterState": true,
+            "BestiaryGroup": {
+                "RowName": "Wooly_Zebra"
             }
         },
         {
@@ -16807,7 +17086,7 @@
                     "MaxAcceleration": 600,
                     "BrakingDeceleration": 1350,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Sprint": {
                     "MaxWalkSpeed": 6.5,
@@ -16816,7 +17095,7 @@
                     "MaxAcceleration": 800,
                     "BrakingDeceleration": 1800,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Attacking": {
                     "MaxWalkSpeed": 6,
@@ -16954,7 +17233,7 @@
                     "MaxAcceleration": 600,
                     "BrakingDeceleration": 1350,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Sprint": {
                     "MaxWalkSpeed": 6.5,
@@ -16963,7 +17242,7 @@
                     "MaxAcceleration": 800,
                     "BrakingDeceleration": 1800,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Attacking": {
                     "MaxWalkSpeed": 6,
@@ -17101,7 +17380,7 @@
                     "MaxAcceleration": 600,
                     "BrakingDeceleration": 1350,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Sprint": {
                     "MaxWalkSpeed": 6.5,
@@ -17110,7 +17389,7 @@
                     "MaxAcceleration": 800,
                     "BrakingDeceleration": 1800,
                     "RotationRate": 125,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Attacking": {
                     "MaxWalkSpeed": 6,
@@ -18479,6 +18758,9 @@
             },
             "bUseSurvivalCharacterState": true,
             "bStartWithSurvivalTickDisabled": false,
+            "BestiaryGroup": {
+                "RowName": "MiniHippo"
+            },
             "BlacklistBones": []
         },
         {
@@ -18812,7 +19094,7 @@
                     "MaxAcceleration": 300,
                     "BrakingDeceleration": 800,
                     "RotationRate": 100,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Jog": {
                     "MaxWalkSpeed": 3.5,
@@ -18821,7 +19103,7 @@
                     "MaxAcceleration": 300,
                     "BrakingDeceleration": 400,
                     "RotationRate": 100,
-                    "MaxSwimSpeed": 1
+                    "MaxSwimSpeed": 1.25
                 },
                 "Run": {
                     "MaxWalkSpeed": 3.9100000858306885,
@@ -19756,6 +20038,436 @@
             },
             "BestiaryGroup": {
                 "RowName": "Needler"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "NewFrontiers"
+                }
+            }
+        },
+        {
+            "Name": "Cow",
+            "ActorClass": "/Game/BP/Mounts/BP_Tame_Cow.BP_Tame_Cow_C",
+            "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+            "CreatureType": {
+                "RowName": "Cow"
+            },
+            "Descriptors": [
+                {
+                    "RowName": "Passive",
+                    "DataTableName": "D_AIDescriptors"
+                },
+                {
+                    "RowName": "Herbivore",
+                    "DataTableName": "D_AIDescriptors"
+                }
+            ],
+            "DeadItem": {
+                "RowName": "AnimalCarcass_Cow"
+            },
+            "GOAPSetup": {
+                "RowName": "Cow"
+            },
+            "DefaultNavigationFilter": "BlueprintGeneratedClass'/Game/BP/AI/GOAP/Misc/NavFilter_DefaultAI.NavFilter_DefaultAI_C'",
+            "Relationships": {
+                "RowName": "Player"
+            },
+            "AIGrowth": {
+                "RowName": "Cow"
+            },
+            "MovementMapping": {
+                "Stationary": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Sneak": {
+                    "MaxWalkSpeed": 0.6499999761581421,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Walk": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Jog": {
+                    "MaxWalkSpeed": 3.2300000190734863,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Run": {
+                    "MaxWalkSpeed": 7.690000057220459,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 500,
+                    "BrakingDeceleration": 450,
+                    "RotationRate": 125,
+                    "MaxSwimSpeed": 1
+                },
+                "Sprint": {
+                    "MaxWalkSpeed": 10.770000457763672,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 1800,
+                    "BrakingDeceleration": 500,
+                    "RotationRate": 150,
+                    "MaxSwimSpeed": 1
+                },
+                "Attacking": {
+                    "MaxWalkSpeed": 7.690000057220459,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 64,
+                    "MaxAcceleration": 450,
+                    "BrakingDeceleration": 50000,
+                    "RotationRate": 150,
+                    "MaxSwimSpeed": 1
+                },
+                "Undefined": {
+                    "MaxWalkSpeed": 3.2300000190734863,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                }
+            },
+            "Audio": {
+                "RowName": "Cow"
+            },
+            "CollisionHitEventBones": [
+                "RigNeck1",
+                "RigNeck2",
+                "RigChest",
+                "RigSpine2",
+                "RigSpine1",
+                "RigPelvis",
+                "RigHead"
+            ],
+            "ValidBaitTagQuery": {
+                "TagDictionary": [
+                    {
+                        "TagName": "GOAP.Food.Herbivore.Bait"
+                    }
+                ],
+                "QueryTokenStream": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "AutoDescription": " ANY( GOAP.Food.Herbivore.Bait )"
+            },
+            "Trophy": {
+                "RowName": "Cow_Head"
+            },
+            "Loot": {
+                "RowName": "Cow_Carcass_Loot"
+            },
+            "Hitable": {
+                "RowName": "AnimalBones_Large"
+            },
+            "bUseSurvivalCharacterState": true,
+            "bStartWithSurvivalTickDisabled": false,
+            "BestiaryGroup": {
+                "RowName": "Cattle"
+            }
+        },
+        {
+            "Name": "Calf",
+            "ActorClass": "/Game/BP/AI/GOAP/AI/BP_NPC_Calf_Juvenile_Character.BP_NPC_Calf_Juvenile_Character_C",
+            "ControllerClass": "/Game/BP/AI/GOAP/AI/BP_NPC_Juvenile_Controller.BP_NPC_Juvenile_Controller_C",
+            "CreatureType": {
+                "RowName": "Calf"
+            },
+            "Descriptors": [
+                {
+                    "RowName": "Neutral",
+                    "DataTableName": "D_AIDescriptors"
+                },
+                {
+                    "RowName": "Herbivore",
+                    "DataTableName": "D_AIDescriptors"
+                }
+            ],
+            "DeadItem": {
+                "RowName": "AnimalCarcass_Calf"
+            },
+            "GOAPSetup": {
+                "RowName": "Juvenile_Domesticated"
+            },
+            "DefaultNavigationFilter": "BlueprintGeneratedClass'/Game/BP/AI/GOAP/Misc/NavFilter_DefaultAI.NavFilter_DefaultAI_C'",
+            "Relationships": {
+                "RowName": "Player"
+            },
+            "NotifiedNPCTypes": [
+                {
+                    "RowName": "NPC_Passive",
+                    "DataTableName": "D_TagQueries"
+                }
+            ],
+            "AIGrowth": {
+                "RowName": "Calf"
+            },
+            "MovementMapping": {
+                "Stationary": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Sneak": {
+                    "MaxWalkSpeed": 0.6499999761581421,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Walk": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Jog": {
+                    "MaxWalkSpeed": 3.2300000190734863,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Run": {
+                    "MaxWalkSpeed": 7.690000057220459,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 500,
+                    "BrakingDeceleration": 450,
+                    "RotationRate": 125,
+                    "MaxSwimSpeed": 1
+                },
+                "Sprint": {
+                    "MaxWalkSpeed": 10.770000457763672,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 1800,
+                    "BrakingDeceleration": 500,
+                    "RotationRate": 150,
+                    "MaxSwimSpeed": 1
+                },
+                "Attacking": {
+                    "MaxWalkSpeed": 7.690000057220459,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 64,
+                    "MaxAcceleration": 450,
+                    "BrakingDeceleration": 50000,
+                    "RotationRate": 150,
+                    "MaxSwimSpeed": 1
+                },
+                "Undefined": {
+                    "MaxWalkSpeed": 3.2300000190734863,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 250,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                }
+            },
+            "Audio": {
+                "RowName": "Calf"
+            },
+            "CollisionHitEventBones": [
+                "RigNeck1",
+                "RigNeck2",
+                "RigChest",
+                "RigSpine2",
+                "RigSpine1",
+                "RigPelvis",
+                "RigHead"
+            ],
+            "ValidBaitTagQuery": {
+                "TagDictionary": [
+                    {
+                        "TagName": "GOAP.Food.Herbivore.Bait"
+                    }
+                ],
+                "QueryTokenStream": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "AutoDescription": " ANY( GOAP.Food.Herbivore.Bait )"
+            },
+            "Trophy": {
+                "RowName": "Calf_Head"
+            },
+            "Loot": {
+                "RowName": "Calf_Carcass_Loot"
+            },
+            "Hitable": {
+                "RowName": "AnimalBones_Medium"
+            },
+            "bUseSurvivalCharacterState": true,
+            "BestiaryGroup": {
+                "RowName": "Cattle"
+            }
+        },
+        {
+            "Name": "LavaFlyer_PlayerFriendly",
+            "ActorClass": "/Game/BP/AI/Basic/Kea/BP_NPC_LavaFlyer_Character.BP_NPC_LavaFlyer_Character_C",
+            "ControllerClass": "/Script/Icarus.IcarusNPCController",
+            "CreatureType": {
+                "RowName": "LavaFlyer"
+            },
+            "Descriptors": [
+                {
+                    "RowName": "Aggressive",
+                    "DataTableName": "D_AIDescriptors"
+                }
+            ],
+            "DefaultNavigationFilter": "BlueprintGeneratedClass'/Game/BP/AI/GOAP/Misc/NavFilter_DefaultAI.NavFilter_DefaultAI_C'",
+            "Relationships": {
+                "RowName": "Player"
+            },
+            "AIGrowth": {
+                "RowName": "LavaFlyer_Player"
+            },
+            "MovementMapping": {
+                "Stationary": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 2048,
+                    "BrakingDeceleration": 800,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Sneak": {
+                    "MaxWalkSpeed": 0.33000001311302185,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 300,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Walk": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 2048,
+                    "BrakingDeceleration": 2048,
+                    "RotationRate": 175,
+                    "MaxSwimSpeed": 1
+                },
+                "Jog": {
+                    "MaxWalkSpeed": 2,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 300,
+                    "BrakingDeceleration": 800,
+                    "RotationRate": 100,
+                    "MaxSwimSpeed": 1
+                },
+                "Run": {
+                    "MaxWalkSpeed": 2,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 800,
+                    "BrakingDeceleration": 900,
+                    "RotationRate": 800,
+                    "MaxSwimSpeed": 1
+                },
+                "Sprint": {
+                    "MaxWalkSpeed": 5,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 900,
+                    "BrakingDeceleration": 500,
+                    "RotationRate": 300,
+                    "MaxSwimSpeed": 1
+                },
+                "Attacking": {
+                    "MaxWalkSpeed": 6,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 64,
+                    "MaxAcceleration": 900,
+                    "BrakingDeceleration": 50000,
+                    "RotationRate": 300,
+                    "MaxSwimSpeed": 1
+                },
+                "Undefined": {
+                    "MaxWalkSpeed": 1,
+                    "GroundFriction": 8,
+                    "BrakingFriction": 2,
+                    "MaxAcceleration": 2048,
+                    "BrakingDeceleration": 2048,
+                    "RotationRate": 175,
+                    "MaxSwimSpeed": 1
+                }
+            },
+            "CriticalHitBones": [
+                {
+                    "BoneName": "RigHead",
+                    "AffectsChildren": true
+                }
+            ],
+            "Audio": {
+                "RowName": "LavaFlyer"
+            },
+            "CollisionHitEventBones": [
+                "Body"
+            ],
+            "ValidBaitTagQuery": {
+                "TagDictionary": [
+                    {
+                        "TagName": "GOAP.Food.Carnivore.Bait"
+                    }
+                ],
+                "QueryTokenStream": [
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait )"
+            },
+            "Loot": {
+                "RowName": "Lava_Flier_Carcass_Loot"
+            },
+            "BestiaryGroup": {
+                "RowName": "Lava_Hunter_Spawns"
             },
             "Metadata": {
                 "RequiredFeatureLevel": {
